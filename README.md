@@ -9,7 +9,7 @@ Used Datasets, Embeddings and Trained Models available [here](https://www.dropbo
 
 ## Paper
 The Paper can be found [here](./Paper/Bachelorarbeit_Christoph_Meyer.pdf)
-The Slides of a presentation of the topic are available [here](./Paper/Antrittsvortrag_Christoph Meyer.pdf)
+The Slides of a presentation of the topic are available [here](./Paper/Antrittsvortrag_Christoph_Meyer.pdf)
 A table with all results of the evaluation is available [here](./Paper/Evaluation.pdf)
 
 ## About me
