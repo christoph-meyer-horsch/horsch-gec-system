@@ -8,9 +8,10 @@ The models that have been used in this paper can be found in the GEC-folder. Pre
 Used Datasets, Embeddings and Trained Models available [here](https://www.dropbox.com/sh/638yf0xstkhmowe/AADinNtv9yIFwiKFQI3vvi8Qa?dl=0)
 
 ## Paper
-The Paper can be found [here](./Paper/Bachelorarbeit_Christoph_Meyer.pdf)
-The Slides of a presentation of the topic are available [here](./Paper/Antrittsvortrag_Christoph_Meyer.pdf)
-A table with all results of the evaluation is available [here](./Paper/Evaluation.pdf)
+The Paper can be found [here](./Paper/Bachelorarbeit_Christoph_Meyer.pdf).<br>
+The Slides of a presentation of the topic are available [here](./Paper/Antrittsvortrag_Christoph_Meyer.pdf).<br>
+A table with all results of the evaluation is available [here](./Paper/Evaluation.pdf).<br>
+
 
 ## About me
 
