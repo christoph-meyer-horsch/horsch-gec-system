@@ -1,0 +1,2863 @@
+S The user always retains absolute control data.
+A 6 6|||M:OTHER|||over his|||REQUIRED|||-NONE-|||0
+
+S Alternatively, two different fertiliser components can be applied with the double hopper with the single grain sowing bar via the under-foot fertiliser application device.
+
+S Just as with seeding technology and crop protection, a tillage solution from HORSCH help you achieve your individual requirements and goals of arable farming in the best possible way.
+A 8 9|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOUN:NUM|||solutions|||REQUIRED|||-NONE-|||0
+A 15 15|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
+A 21 22|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+
+S In addition, integration In of a consultant or contractors into the data flow is possible, for example.
+A 2 2|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN:NUM|||contractor|||REQUIRED|||-NONE-|||0
+A 14 14|||M:ADV|||also|||REQUIRED|||-NONE-|||0
+
+S The Pronto 6 body AS shows its advantages to the full, espcially on contract farms and farms with a long distancing between areas.
+A 3 4|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 11 12|||R:SPELL|||especially|||REQUIRED|||-NONE-|||0
+A 18 19|||U:DET||||||REQUIRED|||-NONE-|||0
+A 20 21|||R:MORPH|||distances|||REQUIRED|||-NONE-|||0
+
+S place the highest demands on our cultivators and disc harrows.
+A 0 0|||M:PRON|||We|||REQUIRED|||-NONE-|||0
+
+S In were versions tank is equipped with the proven HORSCH metering technology and can reliably , precisely operate the Maestro's under-foot fertiliser system , or seeding bar.
+A 1 2|||R:OTHER|||both|||REQUIRED|||-NONE-|||0
+A 3 3|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 23 24|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S this being an remarkable step towards standardizing the often company-specific developments in data exchange between machines and software products from different him manufacturers.
+A 0 1|||R:ORTH|||This|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:FORM|||is|||REQUIRED|||-NONE-|||0
+A 3 4|||R:ADJ|||important|||REQUIRED|||-NONE-|||0
+A 21 22|||U:PRON||||||REQUIRED|||-NONE-|||0
+
+S The Pronto 6 / 8 / 9 NT enables mulches and direct sowing with the proven TurboDisc in so compact design without seed wagons.
+A 9 10|||R:MORPH|||mulch|||REQUIRED|||-NONE-|||0
+A 18 19|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+
+S This applies to I research, design and , developments as and as to assembly, service and consulting.
+A 3 4|||U:PRON||||||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN:NUM|||development|||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||well|||REQUIRED|||-NONE-|||0
+
+S The in-line body the Maestro DV has a wide, stable parallelogram and is were equipped , springs for coulter pressure generation as standard.
+A 3 3|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 13 14|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||with|||REQUIRED|||-NONE-|||0
+
+S Thanks to working speeds of up to 20 km/h, a high area output can be achieved even with smaller working widths.
+
+S HORSCH is part from this development towards a simple and safe digital next for agriculture.
+A 3 4|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||future|||REQUIRED|||-NONE-|||0
+
+S HORSCH seed drills are compatible with CLAAS Telematics.
+
+S The corrugated ech ? / cutting discs cut organic material and the soil only in the seed rows.
+A 3 4|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 11 11|||M:VERB|||work|||REQUIRED|||-NONE-|||0
+
+S We take the time since extensive studies, go once again with the technology also on our own farms with over 6,000 ha in the field - to experience for ourselves what we are developing and what we were talking about.
+A 4 5|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+A 37 38|||R:VERB:TENSE|||are|||REQUIRED|||-NONE-|||0
+
+S Coulter pressures of up to 260 kg per row which thus be achieved mechanically.
+A 9 10|||R:OTHER|||can|||REQUIRED|||-NONE-|||0
+
+S As soon as a HORSCH machine is connected for a to CLAAS tractor, data on application rates, areas worked and sowing quality transmitted the CLAAS Telematics module via the ISOBUS.
+A 8 9|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 9 11|||R:WO|||to a|||REQUIRED|||-NONE-|||0
+A 22 22|||M:VERB:TENSE|||are|||REQUIRED|||-NONE-|||0
+A 23 23|||M:PREP|||to|||REQUIRED|||-NONE-|||0
+
+S This results a very low already tractive force requirement.
+A 2 2|||M:PREP|||in|||REQUIRED|||-NONE-|||0
+A 5 6|||U:ADV||||||REQUIRED|||-NONE-|||0
+
+S Optionally, machines can be equipped with hydraulic cylinders for coulter pressure generation.
+A 1 1|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 1 2|||R:NOUN:NUM|||machine|||REQUIRED|||-NONE-|||0
+
+S This information is transmitted to server together with the tractor data and the position.
+A 5 5|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S Thus, with the innovative coulter pressure control system AutoForce, the coulter pressure settings are made up to a maximum of 350 kg per row.
+
+S The generously dimensioned seed hopper (4 000 l) guarantees short downtimes allows sufficient cutting disc pressure even without additional ballasting.
+A 11 11|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S We take responsibilities in agriculture and sharing ' the feelings of our customers - this is what we passionate about.
+A 2 3|||R:NOUN:NUM|||responsibility|||REQUIRED|||-NONE-|||0
+A 6 8|||R:OTHER|||share|||REQUIRED|||-NONE-|||0
+A 18 18|||M:VERB|||are|||REQUIRED|||-NONE-|||0
+
+S In way, the customer canned monitor his tractor but also his HORSCH seed drill or HORSCH Maestro in the CLAAS Telematics portal.
+A 1 1|||M:DET|||this|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:TENSE|||can|||REQUIRED|||-NONE-|||0
+A 6 6|||M:ADV|||not only|||REQUIRED|||-NONE-|||0
+
+S and The weight of the seed wagon is used to generate coulter pressure across full width of the machine, relieving the load the seed wagon wheels when sowing.
+A 0 1|||U:CONJ||||||REQUIRED|||-NONE-|||0
+A 14 14|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 22 22|||M:PREP|||on|||REQUIRED|||-NONE-|||0
+
+S This more transmits via the sophisticated machine hydraulics.
+A 1 2|||R:OTHER|||is|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||transmitted|||REQUIRED|||-NONE-|||0
+
+S The Maestro is universally suitable for wide range of crops due to its precise grain separation.
+A 6 6|||M:DET|||a|||REQUIRED|||-NONE-|||0
+
+S Seeding performance and process datum displayed and evaluated in tables for or maps.
+A 4 5|||R:OTHER|||data are|||REQUIRED|||-NONE-|||0
+A 10 11|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S The agricultural any origin making HORSCH and its products your best optimal solution soil cultivation.
+A 2 3|||U:DET||||||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:FORM|||makes|||REQUIRED|||-NONE-|||0
+A 10 11|||U:ADJ||||||REQUIRED|||-NONE-|||0
+A 13 13|||M:PREP|||in|||REQUIRED|||-NONE-|||0
+
+S This created a manufacturer-independent documentations analysis option.
+A 1 2|||R:VERB:TENSE|||creates|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOUN:NUM|||documentation|||REQUIRED|||-NONE-|||0
+A 5 5|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S If necessary, additional weights of for 400 kg can be mounted by the frame.
+A 5 6|||R:PREP|||up|||REQUIRED|||-NONE-|||0
+A 6 6|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
+A 6 6|||M:OTHER|||1|||REQUIRED|||-NONE-|||0
+A 11 12|||R:PREP|||on|||REQUIRED|||-NONE-|||0
+
+S AutoSelect HORSCH proprietary nozzle circuit.
+A 1 1|||M:OTHER|||is a|||REQUIRED|||-NONE-|||0
+
+S The it proven seed wagon concept is still unique and unmatched at design.
+A 1 2|||U:PRON||||||REQUIRED|||-NONE-|||0
+A 11 12|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+A 12 12|||M:DET|||this|||REQUIRED|||-NONE-|||0
+
+S Due - to flexible frame parts the seeding unit has an exact ground adaptation.
+A 1 2|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S all machines can be perfectly adapted to their requirements (soils, climate, a farm sizes...).
+A 0 1|||R:ORTH|||All|||REQUIRED|||-NONE-|||0
+A 7 8|||R:DET|||your|||REQUIRED|||-NONE-|||0
+A 11 12|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S In Besides to nozzles and the pressure range, farmer can also set the target area distance.
+A 1 2|||R:NOUN|||addition|||REQUIRED|||-NONE-|||0
+A 3 3|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOUN:NUM|||nozzle|||REQUIRED|||-NONE-|||0
+A 8 8|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S The two new HORSCH metering Systems offer the greatest possible individualization and optimal adaptation possibility for farm-specific conditions.
+A 5 6|||R:ORTH|||systems|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOUN:NUM|||possibilities|||REQUIRED|||-NONE-|||0
+A 15 16|||R:PREP|||to|||REQUIRED|||-NONE-|||0
+
+S Multiple nozzle carriers and a 25 cm pitch on the nozzle bar offer a wide range of possibilities.
+
+S The new generation about AirVac and AirSpeed dosing units are basically very similar in design and according to the same dosing principle.
+A 3 4|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 16 16|||M:NOUN|||work|||REQUIRED|||-NONE-|||0
+
+S The Joker is ideally suited for shallow be stubble cultivation for germination stimulation of volunteer cereals, interruption of which capillarity, mixing in of crop residues and for shallow seedbed preparation.
+A 7 8|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 18 19|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S With the double tank version (5 000 l), seed and fertiliser (G to F) are be applied a simultaneously.
+A 12 13|||R:OTHER|||&|||REQUIRED|||-NONE-|||0
+A 14 15|||R:VERB:TENSE|||can|||REQUIRED|||-NONE-|||0
+A 17 18|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S It produces a high percentage of fine soil in the germination horizon and is not susceptible for disturbance even when exposed to high amounts of straw, organic fertilizers or catch crops.
+A 16 17|||R:PREP|||to|||REQUIRED|||-NONE-|||0
+
+S They are universally suitable for many crops for the precise grain separation.
+A 8 9|||R:OTHER|||very|||REQUIRED|||-NONE-|||0
+
+S In addition, a micro-granulate device is available to apply a from further component.
+A 10 11|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S Individual or different nozzle positions grow become combined in profiles.
+A 5 6|||R:VERB|||can|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB|||be|||REQUIRED|||-NONE-|||0
+A 8 9|||R:PREP|||into|||REQUIRED|||-NONE-|||0
+
+S The short disc harrow available can as Joker CT 3-point linkage.
+A 4 4|||M:VERB|||is|||REQUIRED|||-NONE-|||0
+A 5 6|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
+A 9 9|||M:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S With metering discs, corn, sunflowers, sugared beets, soybeans and other types of beans as well rapeseed and sorghum can be reliably separated.
+A 1 1|||M:ADJ|||different|||REQUIRED|||-NONE-|||0
+A 5 6|||R:MORPH|||sugar|||REQUIRED|||-NONE-|||0
+A 15 15|||M:PREP|||as|||REQUIRED|||-NONE-|||0
+
+S The micro-granulate device can combined both that the double and single tank versions.
+A 4 4|||M:VERB:TENSE|||be|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PREP|||with|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S Up to 16 profiles was controlled.
+A 4 5|||R:VERB:TENSE|||can be|||REQUIRED|||-NONE-|||0
+
+S High area outputs are possible above all due to work speeds of up to 20 km/h.
+A 9 10|||R:VERB:FORM|||working|||REQUIRED|||-NONE-|||0
+
+S the The AirVac systems being based on the principle of vacuum singulation, which the seed is sucked onto a perforated disc.
+A 0 1|||U:DET||||||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOUN:NUM|||system|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:FORM|||is|||REQUIRED|||-NONE-|||0
+A 12 12|||M:PREP|||in|||REQUIRED|||-NONE-|||0
+
+S In way, to three components (seed, fertiliser, micro-granulate) can be metered about one operation.
+A 1 1|||M:DET|||this|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PART|||up|||REQUIRED|||-NONE-|||0
+A 11 12|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+
+S This ensured that it the optimum pressure range for the nozzle or nozzle combination used and its optimum target area distance are always guaranteed when the driving speed changed.
+A 1 2|||R:VERB:TENSE|||ensures|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PRON||||||REQUIRED|||-NONE-|||0
+A 28 28|||M:VERB|||is|||REQUIRED|||-NONE-|||0
+
+S The Pronto NT a compact universal seed drill with Pronto system (cultivation, sowing and pressing) for mulch and direct sowing.
+A 3 3|||M:VERB|||is|||REQUIRED|||-NONE-|||0
+
+S AirSpeed system works according to the overpressure principle, in which the grains are pressed against in the perforated disc.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 15 16|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S The machines the futures think for themselves and HORSCH Intelligence makes it possible.
+A 2 2|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOUN:NUM|||future|||REQUIRED|||-NONE-|||0
+
+S As an additional option to the Joker 3, 3.5 and 4 CT , rigid, there , the single-bar deep loosener Mono TG.
+A 12 13|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||is|||REQUIRED|||-NONE-|||0
+
+S Especially in no-till conditions, the tooled combination of the Wellsech For cutting disc and the proven TurboDisc coulter has decisive advantages.
+A 5 6|||R:MORPH|||tool|||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||/|||REQUIRED|||-NONE-|||0
+
+S both feeders, the grains pass to a separator which ensures that double occupancy is eliminated.
+A 0 0|||M:PREP|||In|||REQUIRED|||-NONE-|||0
+A 5 6|||R:PREP|||through|||REQUIRED|||-NONE-|||0
+
+S It is particularly suitable on heavy sites place the soil needs be deeply loosened but you only want to mix in crop residues shallowly.
+A 7 8|||R:OTHER|||where|||REQUIRED|||-NONE-|||0
+A 11 11|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
+
+S Soil is only tilled where seed is subsequently the placed.
+A 8 9|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S With intelligent solutions software and electronics, HORSCH machines workplace even more efficiently and help you save been money and nerves.
+A 3 3|||M:PREP|||through|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB|||work|||REQUIRED|||-NONE-|||0
+A 16 17|||U:VERB||||||REQUIRED|||-NONE-|||0
+
+S The roller goes over the Today completes working width.
+A 5 6|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 6 7|||R:MORPH|||complete|||REQUIRED|||-NONE-|||0
+
+S HORSCH technology is always equipped ISOBUS standard.
+A 5 5|||M:OTHER|||with the|||REQUIRED|||-NONE-|||0
+
+S The special feature of this particular component is that it does not s have to am replaced bit when changing the crop and that no adjustment work needs for be carried out on it by the driver.
+A 12 13|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
+A 15 16|||R:VERB:TENSE|||be|||REQUIRED|||-NONE-|||0
+A 17 18|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 28 29|||R:VERB:TENSE|||to|||REQUIRED|||-NONE-|||0
+
+S This not only meaning that every HORSCH machined can be controlled with some ISOBUS terminal.
+A 3 4|||R:VERB:FORM|||means|||REQUIRED|||-NONE-|||0
+A 7 8|||R:MORPH|||machine|||REQUIRED|||-NONE-|||0
+A 12 13|||R:DET|||any|||REQUIRED|||-NONE-|||0
+
+S It was a diameter of 300 mm 6 knives per roller for a very high speed, to additionally improves the shredding effect.
+A 1 2|||R:VERB|||has|||REQUIRED|||-NONE-|||0
+A 7 7|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+A 16 17|||R:OTHER|||which|||REQUIRED|||-NONE-|||0
+
+S HORSCH TurboDisc coulters effectively adapt for uneven ground, ensure coulter pressure , precise seed placement.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 5 6|||R:PREP|||to|||REQUIRED|||-NONE-|||0
+A 9 9|||M:ADJ|||high|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+
+S The blades are arranged at slight angle constant force distribution.
+A 5 5|||M:DET|||a|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S The contour the separating this has been optimised n't to ensure reliable separation for crops.
+A 2 2|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||stop|||REQUIRED|||-NONE-|||0
+A 8 9|||U:CONTR||||||REQUIRED|||-NONE-|||0
+A 14 14|||M:DET|||all|||REQUIRED|||-NONE-|||0
+
+S For maximum stability, the blades rest against the rotor.
+
+S The transfer of the seed from the metering unit into the soil is the fundamental difference in the two new generations of metering units: After singling, the seed in the AirVac system am fed into the furrow bottom by means a downpipe and pressed by the catcher roller as required.
+A 32 33|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
+A 40 40|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 44 44|||M:PART|||on|||REQUIRED|||-NONE-|||0
+
+S In addition, every HORSCH machine with a job computer is capable of executing functioned such as SectionControl, VariableRate or job processing with TaskController as soon as The necessary licenses have been activated.
+A 13 14|||R:MORPH|||functions|||REQUIRED|||-NONE-|||0
+A 22 22|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 26 27|||R:ORTH|||the|||REQUIRED|||-NONE-|||0
+
+S Two types of PPF system are available for did spreads the fertiliser.
+A 3 3|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 8 10|||R:VERB:TENSE|||spreading|||REQUIRED|||-NONE-|||0
+
+S The whole system remain hydraulically preloaded with 100 bar . and hydraulically protected against overload.
+A 3 4|||R:VERB|||is|||REQUIRED|||-NONE-|||0
+A 7 7|||M:OTHER|||up to|||REQUIRED|||-NONE-|||0
+A 9 10|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S The ISOBUS SectionControl function enables automatic sectioning control.
+A 6 7|||R:MORPH|||section|||REQUIRED|||-NONE-|||0
+
+S With the AirSpeed system, the separated grains are captured by an air stream, accelerated and shot with the air stream passing the shot tube into the ground.
+A 20 21|||R:OTHER|||through|||REQUIRED|||-NONE-|||0
+
+S The new pre-implement is perfect, for example, for shredding catch crops in spring autumn and for ultra-flat stubble know cultivation in rape, sunflowers or silage maize.
+A 13 13|||M:CONJ|||or|||REQUIRED|||-NONE-|||0
+A 18 19|||U:VERB||||||REQUIRED|||-NONE-|||0
+
+S They 's intercepted embedded by the fixed get catching roller.
+A 1 2|||R:CONTR|||are|||REQUIRED|||-NONE-|||0
+A 3 3|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+A 7 8|||U:VERB||||||REQUIRED|||-NONE-|||0
+
+S The knife roller is also suitable for corn borer control in the silage maize stubble.
+
+S On the one hand, the fertiliser can be applied together with the seed by the a TurboDisc coulters real or, as an equipment option, separately depth-adjustable fertiliser discs among the seed rows.
+A 15 16|||U:DET||||||REQUIRED|||-NONE-|||0
+A 18 19|||U:ADJ||||||REQUIRED|||-NONE-|||0
+A 24 24|||M:PREP|||by|||REQUIRED|||-NONE-|||0
+A 28 29|||R:PREP|||between|||REQUIRED|||-NONE-|||0
+
+S the current position of the machine so been determined via GPS.
+A 0 1|||R:ORTH|||The|||REQUIRED|||-NONE-|||0
+A 6 8|||R:OTHER|||is|||REQUIRED|||-NONE-|||0
+
+S With and metering units, the grains pass through a grain sensor in the drop or that shot tube to optimum monitoring of the sowing success.
+A 1 2|||R:OTHER|||both|||REQUIRED|||-NONE-|||0
+A 15 16|||U:DET||||||REQUIRED|||-NONE-|||0
+A 18 19|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S The sensor's measuring technology is capable of counting grains, determining distances between grains and thus also transmitting information to the driver with regard to double and missed grains.
+A 26 27|||R:MORPH|||missing|||REQUIRED|||-NONE-|||0
+
+S The Terrano FX is a compact universal cultivator which, thanks to the use of different coulter systems, is suitable both for shallow, all-over stubble cultivation , for intensive loosening and mixing at working depths of 5 to 30 cm.
+A 25 26|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+
+S At the edge of the field, at the headland or in case of obstacles, part-width sections (single row shut-off only with Maestro) or would the entire working widths are automatically shut off, thus avoiding overlaps.
+A 23 24|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
+A 27 28|||R:NOUN:NUM|||width|||REQUIRED|||-NONE-|||0
+
+S Due to its 3-bar, stable frame construction with high clearance, the Terrano FX homogeneously mixes in crop residues even under diffucult conditions.
+A 20 21|||R:SPELL|||difficult|||REQUIRED|||-NONE-|||0
+
+S Due the direct connection between seed wagon and sowing unit you have high coulter pressure the concords cutting discs and fertiliser coulters even without additional ballast.
+A 1 1|||M:PREP|||to|||REQUIRED|||-NONE-|||0
+A 12 12|||M:DET|||a|||REQUIRED|||-NONE-|||0
+A 15 15|||M:PREP|||on|||REQUIRED|||-NONE-|||0
+A 16 17|||U:NOUN||||||REQUIRED|||-NONE-|||0
+
+S With the Serto SC, HORSCH offers a compacts seeding technology 10 and 12 m widths without pre-moulds.
+A 7 8|||R:MORPH|||compact|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PREP|||with|||REQUIRED|||-NONE-|||0
+A 14 14|||M:VERB|||working|||REQUIRED|||-NONE-|||0
+
+S As the ISOBUS TaskController, data can be the transferring easily from the PC to the terminal.
+A 0 1|||R:PREP|||With|||REQUIRED|||-NONE-|||0
+A 7 8|||U:DET||||||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||transferred|||REQUIRED|||-NONE-|||0
+
+S In the same way it is possible transfer application rates, sown area and others data recorded during sows from the terminal to the PC and to document them.
+A 7 7|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
+A 13 14|||R:MORPH|||other|||REQUIRED|||-NONE-|||0
+A 17 18|||R:VERB:FORM|||sowing|||REQUIRED|||-NONE-|||0
+
+S The transmitted values of the singling accuracy are clearly displayed the terminals the machine and additionally increase a safety during sowing.
+A 10 10|||M:PREP|||on|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOUN:NUM|||terminal|||REQUIRED|||-NONE-|||0
+A 12 12|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 17 18|||R:DET|||the|||REQUIRED|||-NONE-|||0
+
+S longer soil retention was time in the Terrano FX compared to 2-bar models and the special shape 11 the coulters ensure an optimised mixing effect.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 3 4|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 17 18|||R:OTHER|||of|||REQUIRED|||-NONE-|||0
+
+S Its central features are a in sophisticated folding technique and continuous tyre packer in combination write heavy double disc coulter.
+A 5 6|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 10 10|||M:DET|||a|||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||with|||REQUIRED|||-NONE-|||0
+A 16 16|||M:DET|||a|||REQUIRED|||-NONE-|||0
+
+S facilitates the maintenance of the land using planning index.
+A 0 0|||M:DET|||This|||REQUIRED|||-NONE-|||0
+A 6 7|||R:MORPH|||use|||REQUIRED|||-NONE-|||0
+
+S Similar to the proven Pronto system, two sows coulters knew 16.6 cm row spacing become run behind each tyre.
+A 7 8|||R:VERB:FORM|||sowing|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||with|||REQUIRED|||-NONE-|||0
+A 14 15|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
+
+S Uniform levelling and deeps reconsolidation round off the working quality Terrano and achieve an optimum seedbed beggining every pass.
+A 3 4|||R:MORPH|||deep|||REQUIRED|||-NONE-|||0
+A 10 10|||M:OTHER|||of the|||REQUIRED|||-NONE-|||0
+A 16 17|||R:OTHER|||with|||REQUIRED|||-NONE-|||0
+
+S Orders could be created processing via the integrated ordered management.
+A 1 2|||R:VERB:TENSE|||can|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||and processed|||REQUIRED|||-NONE-|||0
+A 8 9|||R:MORPH|||order|||REQUIRED|||-NONE-|||0
+
+S The new generations in AirVac and AirSpeed feeders place electrically driven as standard and can was controlled individually for each row.
+A 3 4|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||are|||REQUIRED|||-NONE-|||0
+A 15 16|||R:VERB:FORM|||be|||REQUIRED|||-NONE-|||0
+
+S This technology allowing the familiar functions of single row shutdown, SectionControl, VariableRate and tramline control.
+A 2 3|||R:VERB:FORM|||allows|||REQUIRED|||-NONE-|||0
+
+S ensure uniform depth placement, the Serto 's a packer for levelling job reconsolidation.
+A 0 0|||M:VERB:FORM|||To|||REQUIRED|||-NONE-|||0
+A 6 7|||R:CONTR|||has|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+
+S DLG Fokus Test already certified to Terrano , FX's absolute lightness 2003.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 11 11|||M:PREP|||in|||REQUIRED|||-NONE-|||0
+
+S For VariableRate the metering systems are designed in such a way that the seed . rate be changed each individual row.
+A 14 15|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 16 16|||M:VERB:TENSE|||can|||REQUIRED|||-NONE-|||0
+A 18 18|||M:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S The new HORSCH PowerDisc coulter is perfectly suited for difficult conditions and ensures reliable seed placement even in coarse seedbeds with coulter pressures of up to 150 kg , per individual row.
+A 28 29|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S ISOBUS VariableRate function enables site-specific application of seed or ` that fertiliser.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 8 9|||R:CONJ|||and|||REQUIRED|||-NONE-|||0
+A 9 10|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 10 11|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S With the best work quality, the Terrano FX needs of 20% less diesel than the average consumption off all test candidates.
+A 9 10|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 17 18|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S It has a high long-lasting stabilities due to very large dimensioned bearing and construction.
+A 4 4|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOUN:INFL|||stability|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOUN:NUM|||bearings|||REQUIRED|||-NONE-|||0
+A 13 13|||M:DET|||its|||REQUIRED|||-NONE-|||0
+
+S Here, the experience gained of the Maestro single grains technologies flowed into the design.
+A 4 5|||R:PREP|||from|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN:NUM|||grain|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOUN:NUM|||technology|||REQUIRED|||-NONE-|||0
+
+S In the case do of at tramline control, it is possible to individually adjust the sowing rate in the rows to the left and right of And tramline.
+A 3 4|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 5 6|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 26 27|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+
+S With advanced features, full use can be made of all the measures takes to increase precision during sowing.
+A 1 1|||M:DET|||these|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB:FORM|||taken|||REQUIRED|||-NONE-|||0
+
+S The total tank volume to the Serto is 6 000 litres divided 60 : 40.
+A 4 5|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S Different coulter systems, which have changed quickly and have been optimised for specific areas of application (shallow, full-surface, deep, intensive mixing), give the Terrano FX a wide range in applications in terms of both working depth and working quality.
+A 4 5|||R:VERB:TENSE|||can be|||REQUIRED|||-NONE-|||0
+A 28 29|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S In this way, his optimum amount of , fertiliser and seed be applied each sub-area within a field using a suitable application map.
+A 3 4|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 11 11|||M:VERB:TENSE|||can|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PREP|||to|||REQUIRED|||-NONE-|||0
+
+S Just as with soil cultivation and Horsch seeding technology, the crop protection solutions from HORSCH you to achieve your individual requirements and goals in arable farming at the best possible way.
+A 15 15|||M:VERB|||help|||REQUIRED|||-NONE-|||0
+A 26 27|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+
+S when using a HORSCH Touch 800 ? 1200 terminal, the MultiControl function also be used.
+A 0 1|||R:ORTH|||When|||REQUIRED|||-NONE-|||0
+A 6 7|||R:PUNCT|||/|||REQUIRED|||-NONE-|||0
+A 12 12|||M:VERB:TENSE|||can|||REQUIRED|||-NONE-|||0
+
+S We place the highest demands on our Leeb sprayers, they are self-propelled cropping protection sprayers or trailed sprayers.
+A 9 9|||M:PREP|||whether|||REQUIRED|||-NONE-|||0
+A 12 13|||R:MORPH|||crop|||REQUIRED|||-NONE-|||0
+
+S This means that either 6 000 litres of seed can be spread or seed and fertiliser in combination with a tank layout of 3 600 litres at the front and 2 400 litres in at rear.
+A 33 34|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 35 35|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S This applies to them research, design and development as well as to assembly, service and consulting.
+A 3 4|||U:PRON||||||REQUIRED|||-NONE-|||0
+
+S This very Terrano FX is guided precisely in depth to the tractor hydraulics but the packer roller.
+A 0 2|||R:OTHER|||The|||REQUIRED|||-NONE-|||0
+A 9 10|||R:PREP|||by|||REQUIRED|||-NONE-|||0
+A 13 14|||R:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S For a third component was a their optional 300 litre tank for micro granules.
+A 4 5|||R:OTHER|||there is|||REQUIRED|||-NONE-|||0
+A 5 7|||R:DET|||an|||REQUIRED|||-NONE-|||0
+
+S If SectionControl 's activated, MultiControl allows the independent switching North and off of seed and fertiliser.
+A 2 3|||R:NOUN:POSS|||is|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||on|||REQUIRED|||-NONE-|||0
+
+S The depth is adjusted by means of the prove AluClips, which limit the lowering depth of the cultivator frame into relation to the packer.
+A 8 9|||R:MORPH|||proven|||REQUIRED|||-NONE-|||0
+A 19 20|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+
+S Track eradicator tines or corrugate disc track eradicators are available effective loosening of the tracks of the tractor.
+A 4 5|||R:VERB:FORM|||corrugated|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S If the sowing is carried out site-specifically with VariableRate, MultiControl varies the amount of fertiliser and seed independently of each other.
+
+S We take the time for extensive studies, go once again with the technology also our own farms with over 've 6,000 ha of in the field - to experience for ourselves we are developing and what we are talking about.
+A 14 14|||M:PREP|||on|||REQUIRED|||-NONE-|||0
+A 19 20|||U:CONTR||||||REQUIRED|||-NONE-|||0
+A 22 23|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 31 31|||M:PRON|||what|||REQUIRED|||-NONE-|||0
+
+S The paired corrugated discs are ideal, on heavy soils, as no coarse structures are broken of the seedbed and the tolerance for crop residue is particularly high.
+A 6 6|||M:ADV|||especially|||REQUIRED|||-NONE-|||0
+A 15 15|||M:PREP|||out|||REQUIRED|||-NONE-|||0
+A 23 24|||R:NOUN:NUM|||residues|||REQUIRED|||-NONE-|||0
+
+S robust TerraGrip tine ensures constant coulter guidances car the desired working depth.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOUN:INFL|||guidance|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||at|||REQUIRED|||-NONE-|||0
+
+S Without MultiControl, too seed or fertiliser can are switched on and off at the right time with SectionControl or seed or fertiliser can be varied with VariableRate.
+A 2 3|||R:OTHER|||either|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:TENSE|||be|||REQUIRED|||-NONE-|||0
+
+S We responsibility in agriculture and say the feelings of our costomer - this is what we are passionate about.
+A 1 1|||M:VERB|||take|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB|||share|||REQUIRED|||-NONE-|||0
+A 10 11|||R:SPELL|||customers|||REQUIRED|||-NONE-|||0
+
+S The machine is folded to a transport widths of 3 Because m at the push of a button.
+A 7 8|||R:NOUN:NUM|||width|||REQUIRED|||-NONE-|||0
+A 10 11|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S The machines of the future think for still themselves and HORSCH Intelligence make English possible.
+A 7 8|||U:ADV||||||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB:SVA|||makes|||REQUIRED|||-NONE-|||0
+A 13 14|||R:OTHER|||it|||REQUIRED|||-NONE-|||0
+
+S The coulters 's ensure intensive the gentle mixing of the soil.
+A 2 3|||U:NOUN:POSS||||||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||but|||REQUIRED|||-NONE-|||0
+
+S The country tractive power requirement is absolutely low even on light soils due to continuous packer - saves fuel.
+A 1 2|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 14 14|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 17 17|||M:DET|||this|||REQUIRED|||-NONE-|||0
+
+S Due to the optimised arrangement of the disc levelling, "straw swaths" are avoided and the surface is evenly levelled.
+
+S This agricultural origins has HORSCH , its products in plant protection your optimal solution.
+A 0 1|||R:DET|||The|||REQUIRED|||-NONE-|||0
+A 2 3|||R:NOUN:NUM|||origin|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB|||makes|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+
+S With intelligent solutions through freesoft and electronics, HORSCH machines work even efficiently you save money and nerves.
+A 4 5|||R:NOUN|||software|||REQUIRED|||-NONE-|||0
+A 11 11|||M:ADV|||more|||REQUIRED|||-NONE-|||0
+A 12 12|||M:OTHER|||and help|||REQUIRED|||-NONE-|||0
+
+S The Terrano's beam design transfers the tines' pull-in forces without loss to the packer, where they are used to deep, strip reconsolidation.
+A 18 19|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S The narrow seed hopper provides easy access to excited components allows of perfect view the machine and field.
+A 8 9|||R:OTHER|||all|||REQUIRED|||-NONE-|||0
+A 10 10|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 14 14|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S HORSCH from technology be 's always equipped with the ISOBUS standard.
+A 1 2|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 3 5|||R:VERB:TENSE|||is|||REQUIRED|||-NONE-|||0
+
+S The Terrano FM is suitable from shallow stubble cultivation to medium deep soiled cultivation, depending on the tractor power.
+A 12 13|||R:MORPH|||soil|||REQUIRED|||-NONE-|||0
+
+S All machines on This I can be perfectly adapted your requirements (soils, climate, farm sizes,....).
+A 3 4|||R:ORTH|||this|||REQUIRED|||-NONE-|||0
+A 4 5|||U:PRON||||||REQUIRED|||-NONE-|||0
+A 9 9|||M:PREP|||to|||REQUIRED|||-NONE-|||0
+
+S This not ones meant that every HORSCH machine can be controlled with any ISOBUS terminal.
+A 2 3|||R:MORPH|||only|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:TENSE|||means|||REQUIRED|||-NONE-|||0
+
+S For from power, Serto 12 SW is available of large volume seed wagons say (17 000 l).
+A 1 2|||R:OTHER|||more|||REQUIRED|||-NONE-|||0
+A 3 3|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 8 9|||R:PREP|||with|||REQUIRED|||-NONE-|||0
+A 13 14|||U:VERB||||||REQUIRED|||-NONE-|||0
+
+S It achieves an intensive of mixture due to the 4-bar structure and still remains lightly drawn a line spacing of 27 cm.
+A 4 5|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 8 9|||R:DET|||its|||REQUIRED|||-NONE-|||0
+A 16 16|||M:PREP|||with|||REQUIRED|||-NONE-|||0
+
+S In addition, every HORSCH machine with a job computer is capable of executing functions such for SectionControl, VariableRate or job processing with the TaskController as , soon as the necessary licenses have been activated.
+A 15 16|||R:PREP|||as|||REQUIRED|||-NONE-|||0
+A 25 26|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S Achieving more in the shortest I It possible time with fewer machines - thanks to this strategy, today's entrepreneurs are able to operate successfully remain competitive.
+A 5 7|||U:PRON||||||REQUIRED|||-NONE-|||0
+A 24 24|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S The Terrano FM were a large passage for blockage-free working with larger quantities of crop residues.
+A 3 4|||R:VERB|||has|||REQUIRED|||-NONE-|||0
+A 9 10|||R:MORPH|||work|||REQUIRED|||-NONE-|||0
+
+S As so manufacturer of crop protection technology, it is our goal support farmers and entrepreneurs with efficient and precise technology.
+A 1 2|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 11 11|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
+
+S Our developers do their utmost to offer right solutions for the special requirements of application technology in the crop protection sector and to design a powerful and flexible machine for a wide range about applications.
+A 7 7|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 33 34|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S It is equipped in the third generation that TerraGrip tines - these stand for precise coulter guidance through high release forces.
+A 3 4|||R:PREP|||with|||REQUIRED|||-NONE-|||0
+A 7 8|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S ISOBUS SectionControl function enables automatic section the control.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 6 7|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S The result is a new generation Leeb PT that combines driving comfort, performance maximum application efficiency.
+A 13 13|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S With the three-part tank there is a possibility made of contact fertilisation or the application of mixtures.
+A 6 7|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 8 9|||U:VERB||||||REQUIRED|||-NONE-|||0
+
+S The Serto 12 SW also relies on the PowerDisc coulter for working without pre-tools at high coulter pressure up to 150 kg.
+
+S Due to large dimensioned be pivot points they maintenance-free and such very robust.
+A 4 5|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 8 8|||M:VERB|||are|||REQUIRED|||-NONE-|||0
+A 10 11|||U:ADJ||||||REQUIRED|||-NONE-|||0
+
+S currents positioned of the machine is and determined via GPS.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 0 1|||R:MORPH|||current|||REQUIRED|||-NONE-|||0
+A 1 2|||R:MORPH|||position|||REQUIRED|||-NONE-|||0
+A 6 7|||U:CONJ||||||REQUIRED|||-NONE-|||0
+
+S The new PT leaves Nothing to of desired and offers more possibilities than ever before: more ground clearance, more driving comfort, more climbing ability, more choice in working width.
+A 4 5|||R:ORTH|||nothing|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||be|||REQUIRED|||-NONE-|||0
+A 10 10|||M:ADV|||even|||REQUIRED|||-NONE-|||0
+
+S The proven MulchMix coulter ensures an excellent mixing effecting with lowing tractive power requirements.
+A 8 9|||R:MORPH|||effect|||REQUIRED|||-NONE-|||0
+A 10 11|||R:MORPH|||low|||REQUIRED|||-NONE-|||0
+
+S In the field, the Terrano FM turns on packer, which ensures maximum soil protection at the headland.
+A 8 8|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S the edge of the field, at the headland or in cases of obstacles, part-width sections or the entire up width are automatically switched situation off, thus avoiding overlaps.
+A 0 0|||M:PREP|||At|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOUN:NUM|||case|||REQUIRED|||-NONE-|||0
+A 18 19|||R:OTHER|||working|||REQUIRED|||-NONE-|||0
+A 23 24|||U:NOUN||||||REQUIRED|||-NONE-|||0
+
+S In short, the PT offering universal limitless variability for highest demands in terms of both technologies and driving experience.
+A 4 5|||R:VERB:FORM|||offers|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||almost|||REQUIRED|||-NONE-|||0
+A 9 9|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOUN:NUM|||technology|||REQUIRED|||-NONE-|||0
+
+S Due to the hydraulic weight transfer, weight of the seed wagon is automatically transferred to that side wings so thus evenly to all seed coulters.
+A 6 6|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 15 16|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 18 19|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+
+S With the ISOBUS TaskController, data can be transferred easily paper the PC to terminal.
+A 9 10|||R:OTHER|||from|||REQUIRED|||-NONE-|||0
+A 13 13|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S HORSCH Shuttle makes him others shine.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PRON||||||REQUIRED|||-NONE-|||0
+
+S The turret chassis swings HALLS down for road traveling and swaps positions with the middle packer segment.
+A 4 5|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||transport|||REQUIRED|||-NONE-|||0
+
+S In the same way it is possible to transfer application rates, sown area and others data recorded during sow from the terminal the PC and to document them.
+A 14 15|||R:MORPH|||other|||REQUIRED|||-NONE-|||0
+A 18 19|||R:VERB:FORM|||sowing|||REQUIRED|||-NONE-|||0
+A 22 22|||M:PREP|||to|||REQUIRED|||-NONE-|||0
+
+S the one-shot process, exactly one filling is always transported to the pointing of application.
+A 0 0|||M:PREP|||In|||REQUIRED|||-NONE-|||0
+A 11 12|||R:MORPH|||point|||REQUIRED|||-NONE-|||0
+
+S The undercarriage is located centrally the machine and ensures high stability and driving comfort during transport.
+A 5 5|||M:PREP|||in|||REQUIRED|||-NONE-|||0
+
+S Depending the farm structure, the output of the crop protection sprayer increases significantly.
+A 1 1|||M:PREP|||on|||REQUIRED|||-NONE-|||0
+
+S Thus, despite seed waggon, most same pressure be applied to each individual seed coulter.
+A 2 2|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
+
+S The time of road trip and the purging process missing.
+A 3 3|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 9 9|||M:VERB|||is|||REQUIRED|||-NONE-|||0
+
+S But This facilitates the I maintenance the land use planning index.
+A 0 1|||U:CONJ||||||REQUIRED|||-NONE-|||0
+A 4 5|||U:PRON||||||REQUIRED|||-NONE-|||0
+A 6 6|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S The disc levelling system speaking maintenance-free oil bath bearing ensures uniform soil levelling even before the packer.
+A 4 5|||R:OTHER|||with|||REQUIRED|||-NONE-|||0
+
+S The large-volume pump on the shuttle ensures the transfer process within a few minutes and subsequently provides the time required for the correct, error-free flushing of the various brewing components when preparing the work next "shot".
+A 33 34|||U:NOUN||||||REQUIRED|||-NONE-|||0
+
+S Orders can be created this and processed via integrated order management.
+A 4 5|||U:DET||||||REQUIRED|||-NONE-|||0
+A 8 8|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S The rest is done on the Terrano FM by the very robust and sophisticated double RollPack packer.
+
+S Due to the . Serto concept with the continuous packer, the ease of pulling as the Serto SC - is also given here.
+A 3 4|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 15 15|||M:PREP|||with|||REQUIRED|||-NONE-|||0
+A 18 19|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S The specially arranged baffles, the sway-free attachment to the truck and the perfect balance provided by the laterally separate fresh water tanks ensure smooth, safe driving even at top speed.
+
+S Due to its stable design, it is suitable of almost all types of soil.
+A 8 9|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S The ISOBUS VariableRate function enables site-specific application I seeds and fertiliser.
+A 7 8|||R:OTHER|||of|||REQUIRED|||-NONE-|||0
+A 8 9|||R:MORPH|||seed|||REQUIRED|||-NONE-|||0
+
+S Track loosening discs out the tracks the seed wagon and ensure equal But conditioning for all PowerDisc coulters.
+A 3 3|||M:ADV|||even|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 12 13|||U:CONJ||||||REQUIRED|||-NONE-|||0
+A 13 14|||R:MORPH|||conditions|||REQUIRED|||-NONE-|||0
+
+S With attached high-pressure cleaner, dirty machines can 'm easily cleaned in field.
+A 1 1|||M:DET|||an|||REQUIRED|||-NONE-|||0
+A 7 8|||R:CONTR|||be|||REQUIRED|||-NONE-|||0
+A 11 11|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S interlock packer rings ensure goods self-cleaning.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 0 1|||R:VERB:FORM|||interlocking|||REQUIRED|||-NONE-|||0
+A 4 4|||M:ADV|||very|||REQUIRED|||-NONE-|||0
+A 4 5|||R:MORPH|||good|||REQUIRED|||-NONE-|||0
+
+S In this way, the optimum amounts of fertiliser and seed can be countries applied for each sub-area within a field using a suitable application map.
+A 5 6|||R:NOUN:NUM|||amount|||REQUIRED|||-NONE-|||0
+A 12 13|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 14 15|||R:PREP|||to|||REQUIRED|||-NONE-|||0
+
+S Work peaks to tight time frames require high impact in each individual area.
+A 2 3|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+
+S When a HORSCH Touch 800 in 1200 terminal, the MultiControl function can also be used.
+A 1 1|||M:VERB|||using|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||/|||REQUIRED|||-NONE-|||0
+
+S depth control is comfortably carried hydraulically via packer and the pendulum support wheels.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PART|||out|||REQUIRED|||-NONE-|||0
+A 7 7|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S Large field distances, highs application rates long induction again reduces the performance of the crop protection sprayer.
+A 3 4|||R:MORPH|||high|||REQUIRED|||-NONE-|||0
+A 6 6|||M:CONJ|||or|||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||times|||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB:SVA|||reduce|||REQUIRED|||-NONE-|||0
+
+S If SectionControl is to activated, MultiControl allows independents switching on and off of seeding and fertiliser.
+A 3 4|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 7 7|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 7 8|||R:MORPH|||independent|||REQUIRED|||-NONE-|||0
+A 13 14|||R:MORPH|||seed|||REQUIRED|||-NONE-|||0
+
+S This a enables uniform depth placement across between entire working width and, in combinations with the hydraulic weights transfer, creates the prerequisite for homogeneous field emergence.
+A 1 2|||U:DET||||||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOUN:NUM|||combination|||REQUIRED|||-NONE-|||0
+A 17 18|||R:NOUN:NUM|||weight|||REQUIRED|||-NONE-|||0
+
+S The proven aluminium clips (colour-coded) are clamped stumble the cylinders example for precise adjustment.
+A 7 8|||R:OTHER|||into|||REQUIRED|||-NONE-|||0
+A 10 11|||U:NOUN||||||REQUIRED|||-NONE-|||0
+
+S Unavoidable downtimes increases costs and at the same time to reducing the time for optimal application.
+A 2 3|||R:VERB:SVA|||increase|||REQUIRED|||-NONE-|||0
+A 9 11|||R:OTHER|||reduce|||REQUIRED|||-NONE-|||0
+
+S If the sow is So carried out site-specifically with VariableRate, MultiControl vary amount of fertiliser and seed independently of each other.
+A 2 3|||R:MORPH|||sowing|||REQUIRED|||-NONE-|||0
+A 4 5|||U:ADV||||||REQUIRED|||-NONE-|||0
+A 11 12|||R:VERB:SVA|||varies|||REQUIRED|||-NONE-|||0
+A 12 12|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S The HORSCH operator never lost sight of the products that have made its reputation for 30 years: the first seeding impactors have left a lasted impression.
+A 2 3|||R:OTHER|||company has|||REQUIRED|||-NONE-|||0
+A 24 25|||R:MORPH|||lasting|||REQUIRED|||-NONE-|||0
+
+S up Despite enormous working width, the Terrano FM having a transport width of metres with a frame height of 600 mm and 3.63 metres with a frame height of 750 mm.
+A 0 1|||U:ADV||||||REQUIRED|||-NONE-|||0
+A 2 2|||M:DET|||its|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||has|||REQUIRED|||-NONE-|||0
+A 13 13|||M:OTHER|||3|||REQUIRED|||-NONE-|||0
+
+S With Shuttle 8 000 L, everyone can concentrate on their core competence and the machines perform into the area of greatest strength.
+A 1 1|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 16 17|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+A 20 20|||M:DET|||their|||REQUIRED|||-NONE-|||0
+
+S Going back to the early days of the company, Michael Horsch developed and build a machine that was suitable for direct seeding.
+A 13 14|||R:VERB:TENSE|||built|||REQUIRED|||-NONE-|||0
+
+S The arguments the time were: minimise soil encroachment, promote soil life and, in the context of falling prices for agricultural products, of course, cost savings.
+A 2 2|||M:PREP|||at|||REQUIRED|||-NONE-|||0
+
+S Without MultiControl, either seed or fertiliser can be switched on and off at the right time with SectionControl seed or fertiliser days can an be varied with VariableRate.
+A 18 18|||M:CONJ|||or|||REQUIRED|||-NONE-|||0
+A 21 22|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 23 24|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S As a 365 FarmNet customer, your use the HORSCH FillAssist function in your 365 App.
+A 5 6|||R:PRON|||you|||REQUIRED|||-NONE-|||0
+A 6 6|||M:VERB:TENSE|||can|||REQUIRED|||-NONE-|||0
+
+S With the opening of the Eastern markets for the 1990s, there was suddenly large market to no-till technology.
+A 7 8|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+A 13 13|||M:DET|||a|||REQUIRED|||-NONE-|||0
+A 15 16|||R:PART|||for|||REQUIRED|||-NONE-|||0
+
+S While the shuttle currently increases existing capacities in farms with highest workload peaks, than future it will take on leading role in crop protection.
+A 10 11|||R:ADJ:FORM|||high|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PREP|||in|||REQUIRED|||-NONE-|||0
+A 13 14|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 19 19|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S The different lie a of third generation TerraGrip tines.
+A 1 2|||R:MORPH|||differences|||REQUIRED|||-NONE-|||0
+A 3 4|||U:DET||||||REQUIRED|||-NONE-|||0
+A 4 5|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+A 5 5|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S The introduction of autonomous crop protection sprayers in segregated area away from public roads and busy infrastructure has significantly hurdles to overcome than the necessary feed ring solution.
+A 9 10|||R:NOUN:NUM|||areas|||REQUIRED|||-NONE-|||0
+A 19 19|||M:ADJ|||more|||REQUIRED|||-NONE-|||0
+
+S The her 3 m version tines with a passage of 60 cm, the 3.63 m version has tines with a passage of 75 cm.
+A 1 2|||U:DET||||||REQUIRED|||-NONE-|||0
+A 5 5|||M:VERB|||has|||REQUIRED|||-NONE-|||0
+
+S However, for the large areas in east, . the PTO-driven technology were not for applicable.
+A 6 6|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 11 12|||R:VERB:SVA|||was|||REQUIRED|||-NONE-|||0
+A 13 14|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S The shuttle is the as first practical interface from the human-controlled to computer-controlled part of plant protection.
+A 4 5|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 12 12|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S As soon as a planned crop protection do measure is called up in the app, a required agent quantities and can the required number of tank fillings for the job are calculated depending on the tank size of your crop protection sprayer.
+A 7 8|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
+A 15 16|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 20 21|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
+
+S The HORSCH Shuttle convinces with its compact design, high impact force during filling in the field and Although precise metering.
+A 17 18|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S As a result, the tines have different releasing forces - 630 kg for the be 3 m version with the 600 tine handle and 515 kg for the 3.63 m version the 750 tine handle.
+A 7 8|||R:MORPH|||release|||REQUIRED|||-NONE-|||0
+A 14 15|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 31 31|||M:PREP|||with|||REQUIRED|||-NONE-|||0
+
+S With the experience gaining it from no-till, Michael Horsch developed tine-based no-till technology for the eastern markets, which successfully sold there today.
+A 3 5|||R:OTHER|||gained|||REQUIRED|||-NONE-|||0
+A 18 18|||M:OTHER|||is still|||REQUIRED|||-NONE-|||0
+
+S This means that you always had all the information you need for filling the syringe you on your tablet.
+A 5 6|||R:VERB:TENSE|||have|||REQUIRED|||-NONE-|||0
+A 15 15|||M:PREP|||with|||REQUIRED|||-NONE-|||0
+
+S The divisible container help the close transporting of two different goods and their separate emptying.
+A 3 4|||R:VERB|||allows|||REQUIRED|||-NONE-|||0
+A 5 6|||R:MORPH|||closed|||REQUIRED|||-NONE-|||0
+A 6 7|||R:MORPH|||transport|||REQUIRED|||-NONE-|||0
+
+S You can select or deselect strokes from planned measure the calculations am automatically adjusted.
+A 7 7|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 9 9|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+A 11 12|||R:MORPH|||are|||REQUIRED|||-NONE-|||0
+
+S In the recent past, first considerations arose to have directing seed drills with disc coulters.
+A 8 9|||R:VERB|||develop|||REQUIRED|||-NONE-|||0
+A 9 10|||R:MORPH|||direct|||REQUIRED|||-NONE-|||0
+
+S In request, the controling of the dose gate is electric.
+A 0 1|||R:PREP|||On|||REQUIRED|||-NONE-|||0
+A 3 4|||R:SPELL|||control|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:FORM|||dosing|||REQUIRED|||-NONE-|||0
+
+S Worked-off plots cans be marked and partial plots can being entered.
+A 2 3|||R:MORPH|||can|||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB:FORM|||be|||REQUIRED|||-NONE-|||0
+
+S the Terrano GX a defined all-rounder, which works perfectly for shallow as well have as deep soil cultivation up to 25 cm.
+A 0 1|||R:ORTH|||The|||REQUIRED|||-NONE-|||0
+A 3 3|||M:VERB|||is|||REQUIRED|||-NONE-|||0
+A 13 14|||U:VERB||||||REQUIRED|||-NONE-|||0
+
+S that Firstly, for the Latin American markets, to minimise soil encroachment and protect against erosion.
+A 0 1|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S While augers place greater mechanical stress on the goods being transferred and often considerably reduced quality, the conveyor belt is gentle on seed and fertiliser and can have emptied completely due to the shaped flights.
+A 14 15|||R:VERB:FORM|||reduce|||REQUIRED|||-NONE-|||0
+A 27 28|||R:VERB:TENSE|||be|||REQUIRED|||-NONE-|||0
+
+S Terrano GX is available as a 3- and 4-bar universal cultivators and thus combines the requirements of every customer.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOUN:NUM|||cultivator|||REQUIRED|||-NONE-|||0
+
+S But also in other regions for single disc coulter technology is highly interesting - especially in Europe with increasing requirements in the area of intercrop seeding or seeding of main crops into intercrops in regions with the challenge of resistant weeds.
+A 5 6|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 33 33|||M:CONJ|||or|||REQUIRED|||-NONE-|||0
+
+S working widths range from 4 for 6 in metres.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 5 6|||R:PREP|||to|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S Whether fertilisers is to be delivered to the field for start-up, seed and fertiliser are to be transported to the seed drill or temporary grain is for be moved away quickly, myself flexible use is the key.
+A 1 2|||R:NOUN:NUM|||fertiliser|||REQUIRED|||-NONE-|||0
+A 26 27|||R:PART|||to|||REQUIRED|||-NONE-|||0
+A 31 32|||U:PRON||||||REQUIRED|||-NONE-|||0
+
+S Parts of England, Germany and France were in need of new seeding technologies with reduced ground movement - a very clear task for the Avatar.
+A 6 7|||R:VERB:TENSE|||are|||REQUIRED|||-NONE-|||0
+
+S It is equipped with the third generation TerraGrip tine, which lies flat the frame and has a release force 550 kg.
+A 12 12|||M:PREP|||in|||REQUIRED|||-NONE-|||0
+A 19 19|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S Due to the standardised coupling points on the truck, the shuttles can was exchanged at willing and can be dismantled / assembled in a simple steps using a forklift or telescopic loader.
+A 12 13|||R:VERB:FORM|||be|||REQUIRED|||-NONE-|||0
+A 15 16|||R:MORPH|||will|||REQUIRED|||-NONE-|||0
+A 24 24|||M:ADJ|||few|||REQUIRED|||-NONE-|||0
+
+S In this then way, the remaining required quantity of spray liquid for go entire job and for the currently processed field be updated and displayed.
+A 2 3|||U:ADV||||||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 21 22|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
+
+S large-dimensioned pivot points ensure a maintenance-free service life.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 5 5|||M:ADJ|||long|||REQUIRED|||-NONE-|||0
+
+S Disc coulter thechnologic plays an important role in large parts about Russia, Kazakhstan and China.
+A 2 3|||R:SPELL|||technology|||REQUIRED|||-NONE-|||0
+A 3 3|||M:ADV|||also|||REQUIRED|||-NONE-|||0
+A 10 11|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S All functions the basic machined remain unchanged.
+A 2 2|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 4 5|||R:MORPH|||machine|||REQUIRED|||-NONE-|||0
+
+S The cultivator be equipped with many coulter variants, so that it is ready for use at any time of year and can cope with the most varied soil conditions worldwide.
+A 2 2|||M:VERB:TENSE|||can|||REQUIRED|||-NONE-|||0
+A 19 19|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S For the next tank filling, whether full or partial, the average quantities are displayed so that the calculation does not have to be make in the head or by calculator.
+A 23 24|||R:VERB:FORM|||made|||REQUIRED|||-NONE-|||0
+
+S The tilting function and the funnel-shaped design ensure that the container be emptied completely.
+A 11 12|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
+
+S the undercarriage of the Terrano GX are located behind the tine field, in front of the levelling tools.
+A 0 1|||R:ORTH|||The|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
+
+S Insertable grid sieves ensured bath quality of goods be transported.
+A 3 4|||R:VERB:TENSE|||ensure|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 7 7|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 8 8|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
+
+S These are all reasons to our HORSCH company of develop its own avatar family.
+A 4 5|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+A 5 6|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 8 9|||R:PART|||to|||REQUIRED|||-NONE-|||0
+
+S The chassis with its large-dimensioned tyres is used both for of road transport n't and for turning at headland.
+A 10 11|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 13 14|||U:CONTR||||||REQUIRED|||-NONE-|||0
+A 18 18|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S The large dimensioned conveyor belt characterized on the one hand by the fully variable adjustable overloading height, and on the other hand by overloads capacity.
+A 5 5|||M:VERB:TENSE|||is|||REQUIRED|||-NONE-|||0
+A 23 23|||M:OTHER|||the high|||REQUIRED|||-NONE-|||0
+A 23 24|||R:MORPH|||overloading|||REQUIRED|||-NONE-|||0
+
+S The sophisticate kinematics of the undercarriage ensure both high ground clearance when raised and safe swinging of the tyres outs of the area in the lowered position.
+A 1 2|||R:MORPH|||sophisticated|||REQUIRED|||-NONE-|||0
+A 19 20|||R:OTHER|||out|||REQUIRED|||-NONE-|||0
+A 22 22|||M:VERB|||working|||REQUIRED|||-NONE-|||0
+
+S The HORSCH company can never lost sight of the products that have made reputation for 30 years: the First seeder-exactors left a lasting impression.
+A 3 4|||R:VERB:TENSE|||has|||REQUIRED|||-NONE-|||0
+A 13 13|||M:DET|||its|||REQUIRED|||-NONE-|||0
+A 18 19|||R:ORTH|||first|||REQUIRED|||-NONE-|||0
+A 20 20|||M:VERB:TENSE|||have|||REQUIRED|||-NONE-|||0
+
+S Going back to early days of the company, Michael Horsch got and built a machines that was suitable for direct seeding.
+A 3 3|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB|||developed|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOUN:NUM|||machine|||REQUIRED|||-NONE-|||0
+
+S The new have HORSCH Titan 34 UW reloading wagon stands to harvesting power in a new dimension.
+A 2 3|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 10 11|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S The position of the chassis is chosen to ensure goods manoeuvrability in a field and a high level of driving comfort the road.
+A 9 10|||R:MORPH|||good|||REQUIRED|||-NONE-|||0
+A 12 13|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 21 21|||M:PREP|||on|||REQUIRED|||-NONE-|||0
+
+S In order make optimum use of the tractive power to bring the available power to the ground, the Terrano GX is equipped with a tractive power booster, which permanently presses 1 200 kg onto the rear axle of the tractor when working.
+A 2 2|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
+A 9 9|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S It inherits the genes - of first HORSCH reloading wagons and raises them to a completely new technical level.
+A 4 5|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 6 6|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S The arguments at the time were: minimise soil encroachment, promote soil life and, in the context falling prices for agricultural products, course, cost savings.
+A 16 16|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 21 21|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S If the traction booster is required, because flatter is being carried out, it can be switched off at any time by means of a shut-off valve.
+A 5 5|||M:ADV|||not|||REQUIRED|||-NONE-|||0
+A 8 8|||M:NOUN|||work|||REQUIRED|||-NONE-|||0
+
+S Thanks to the large tank volume of 34 m³, waiting times at edge from the the field and awkward manoeuvring will be a thing of the past in future.
+A 12 12|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 13 14|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 14 15|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S This is activated simply depressurizing the control unit to lifting and lowering, without additional control unit or cylinders.
+A 4 4|||M:PREP|||by|||REQUIRED|||-NONE-|||0
+A 8 9|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+A 15 16|||R:NOUN:NUM|||units|||REQUIRED|||-NONE-|||0
+
+S With the opening of the Eastern markets in 1990s, true was patients a large market for no-till technology.
+A 8 8|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||there|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||suddenly|||REQUIRED|||-NONE-|||0
+
+S tank volume about the UW corresponds to tea trucking load.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 2 3|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 8 9|||R:MORPH|||truck|||REQUIRED|||-NONE-|||0
+
+S However, has the large areas in the east, the PTO-driven technology was for not applicable.
+A 1 2|||R:OTHER|||for|||REQUIRED|||-NONE-|||0
+A 12 13|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S For levelling, there is a choice between the oil-bath mounted discs, aggressively spread the material in front , which the packer, or the levellers, which spread the material to ensure perfect levelling.
+A 11 11|||M:DET|||which|||REQUIRED|||-NONE-|||0
+A 17 18|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 18 19|||R:OTHER|||of|||REQUIRED|||-NONE-|||0
+
+S These are thus filled in fell swoop.
+A 5 5|||M:OTHER|||one|||REQUIRED|||-NONE-|||0
+
+S With a experience gained no-till, Michael Horsch developed tine-based no-till technology for the eastern markets, which still successfully sold there today.
+A 1 2|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PREP|||from|||REQUIRED|||-NONE-|||0
+A 16 16|||M:VERB:TENSE|||is|||REQUIRED|||-NONE-|||0
+
+S The newly ) designed hydraulically folding screw conveyors (ø 600 mm) has a capacity of 18 tons per minute, which corresponds to a gigantic . 000 tons per hour!
+A 2 3|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOUN:NUM|||conveyor|||REQUIRED|||-NONE-|||0
+A 24 25|||R:OTHER|||1|||REQUIRED|||-NONE-|||0
+
+S The Terrano GX will designed best . to be equipped with a single or doubled packer.
+A 3 4|||R:VERB:TENSE|||is|||REQUIRED|||-NONE-|||0
+A 5 7|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 15|||R:MORPH|||double|||REQUIRED|||-NONE-|||0
+
+S In recent past, firsts considerations arose to develop directed seed drills disc coulters.
+A 1 1|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 3 4|||R:MORPH|||first|||REQUIRED|||-NONE-|||0
+A 8 9|||R:MORPH|||direct|||REQUIRED|||-NONE-|||0
+A 11 11|||M:PREP|||with|||REQUIRED|||-NONE-|||0
+
+S Thus, their 34 m³ are reloads in only 90 seconds.
+A 1 2|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||reloaded|||REQUIRED|||-NONE-|||0
+
+S for this purpose, new packer variants have been developed kiss cover every spectrum of use.
+A 0 1|||R:ORTH|||For|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
+
+S Firstly, for but Latin American markets, to minimise Then soil encroachment and protect against erosion.
+A 2 3|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 8 9|||U:ADV||||||REQUIRED|||-NONE-|||0
+
+S During field travel, auger is folded down and stored securely into a support.
+A 3 3|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 10 11|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+
+S But also in other regions the singling disc coulter technology is highly interesting - especially in Europe with increasing requirements in the area of intercrop seeded or seeding of main crops into intercrops or in regions with the challenge of resistant weeds.
+A 6 7|||R:MORPH|||single|||REQUIRED|||-NONE-|||0
+A 25 26|||R:VERB:FORM|||seeding|||REQUIRED|||-NONE-|||0
+
+S For work in wets conditions or to order winter furrow, is the option to remove every second ring on the RingFlex packer.
+A 3 4|||R:MORPH|||wet|||REQUIRED|||-NONE-|||0
+A 8 8|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PRON|||there|||REQUIRED|||-NONE-|||0
+
+S In the the go position, the bent worm does not protrude to either side.
+A 1 2|||U:DET||||||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOUN|||travel|||REQUIRED|||-NONE-|||0
+
+S The tiny contact area prevents reconsolidation and clogging of the packers and guide the machine in depth.
+A 1 2|||R:ADJ|||small|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOUN:NUM|||packer|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB:SVA|||guides|||REQUIRED|||-NONE-|||0
+
+S The width for roads travel is then less than three metres.
+A 3 4|||R:NOUN:NUM|||road|||REQUIRED|||-NONE-|||0
+
+S Parts England, Germany and France are in need of new seeding technologies with reduced soil movement effects - a many clear area of responsibility the Avatar ,
+A 1 1|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 19 20|||R:OTHER|||very|||REQUIRED|||-NONE-|||0
+A 24 24|||M:PREP|||for|||REQUIRED|||-NONE-|||0
+A 26 27|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
+
+S Disc coulter technology also plays an important role in large parts of Russia, Kazakhstan and China.
+
+S These are all reasons for the HORSCH company to develop its own avatar family.
+
+S The Titan 34 UW (in the wheel version) comes of with telescopic axles as standard.
+A 9 10|||U:ADV||||||REQUIRED|||-NONE-|||0
+A 11 11|||M:DET|||a|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOUN:NUM|||axle|||REQUIRED|||-NONE-|||0
+
+S The packer programs for the people Terrano GX has was further expanded.
+A 2 3|||R:NOUN:NUM|||program|||REQUIRED|||-NONE-|||0
+A 5 6|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB:FORM|||been|||REQUIRED|||-NONE-|||0
+
+S Farm specializations, farm expansions, farm communities: the structural change in agriculture is progressing rapidly and is also presenting agricultural engineering with completely new tasks.
+A 6 7|||R:ORTH|||The|||REQUIRED|||-NONE-|||0
+
+S at This moves each tyre outwards by 30 cm.
+A 0 1|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S RingFlex Packer two the SteelDisc and Packer are available as single packers.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 5 6|||U:CONJ||||||REQUIRED|||-NONE-|||0
+
+S Optimisation of soil cultivation, sowing and harvesting techniques as well as cost reduction are the requirements - with the from same time increasing yields and improving the quality of the harvested crop.
+A 17 17|||M:PREP|||while|||REQUIRED|||-NONE-|||0
+A 17 18|||R:PREP|||at|||REQUIRED|||-NONE-|||0
+A 19 20|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S The since vehicle width thus increases from 3 m from to 3.56 m.
+A 1 2|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 9 10|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S The newly advanced SteelFlex Packer, Double RingFlex Packer and Double RollPack Packer are available as doubling to packer variants.
+A 2 3|||R:VERB|||developed|||REQUIRED|||-NONE-|||0
+A 15 17|||R:OTHER|||double|||REQUIRED|||-NONE-|||0
+
+S This increased stability and reduces ground pressure, as the tyres of trans-shipment trailer do not run into the tractors track.
+A 1 2|||R:VERB:FORM|||increases|||REQUIRED|||-NONE-|||0
+A 11 11|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 16 17|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOUN:NUM|||tractor|||REQUIRED|||-NONE-|||0
+
+S name The Terrano MT is designed especially for the "mix on top, loosen on the bottom" application.
+A 0 1|||U:VERB||||||REQUIRED|||-NONE-|||0
+
+S The cultivator has a central chassis and a 4-bar superstructure (2 rows of disc + 2 rows in of tines).
+A 13 14|||R:NOUN:NUM|||discs|||REQUIRED|||-NONE-|||0
+A 17 18|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S Another means of protecting ground are the large-dimension tyres (900 / 60 . R 32).
+A 4 4|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 12 13|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S As a developer and pioneer, HORSCH has be it of the leading manufacturers of of tillage the and seeding technology.
+A 7 8|||R:VERB|||become|||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||one|||REQUIRED|||-NONE-|||0
+A 13 14|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 16 17|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S It is particularly suitable for working heavy soils that need to be deeply loosened, but on which crop residues can only be mixed in shallowly to prevent some coarse soil from transporting the surface.
+A 27 28|||U:DET||||||REQUIRED|||-NONE-|||0
+A 31 32|||R:VERB:TENSE|||being transported|||REQUIRED|||-NONE-|||0
+A 32 32|||M:PREP|||to|||REQUIRED|||-NONE-|||0
+
+S optional tracked undercarriage is available maximum footprint.
+A 0 0|||M:DET|||An|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S In addition, the 2-row DiscSystem enables shallow and intensively mixing soil cultivation and blockage-free working with difficult residues and high straw quantities.
+A 15 15|||M:ADV|||even|||REQUIRED|||-NONE-|||0
+
+S Innovative ideas from practice for practice - has how technology systems and high-grade machines are created which was correspond to the latest findings in terms of quality, robustness and durability.
+A 7 8|||R:OTHER|||this is|||REQUIRED|||-NONE-|||0
+A 17 18|||U:VERB||||||REQUIRED|||-NONE-|||0
+
+S Other features include an integrated high weighing device, a pneumatic braking system and clearly visible indicator for opening status of the screw conveyor slide.
+A 5 6|||U:ADJ||||||REQUIRED|||-NONE-|||0
+A 13 13|||M:DET|||a|||REQUIRED|||-NONE-|||0
+A 17 17|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S The DiscSystem produces a lot of fine soil and the that working depth cans be infinitely adjusted hydraulically.
+A 10 11|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 13 14|||R:MORPH|||can|||REQUIRED|||-NONE-|||0
+
+S From the platform on the drawbar you can climb upped or into the wagon via ladder.
+A 9 10|||R:OTHER|||up|||REQUIRED|||-NONE-|||0
+A 15 15|||M:DET|||a|||REQUIRED|||-NONE-|||0
+
+S It is followed by a 2-bar zinc system.
+A 0 1|||R:PRON|||This|||REQUIRED|||-NONE-|||0
+
+S In to addition, HORSCH advises companies the development individual management concepts and process chains - and, together with its sales and service partners, ensures seamless support, the fastest possible repairs to and an immediate supply of spare parts.
+A 1 2|||U:PART||||||REQUIRED|||-NONE-|||0
+A 6 6|||M:PREP|||on|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 30 31|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S This been relatively easy to pull due to the large line spacing was of 40 cm and 40 mm narrow LD (low disturbance) coulters.
+A 1 2|||R:VERB:FORM|||is|||REQUIRED|||-NONE-|||0
+A 12 13|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 17 17|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S The trolley has steps of is the auger so that it can be climbed into for cleaning or maintenance.
+A 4 6|||R:OTHER|||on|||REQUIRED|||-NONE-|||0
+
+S A generation with Now which seedbed preparation, sowing and fertilised can be manage in one operation.
+A 3 4|||U:ADV||||||REQUIRED|||-NONE-|||0
+A 9 10|||R:MORPH|||fertilising|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB:FORM|||managed|||REQUIRED|||-NONE-|||0
+
+S The HORSCH seed wagon with family is characterized by its easy calibration, fast and safe filling due to large filling openings and comfortable walkways.
+A 4 5|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S In the first tow rows of the . Terrano MT there is in disc harrow followed by two rows of TerraGrip tines with narrowing LD (low disturbance) shares.
+A 3 4|||R:OTHER|||two|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 23 24|||R:MORPH|||narrow|||REQUIRED|||-NONE-|||0
+
+S Short set-up times and capacities of 12,000 to 21,000 litre result in maximum impact in power for large-scale operation of all kinds.
+A 9 10|||R:NOUN:NUM|||litres|||REQUIRED|||-NONE-|||0
+A 14 15|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOUN:NUM|||operations|||REQUIRED|||-NONE-|||0
+
+S The robust tines seed drill has its strengths above for at mulch sowing.
+A 2 3|||R:NOUN:NUM|||tine|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||all|||REQUIRED|||-NONE-|||0
+A 10 11|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+
+S The choice of double or triple tank and the liquid fertiliser option allow the farmer to . choose the perfect fertiliser and seed combination for sowing.
+A 16 17|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S The sturdy frame construction to with light-weight seed coulters and large-volume seed hoppers enables high acreage output with an optimum cost-benefit ratio.
+A 4 5|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S Various pneumatic systems allow the coupling to a wide range about HORSCH seed drills and soil tillage implements.
+A 10 11|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S The HORSCH SteelDisc packer is used time maximum reconsolidation.
+A 6 7|||R:OTHER|||for|||REQUIRED|||-NONE-|||0
+
+S Especially in HORSCH seeding technology the Tripletank seed wagons stand out due to their high variability of tank use.
+A 2 2|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S With Sprinter, having you not only bundle time-consuming work processes into a single operation.
+A 1 1|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 2 3|||U:VERB||||||REQUIRED|||-NONE-|||0
+
+S It enables intensive loosening up to a depth of 30 cm the a low mixes effect.
+A 11 12|||R:OTHER|||with|||REQUIRED|||-NONE-|||0
+A 14 15|||R:VERB:FORM|||mixing|||REQUIRED|||-NONE-|||0
+
+S They allow precise placement of fertilizer (PPF system) under the seed rows as well as the possibility to commonly a fertilizer starter with ones the seed (G & F).
+A 18 19|||R:OTHER|||place|||REQUIRED|||-NONE-|||0
+A 23 24|||U:NOUN||||||REQUIRED|||-NONE-|||0
+
+S At the same time you also increase the precision in seed placement , and fertilisation.
+A 12 13|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S Carefully work tyre packers ensure a optimum soil contact about the now seed.
+A 1 2|||R:VERB:FORM|||working|||REQUIRED|||-NONE-|||0
+A 5 6|||R:DET|||an|||REQUIRED|||-NONE-|||0
+A 9 10|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 11 12|||U:ADV||||||REQUIRED|||-NONE-|||0
+
+S The SW 12000 is a flexible solution of carrying and spreading large quantities For fertiliser and seed.
+A 7 8|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+A 13 14|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S Coarse soil is thus hardly transported to surface and been disc harrow horizon `` undercut.
+A 7 7|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 13 14|||R:OTHER|||is|||REQUIRED|||-NONE-|||0
+
+S new Ultra LD coulters further enhance effect.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 6 6|||M:DET|||this|||REQUIRED|||-NONE-|||0
+
+S The use of the Sprinter leads not only to significant time savings but also for a more uniform field emergence , more resistant seedlings (HORSCH PPF system).
+A 14 15|||R:PREP|||to|||REQUIRED|||-NONE-|||0
+A 20 21|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+
+S They break up the soil and longer convey clods to the top.
+A 6 6|||M:ADV|||no|||REQUIRED|||-NONE-|||0
+
+S In this way, you creates the ideal conditions for fully exploit and securing the expected earnings potential.
+A 4 5|||R:VERB:SVA|||create|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB:FORM|||exploiting|||REQUIRED|||-NONE-|||0
+
+S Its centring chassis ensures the Terrano MT superior manoeuvrability at the headland and good handling characteristics on the road.
+A 1 2|||R:MORPH|||centre|||REQUIRED|||-NONE-|||0
+A 7 7|||M:VERB|||has|||REQUIRED|||-NONE-|||0
+A 13 13|||M:ADV|||very|||REQUIRED|||-NONE-|||0
+
+S The multi-beam frame the Sprinter is supported by lead support wheels / front packers and tandems packer.
+A 3 3|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 8 9|||R:ADJ:FORM|||leading|||REQUIRED|||-NONE-|||0
+A 15 15|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 15 16|||R:MORPH|||tandem|||REQUIRED|||-NONE-|||0
+
+S Depending onto the desired components and their number, HORSCH offers a tripletank solution . SW 12003.
+A 1 2|||R:PREP|||on|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PREP|||with|||REQUIRED|||-NONE-|||0
+A 13 14|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+
+S In wet conditions, for example, undercarriage can also be use depth control - so less weight are transferred to the packer.
+A 5 5|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB:FORM|||used|||REQUIRED|||-NONE-|||0
+A 10 10|||M:PREP|||for|||REQUIRED|||-NONE-|||0
+A 16 17|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
+
+S Both seed wagons is optionally available liquid fertiliser versions.
+A 3 4|||R:VERB:SVA|||are|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PREP|||as|||REQUIRED|||-NONE-|||0
+
+S The frames some segments almost guide separately in depth.
+A 1 2|||R:NOUN:NUM|||frame|||REQUIRED|||-NONE-|||0
+A 2 3|||U:DET||||||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||are|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||guided|||REQUIRED|||-NONE-|||0
+
+S I The large-dimensioned tyres ensure maximum protections of ground when driving over it.
+A 0 1|||U:PRON||||||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOUN:NUM|||protection|||REQUIRED|||-NONE-|||0
+A 8 8|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S allows them to adapts exactly to the soil surface place the seed precisely.
+A 0 0|||M:DET|||This|||REQUIRED|||-NONE-|||0
+A 3 4|||R:MORPH|||adapt|||REQUIRED|||-NONE-|||0
+A 9 9|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S With six possible hydraulic control units, ISOBUS line, electronic and pneumatic lines routed through the seed wagon, the seeded wagon can be used with any implement.
+A 18 19|||R:MORPH|||seed|||REQUIRED|||-NONE-|||0
+A 24 24|||M:ADV|||almost|||REQUIRED|||-NONE-|||0
+
+S This is for maximum reconsolidation the HORSCH SteelDisc Packer with 58 cm diameter and a weight with 175 kg/m works working width.
+A 5 5|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 16 17|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 19 20|||U:VERB||||||REQUIRED|||-NONE-|||0
+
+S lifting or lowering, entire frames is moved accordingly to achieve fast turning times and to set the machine in and out evenly.
+A 0 0|||M:ADV|||When|||REQUIRED|||-NONE-|||0
+A 3 3|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOUN:NUM|||frame|||REQUIRED|||-NONE-|||0
+
+S For seed wagons SW 12000, SW 12003 as well as SW 17003 HORSCH offers an optional liquids fertiliser version.
+A 1 1|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 16 17|||R:MORPH|||liquid|||REQUIRED|||-NONE-|||0
+
+S All Sprinter ST are equipped with large volume seed hoppers up 5 000 litres.
+A 11 11|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
+
+S There is suitable even on the heaviest soils and its packer element leave a good soil structure.
+A 0 1|||R:PRON|||It|||REQUIRED|||-NONE-|||0
+A 11 12|||R:NOUN:NUM|||elements|||REQUIRED|||-NONE-|||0
+
+S The seed wagon 12000 has 6 000 litre tank, the seed wagons 12003 and 17003 's 4 000 litre tank making of corrosion resistant plastic.
+A 5 5|||M:DET|||a|||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||have a|||REQUIRED|||-NONE-|||0
+A 20 21|||R:OTHER|||made|||REQUIRED|||-NONE-|||0
+
+S The seed wagon the Sprinter SW had holds 8,000 litres of seed fertiliser for maximum impact.
+A 3 3|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||even|||REQUIRED|||-NONE-|||0
+A 12 12|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S In addition, the Terrano MT English 's two effective double rollers.
+A 5 7|||R:OTHER|||has|||REQUIRED|||-NONE-|||0
+
+S A clear control element and the clearly visible fill level indicator on the side of the seed wagon, as known as a spacious tool box, offer great clarity and ensure the HORSCH user-friendliness that is so highly valued by customers.
+A 19 20|||R:OTHER|||well|||REQUIRED|||-NONE-|||0
+
+S This can be the doubled RollFlex or a RollPack packer.
+A 4 5|||R:ADJ:FORM|||double|||REQUIRED|||-NONE-|||0
+A 7 8|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S the sowing coulters are mounted on sturdy tines with overload protection.
+A 0 1|||R:ORTH|||The|||REQUIRED|||-NONE-|||0
+A 9 9|||M:DET|||an|||REQUIRED|||-NONE-|||0
+
+S This simply designed, well thought-out liquid fertiliser system in its convenient accessibility and self-explanatory operability inspires farmers over the world.
+A 8 9|||R:PREP|||with|||REQUIRED|||-NONE-|||0
+A 17 17|||M:ADV|||all|||REQUIRED|||-NONE-|||0
+
+S The release pressured more than 200 kg.
+A 2 3|||R:MORPH|||pressure|||REQUIRED|||-NONE-|||0
+A 3 3|||M:VERB|||is|||REQUIRED|||-NONE-|||0
+
+S A new feature of that the Tiger is now the possibility equip the heavies cultivators with a fully-fledged double packer.
+A 4 5|||U:DET||||||REQUIRED|||-NONE-|||0
+A 11 11|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
+A 13 14|||R:MORPH|||heavy|||REQUIRED|||-NONE-|||0
+A 14 15|||R:MORPH|||cultivator|||REQUIRED|||-NONE-|||0
+
+S This ensures a constant coulter guidance the desired sowing depth with more problematic soil types and conditions.
+A 6 6|||M:PREP|||at|||REQUIRED|||-NONE-|||0
+A 10 10|||M:ADV|||even|||REQUIRED|||-NONE-|||0
+
+S The HORSCH seed the wagon 21000 is characterized by its tripletank system which allows optimal distribution seed and fertilizer components to achieve and highest performance.
+A 3 4|||U:DET||||||REQUIRED|||-NONE-|||0
+A 14 14|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 16 16|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 22 23|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+
+S The easily accessible, spacious platform as as the large filling openings of the individual tanks reduce the set-up times and thus additionally increase the productivity of the entire combination.
+A 6 6|||M:ADV|||well|||REQUIRED|||-NONE-|||0
+
+S I was particularly suitable for heavy soils require a special crushing of the clods.
+A 0 1|||R:PRON|||This|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB:TENSE|||is|||REQUIRED|||-NONE-|||0
+A 7 7|||M:DET|||that|||REQUIRED|||-NONE-|||0
+
+S sowing coulters deposit without seeds bands.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PREP|||in|||REQUIRED|||-NONE-|||0
+
+S A harrowing (except onto Sprinter 8 ST 12 SW) ensured uniform coverage.
+A 1 2|||R:MORPH|||harrow|||REQUIRED|||-NONE-|||0
+A 3 4|||R:PREP|||on|||REQUIRED|||-NONE-|||0
+A 7 7|||M:PUNCT|||/|||REQUIRED|||-NONE-|||0
+A 9 10|||R:MORPH|||ensures|||REQUIRED|||-NONE-|||0
+
+S Turning is done gently to on the packer, the undercarriage is used for transport and is swivelled into with this purpose.
+A 4 5|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 17 18|||R:PART|||in|||REQUIRED|||-NONE-|||0
+A 18 19|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S Cruiser mixes and distributes excellently its 6 bars.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PREP|||through|||REQUIRED|||-NONE-|||0
+
+S Finally, each seed band is pressed on a tyre a packer with AS profile.
+A 7 7|||M:PREP|||by|||REQUIRED|||-NONE-|||0
+A 9 10|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S Proven HORSCH components, corrosion-resistant plastic tanks, the very precise calibration of the metering rotors and the large tank capacity round off 's simple, clear is above that very powerful SW 21000 concept.
+A 21 22|||R:NOUN:POSS|||the|||REQUIRED|||-NONE-|||0
+A 24 25|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 26 27|||R:DET|||all|||REQUIRED|||-NONE-|||0
+
+S The Sprinter is a robust, compact and versatile tines seeder in an to 12 metre working widths.
+A 8 9|||R:NOUN:NUM|||tine|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||3|||REQUIRED|||-NONE-|||0
+
+S - The passage on the the tines handle of 700 mm also allows high quantities of harvest residues.
+A 0 1|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 4 5|||U:DET||||||REQUIRED|||-NONE-|||0
+A 6 7|||R:NOUN:NUM|||tine|||REQUIRED|||-NONE-|||0
+A 13 13|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S The optional caterpillar track system with 4.2 m² contact area reduces very grounded pressure enables longer sowing in wet conditions.
+A 11 12|||U:ADV||||||REQUIRED|||-NONE-|||0
+A 12 13|||R:MORPH|||ground|||REQUIRED|||-NONE-|||0
+A 14 14|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S The Duett coulter makes it possible to sow, fertilise and at the same time effectively work the soil and produce fine soil into the seed placement area than in one operation.
+A 22 23|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+A 27 28|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S The working depth is easily controlled by the front support wheels and the packer.
+
+S tines of the Sprinter effectively remove crop residues the seed horizon.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PREP|||from|||REQUIRED|||-NONE-|||0
+
+S The drawbar with tidy wardrobe allows ' maximum manoeuvrability despite the size of this team.
+A 1 1|||M:ADJ|||long|||REQUIRED|||-NONE-|||0
+A 6 7|||U:NOUN:POSS||||||REQUIRED|||-NONE-|||0
+
+S The Cruiser XL was a 6-bar specialist for shallow and medium deep tillage.
+A 3 4|||R:VERB:TENSE|||is|||REQUIRED|||-NONE-|||0
+
+S With its large-volume seed hopper, the Sprinter achieves high output.
+A 8 8|||M:DET|||a|||REQUIRED|||-NONE-|||0
+
+S Working widths from 5 a 7.5 metres are available.
+A 4 5|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
+
+S The Partner at HT rearing tank is learning designed as a double tank.
+A 2 3|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 4 5|||R:MORPH|||rear|||REQUIRED|||-NONE-|||0
+A 7 8|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
+
+S total volume of 2 800 litres is divided in a ratio of 40 : 60.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+
+S It is equips with the HORSCH possible spring tine, which lies inconspicuously in the frame and has a release force of 150 kg.
+A 2 3|||R:VERB:FORM|||equipped|||REQUIRED|||-NONE-|||0
+A 6 7|||U:ADJ||||||REQUIRED|||-NONE-|||0
+
+S The seed coulters of the Sprinter are arranged with 3 bars (Sprinter 12 SW with 2 bars) with a distance progress lines of 25 cm to 's 32 cm.
+A 20 20|||M:PREP|||between|||REQUIRED|||-NONE-|||0
+A 20 21|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 26 27|||U:NOUN:POSS||||||REQUIRED|||-NONE-|||0
+
+S design have the the dosing of two different components or one component from tanks in order to use the total volume.
+A 0 0|||M:DET|||This|||REQUIRED|||-NONE-|||0
+A 1 2|||R:VERB|||allows|||REQUIRED|||-NONE-|||0
+A 2 3|||U:DET||||||REQUIRED|||-NONE-|||0
+A 13 13|||M:DET|||both|||REQUIRED|||-NONE-|||0
+
+S The cultivator can be equipped with all four different coulter variants and is therefore ready for used in any season.
+A 16 17|||R:MORPH|||use|||REQUIRED|||-NONE-|||0
+
+S optimally prepare the seedbed. The soil loosened, levelled, mixing and crushed as with cultivator coulter.
+A 0 0|||M:PRON|||They|||REQUIRED|||-NONE-|||0
+A 6 6|||M:VERB|||is|||REQUIRED|||-NONE-|||0
+A 8 9|||R:MORPH|||mixed|||REQUIRED|||-NONE-|||0
+A 13 13|||M:DET|||a|||REQUIRED|||-NONE-|||0
+
+S The HORSCH MultiGrip tine has a tuned spring characteristic with 285 kg coulter pressure.
+
+S In addition, placing fertilization increases efficiencies saves costs versus to conventional fertilization.
+A 2 3|||R:VERB:FORM|||placed|||REQUIRED|||-NONE-|||0
+A 5 6|||R:NOUN:NUM|||efficiency|||REQUIRED|||-NONE-|||0
+A 6 6|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+A 8 9|||R:PREP|||compared|||REQUIRED|||-NONE-|||0
+
+S The undercarriage in the Cruiser 5 and 6 XL is located behind the tine field, in fronted of the levelling tools.
+A 2 3|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 16 17|||R:MORPH|||front|||REQUIRED|||-NONE-|||0
+
+S The optimised spring package enables precise coulter guidance at the desired sow depth - even in heavies soils.
+A 11 12|||R:VERB:FORM|||sowing|||REQUIRED|||-NONE-|||0
+A 16 17|||R:MORPH|||heavy|||REQUIRED|||-NONE-|||0
+
+S Especially with phosphate, system help to improve fertiliser efficiency.
+A 3 3|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:SVA|||helps|||REQUIRED|||-NONE-|||0
+
+S High-quality materials and large-dimension pivot points eliminate the need for any lubrication points.
+
+S The chassis with its large-dimension tyres uses both for road transport and for turnings the headland.
+A 6 7|||R:VERB:TENSE|||is used|||REQUIRED|||-NONE-|||0
+A 13 14|||R:MORPH|||turning|||REQUIRED|||-NONE-|||0
+A 14 14|||M:PREP|||at|||REQUIRED|||-NONE-|||0
+
+S The seed coulters of the Sprinter are arranged in 2 or 3 bars with a distance between the coulters of 25 cm to 32 cm (depending on working width).
+A 27 27|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S Next placed fertilizer immediately and permanently available to the plants.
+A 0 1|||R:OTHER|||The|||REQUIRED|||-NONE-|||0
+A 3 3|||M:VERB|||is|||REQUIRED|||-NONE-|||0
+
+S There are several sowing coulters should to chosen from, and can be changed without any problems.
+A 5 6|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB|||choose|||REQUIRED|||-NONE-|||0
+A 9 10|||R:OTHER|||which|||REQUIRED|||-NONE-|||0
+
+S The HORSCH Partner should HT its carried on the 3-point of the tractor.
+A 3 4|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||is|||REQUIRED|||-NONE-|||0
+
+S With the 7 XL, turning I on the packer is gentle on the ground, so the load of on machine on the headland is distributed over the entire width of machine.
+A 5 6|||U:PRON||||||REQUIRED|||-NONE-|||0
+A 18 19|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 30 30|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S The seeding coulters do the seedbed movie optimally.
+A 1 2|||R:MORPH|||seed|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB|||prepare|||REQUIRED|||-NONE-|||0
+A 6 7|||U:NOUN||||||REQUIRED|||-NONE-|||0
+
+S The sophisticated kinematics of the undercarriage ensure both highs ground clearances when raised and safe swinging the tyres of the working area in the lowered position.
+A 8 9|||R:MORPH|||high|||REQUIRED|||-NONE-|||0
+A 10 11|||R:NOUN:NUM|||clearance|||REQUIRED|||-NONE-|||0
+A 16 16|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 18 18|||M:PREP|||out|||REQUIRED|||-NONE-|||0
+
+S The combination with HORSCH soil tillage implements (such as Joker a RT, Terrano FM / MT / GX) can be carried out via lower link attachment for the Partner HT, K 80 ball head coupling or towing hitch.
+A 10 11|||U:DET||||||REQUIRED|||-NONE-|||0
+A 26 27|||R:PREP|||to|||REQUIRED|||-NONE-|||0
+
+S The soil is loosened, this leveled, mixed and crushed like a cultivator.
+A 4 5|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S The design in the rear tank allows an optimum view is of the implements.
+A 2 3|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 10 11|||U:VERB||||||REQUIRED|||-NONE-|||0
+
+S The position of the chassis is chosen to ensure manoeuvrability in the is field and ca enough high level of driving comfort on the road.
+A 9 9|||M:ADJ|||good|||REQUIRED|||-NONE-|||0
+A 12 13|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 15 17|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+
+S The MiniDrill make developed to turn a soil tillage implement into a precise seed drill with little effort.
+A 2 3|||R:VERB:TENSE|||was|||REQUIRED|||-NONE-|||0
+
+S In what the seeding area, are remove stones, coarse soil chunks crop residues of the seeding horizon.
+A 1 2|||U:PRON||||||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||they|||REQUIRED|||-NONE-|||0
+A 11 11|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+A 13 14|||R:PREP|||from|||REQUIRED|||-NONE-|||0
+
+S In order to able to the tractive power optimally and bring it to the ground, the Cruiser XL is equipped with a fully integrated tractive power booster, which presses permanently with 1 200 kg the rear axle of the tractor when working.
+A 3 3|||M:VERB|||be|||REQUIRED|||-NONE-|||0
+A 5 5|||M:VERB|||use|||REQUIRED|||-NONE-|||0
+A 34 34|||M:PREP|||on|||REQUIRED|||-NONE-|||0
+
+S It has 400 litre pressures tank for uniformly high application rate `` of 160 kg/ha.
+A 2 2|||M:DET|||a|||REQUIRED|||-NONE-|||0
+A 4 5|||R:NOUN:NUM|||pressure|||REQUIRED|||-NONE-|||0
+A 7 7|||M:DET|||a|||REQUIRED|||-NONE-|||0
+A 11 12|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S 's The seeds are placed precisely in this area the plant can develop its roots unhindered.
+A 0 1|||U:CONTR||||||REQUIRED|||-NONE-|||0
+A 9 9|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S This is activated simply by depressurizing the all control a unit to lifting lowering - without additional control units or cylinders.
+A 7 8|||U:DET||||||REQUIRED|||-NONE-|||0
+A 9 10|||U:DET||||||REQUIRED|||-NONE-|||0
+A 11 12|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+A 13 13|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S to The pressure tank significantly reduces segregation explode seed mixtures, are becoming more and more popular.
+A 0 1|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||of special|||REQUIRED|||-NONE-|||0
+A 10 10|||M:DET|||which|||REQUIRED|||-NONE-|||0
+
+S For an optimum coverage of the seed after the seed coulters and an even distribution of the Because loose soil and crop residues over the seed bands, a 2-row harrow is used the Sprinter (on the Sprinter 8 ST and 12 SW this is done via disc levelling).
+A 17 18|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 32 32|||M:PREP|||on|||REQUIRED|||-NONE-|||0
+
+S The Cruiser SL the new specialist for shallow tillage in 3-point in working widths of 4, 5 and 6 metres.
+A 3 3|||M:VERB|||is|||REQUIRED|||-NONE-|||0
+
+S proving metering unit of the Pronto uses the appropriate metering shaft to feed the seed directly into the distributions system, where it is evenly distributed via baffle plates in front of the packer.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 0 1|||R:MORPH|||proven|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOUN:NUM|||distribution|||REQUIRED|||-NONE-|||0
+
+S Our packers ensure an optimal seedbed through their method of operation, that nothing stands in the way from a problem-free emergence.
+A 11 11|||M:PREP|||so|||REQUIRED|||-NONE-|||0
+A 17 18|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S With a maximum working depths of 15 cm, it is equally suitable for perfect stubble cultivation with optimum straw distribution after combine threshing, seedbed preparation, as a fine cultivator for mechanical weed control They for loosening and aerating the soil in spring.
+A 4 5|||R:NOUN:NUM|||depth|||REQUIRED|||-NONE-|||0
+A 33 34|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+
+S the The harrow can be adjusted in height aggressiveness.
+A 0 1|||U:DET||||||REQUIRED|||-NONE-|||0
+A 8 8|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S For optimum lateral distribution, there are six evenly distributing outlets in front of or behind the packer up to 3 m work width and 12 outlets from 4 m working width.
+A 8 9|||R:VERB:FORM|||distributed|||REQUIRED|||-NONE-|||0
+A 21 22|||R:VERB:FORM|||working|||REQUIRED|||-NONE-|||0
+
+S Cruiser levels excellently due to its 4-beam design.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+
+S Due to the special design of the tine above the frame, it achieves a passage of 70 cm, which considerably increase the passage in the fine cultivators area.
+A 20 21|||R:VERB:SVA|||increases|||REQUIRED|||-NONE-|||0
+A 26 27|||R:NOUN:NUM|||cultivator|||REQUIRED|||-NONE-|||0
+
+S Finally, a tandem packer presses when seed band.
+A 5 5|||M:PREP|||on|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+
+S For special solutions, the MiniDrill Solo is available with a central downpipe, allowing the MiniDrill in to be coupled directly to as me distribution tower.
+A 15 16|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 21 22|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
+A 22 23|||U:PRON||||||REQUIRED|||-NONE-|||0
+
+S The packer is arranged so many that tyre runs exactly behinds a sowing coulter.
+A 5 6|||U:ADJ||||||REQUIRED|||-NONE-|||0
+A 7 7|||M:DET|||each|||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||behind|||REQUIRED|||-NONE-|||0
+
+S In this way, the seed of each individual seed band are pressed and receive an optimum soil seal.
+A 4 5|||R:NOUN:NUM|||seeds|||REQUIRED|||-NONE-|||0
+A 12 12|||M:PART|||down|||REQUIRED|||-NONE-|||0
+
+S The narrow line spacing of of 16 cm ensures an optimum mixing ratio and perfect crumbling on the surface.
+A 4 5|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S Another upgrade for our Cruiser SL is our new RingFlex Packer, with its wide rings of 7 cm it has a high contact area.
+
+S The outlets is supplied by , the very quiet hydraulic blower, which gets with 20 for 25 l/min and can therefore be operated with any tractor.
+A 2 3|||R:VERB:SVA|||are|||REQUIRED|||-NONE-|||0
+A 5 6|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 13 13|||M:PREP|||by|||REQUIRED|||-NONE-|||0
+A 15 16|||R:PART|||to|||REQUIRED|||-NONE-|||0
+
+S have The tires other have AS tread and are filled with air.
+A 0 1|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
+A 3 4|||U:ADJ||||||REQUIRED|||-NONE-|||0
+A 5 5|||M:DET|||an|||REQUIRED|||-NONE-|||0
+
+S The control is simply carries out via familiar operating screen of the HORSCH seeding technology.
+A 4 5|||R:VERB:FORM|||carried|||REQUIRED|||-NONE-|||0
+A 7 7|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S This means that accurate depth control but lighter conditions is no problem.
+A 3 3|||M:ADV|||even|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||in|||REQUIRED|||-NONE-|||0
+
+S The farm tyre tread and the rolling effect keep tyre continuously clean even under wet conditions.
+A 9 9|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOUN:NUM|||tyres|||REQUIRED|||-NONE-|||0
+
+S Furthermore, it produces a high amount of fine soil, which is optimal the emergence following crop.
+A 12 12|||M:PREP|||for|||REQUIRED|||-NONE-|||0
+A 14 14|||M:OTHER|||of the|||REQUIRED|||-NONE-|||0
+
+S Any ISOBUS-capable , terminal can be used to this purpose.
+A 2 3|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 7 8|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S For road transport, packer of the middle segment serves as chassis.
+A 3 3|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 10 10|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S HORSCH solutions hybrid farming help you - just as in tillage, seeding technologies or crop protection - to achieve your individual requirements and goals in arable farming in the vest possibles way.
+A 2 2|||M:PREP|||for|||REQUIRED|||-NONE-|||0
+A 12 13|||R:NOUN:NUM|||technology|||REQUIRED|||-NONE-|||0
+A 29 30|||R:ADJ|||best|||REQUIRED|||-NONE-|||0
+A 30 31|||R:MORPH|||possible|||REQUIRED|||-NONE-|||0
+
+S An additional front packers Also on the Sprinter improves soil cultivation and levelling and supports precise seeded placement.
+A 3 4|||R:NOUN:NUM|||packer|||REQUIRED|||-NONE-|||0
+A 4 5|||U:ADV||||||REQUIRED|||-NONE-|||0
+A 16 17|||R:MORPH|||seed|||REQUIRED|||-NONE-|||0
+
+S We place the highest demands on our harrows, hoes and cultivators.
+
+S The Sprinter NT 11 24 m working widths stands maximum impact power.
+A 3 3|||M:PREP|||in|||REQUIRED|||-NONE-|||0
+A 4 4|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
+A 9 9|||M:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S spreading is automatically controlled by the speed and the linkage controlling of chocolate tractor.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 10 11|||R:MORPH|||control|||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+
+S applies to research, design and development as well as to is assembly, Service and consulting.
+A 0 0|||M:DET|||This|||REQUIRED|||-NONE-|||0
+A 10 11|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 12 13|||R:ORTH|||service|||REQUIRED|||-NONE-|||0
+
+S We take the time for extensive studies, went once again with the technology also on our own farms with over 6,000 ha in the field - to experience for ourselves what we are developing and what we are talking about.
+A 7 8|||R:VERB:TENSE|||go|||REQUIRED|||-NONE-|||0
+
+S A signal could be taken either via the 7-pin socket optionally via a radar sensor.
+A 0 1|||R:DET|||The|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:TENSE|||can|||REQUIRED|||-NONE-|||0
+A 10 10|||M:CONJ|||or|||REQUIRED|||-NONE-|||0
+
+S We take responsibility in agriculture and share the feelings us of our customers - this what we are passionate about.
+A 9 10|||U:PRON||||||REQUIRED|||-NONE-|||0
+A 15 15|||M:VERB|||is|||REQUIRED|||-NONE-|||0
+
+S The HORSCH NT chisel coulter seeding technique allows a high proportion of fine soil in enjoying seed row and the placement of the seed in a so-called "open furrow".
+A 15 16|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+
+S The agricultural origin makes HORSCH and products you optimal solutions in hybrid agriculture.
+A 6 6|||M:DET|||its|||REQUIRED|||-NONE-|||0
+A 7 8|||R:DET|||your|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOUN:NUM|||solution|||REQUIRED|||-NONE-|||0
+
+S Electronics and the enable new functions in and around the machine picture year after year.
+A 2 3|||R:OTHER|||software|||REQUIRED|||-NONE-|||0
+A 11 12|||U:NOUN||||||REQUIRED|||-NONE-|||0
+
+S The seed coulter forms a furrow the and clearing clods organic material from seed horizon.
+A 6 7|||U:DET||||||REQUIRED|||-NONE-|||0
+A 8 9|||R:MORPH|||clears|||REQUIRED|||-NONE-|||0
+A 10 10|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+A 13 13|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S All machines can be perfectly adapted to requirements 's (soils, climate, farm sizes...) in the field of hybrid agriculture.
+A 7 7|||M:DET|||your|||REQUIRED|||-NONE-|||0
+A 8 9|||U:NOUN:POSS||||||REQUIRED|||-NONE-|||0
+
+S The seed placed in furrow and fixed in moist soil by the pressure roller.
+A 2 2|||M:VERB:TENSE|||is|||REQUIRED|||-NONE-|||0
+A 4 4|||M:DET|||this|||REQUIRED|||-NONE-|||0
+A 8 8|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S This meaning that field emergence is achieved even under extreme climatic conditions.
+A 1 2|||R:MORPH|||means|||REQUIRED|||-NONE-|||0
+A 3 3|||M:OTHER|||very good|||REQUIRED|||-NONE-|||0
+
+S There ISOBUS SectionControl functions enables automatic individual segments lifting.
+A 0 1|||R:OTHER|||The|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOUN:NUM|||function|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOUN:NUM|||segment|||REQUIRED|||-NONE-|||0
+
+S In our industry, we are it at season very beginning of the intelligent networking of functions, machines and services.
+A 5 6|||R:OTHER|||only|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+
+S It can 's sow in both cultivated and uncultivated soil and is ideal for direct sowing.
+A 2 3|||R:NOUN:POSS|||be|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB:FORM|||sown|||REQUIRED|||-NONE-|||0
+
+S The Sprinter 24 NT achieves maximums performance thanks its width and the matching 17 000 litre SW 17000 SD seed hopper.
+A 5 6|||R:MORPH|||maximum|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PREP|||to|||REQUIRED|||-NONE-|||0
+A 9 9|||M:VERB|||working|||REQUIRED|||-NONE-|||0
+
+S the currents have position is determined via GPS.
+A 0 1|||R:ORTH|||The|||REQUIRED|||-NONE-|||0
+A 1 2|||R:MORPH|||current|||REQUIRED|||-NONE-|||0
+A 2 3|||U:VERB||||||REQUIRED|||-NONE-|||0
+
+S 11 15 meter wide version has some special features.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 1 1|||M:PUNCT|||/|||REQUIRED|||-NONE-|||0
+
+S HORSCH intend to make even more try consistent use of the resulting opportunities for optimizing work processes and information flows for 's customers the future.
+A 1 2|||R:VERB:SVA|||intends|||REQUIRED|||-NONE-|||0
+A 6 7|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 21 22|||R:NOUN:POSS|||its|||REQUIRED|||-NONE-|||0
+A 23 23|||M:PREP|||in|||REQUIRED|||-NONE-|||0
+
+S That is whies though we are working on the automation and connectivity of our machined with an enlarged development team in the field of systems engineering.
+A 2 4|||R:OTHER|||why|||REQUIRED|||-NONE-|||0
+A 14 15|||R:MORPH|||machines|||REQUIRED|||-NONE-|||0
+
+S This means that at field boundaries, headlands, overlaps or for defined areas, can parallelograms are automatically lifted individually.
+A 9 10|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+A 12 13|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+
+S Here more seed wagons and seeding unit are a compact unit.
+A 1 2|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 3 4|||R:NOUN:NUM|||wagon|||REQUIRED|||-NONE-|||0
+A 9 9|||M:ADV|||more|||REQUIRED|||-NONE-|||0
+
+S Just as in tillage and crop protection, the seeding solutions HORSCH help you to make your individual requirements and goals in arable farming in the best possible way.
+A 10 10|||M:PREP|||from|||REQUIRED|||-NONE-|||0
+A 14 15|||R:VERB|||achieve|||REQUIRED|||-NONE-|||0
+
+S Sprinter 11 / 15 NT also have a slightly smaller seed wagon with a capacity from 12 000 litres.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:SVA|||has|||REQUIRED|||-NONE-|||0
+A 15 16|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S We attach great importance a reliability or components and functions.
+A 4 4|||M:PREP|||to|||REQUIRED|||-NONE-|||0
+A 4 5|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||of|||REQUIRED|||-NONE-|||0
+
+S Farm specializations, farm expansions, farm communities: The structural change in agriculture is progressing rapidly and also presenting agricultural engineering with completely fresh tasks.
+A 15 15|||M:VERB:TENSE|||is|||REQUIRED|||-NONE-|||0
+A 21 22|||R:ADJ|||new|||REQUIRED|||-NONE-|||0
+
+S . We place highest demands our sowing machines - 3-point machines, universal furrow/disc sowing technology, tine sowing technology and precision seed , drills.
+A 0 1|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 3 3|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PREP|||on|||REQUIRED|||-NONE-|||0
+A 21 22|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S Our goal is to continuously improve the ease of operation and productivity of HORSCH machines see electronics, software and telemetric data connections, while at same time continually reducing electronics-related failures.
+A 15 16|||R:OTHER|||through|||REQUIRED|||-NONE-|||0
+A 24 24|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S Optimisation in of soil cultivation, sowing and harvesting techniques as well as cost reduction are the requirements - while at the same time increasing yields improving the quality from the harvested crop.
+A 1 2|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 25 25|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+A 28 29|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S This applies and to research, design and developments as well likes to assembly, service and consulting.
+A 2 3|||U:CONJ||||||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOUN:NUM|||development|||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||as|||REQUIRED|||-NONE-|||0
+
+S a To ensure the smooth electronic coupling of our machines in by tractors and farm management software, we are together with many other agricultural machinery manufacturers in the AEF on the practical standardization of ISOBUS and data interfaces.
+A 0 1|||U:DET||||||REQUIRED|||-NONE-|||0
+A 10 12|||R:PREP|||with|||REQUIRED|||-NONE-|||0
+A 19 19|||M:VERB|||working|||REQUIRED|||-NONE-|||0
+
+S We take the time for extensive studies, go once again with technology also on our own farms with over 6,000 ha in the field - to experience for ourselves what we being developping up and what we are talking about.
+A 11 11|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 31 32|||R:VERB:FORM|||are|||REQUIRED|||-NONE-|||0
+A 32 33|||R:SPELL|||developing|||REQUIRED|||-NONE-|||0
+A 33 34|||U:ADV||||||REQUIRED|||-NONE-|||0
+
+S In the following we present some current and future functions and products from our electronics development areas about sowing technology, crop protection technology and telemetry.
+A 16 16|||M:OTHER|||in the|||REQUIRED|||-NONE-|||0
+A 17 18|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S As a developer and pioneer, HORSCH has become one of is leading manufacturers of tillage in seeded technology.
+A 10 11|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 16 17|||R:MORPH|||seeding|||REQUIRED|||-NONE-|||0
+
+S We responsibility in agriculture and share feelings of our customers - this live is what we are passionate about.
+A 1 1|||M:VERB|||take|||REQUIRED|||-NONE-|||0
+A 6 6|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 12 13|||U:NOUN||||||REQUIRED|||-NONE-|||0
+
+S Innovative ideas of practice to practice - this is how technology systems and high-grade machines are creating which correspond to the latest findings in terms of quality, robustness and durability.
+A 2 3|||R:PREP|||from|||REQUIRED|||-NONE-|||0
+A 4 5|||R:PART|||for|||REQUIRED|||-NONE-|||0
+A 16 17|||R:VERB:FORM|||created|||REQUIRED|||-NONE-|||0
+
+S The agricultural origin is HORSCH its products in seeding technologies your optimal solution.
+A 3 4|||R:VERB|||makes|||REQUIRED|||-NONE-|||0
+A 5 5|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+A 9 10|||R:NOUN:NUM|||technology|||REQUIRED|||-NONE-|||0
+
+S The coulter pressure controll HORSCH AutoForce allows the user a permanent, automatic adjustment of coulter `` pressure according to pre-selected parameters.
+A 3 4|||R:SPELL|||control|||REQUIRED|||-NONE-|||0
+A 14 14|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 15 16|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S in addition, HORSCH advises companies on the development of individual management concepts and process chains - and, together with its sales and service partners, ensures seamless support, the fastest possible repairs and an immediate supply of spare into parts.
+A 0 1|||R:ORTH|||In|||REQUIRED|||-NONE-|||0
+A 37 38|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S This continuously compensates for soil difference or varying soil conditions.
+A 5 6|||R:NOUN:NUM|||differences|||REQUIRED|||-NONE-|||0
+
+S All the machines the on this can be perfectly adapts to hard requirements (soils, climate, farm sizes...).
+A 3 4|||U:DET||||||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB:FORM|||adapted|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||your|||REQUIRED|||-NONE-|||0
+
+S generation with which seedbed preparation, sowing and fertilising be managed an in one operation.
+A 0 0|||M:DET|||A|||REQUIRED|||-NONE-|||0
+A 8 8|||M:VERB:TENSE|||can|||REQUIRED|||-NONE-|||0
+A 10 11|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S sowing row crops as maize, sunflowers, soybeans or sugar beet, not only the distribution of the grains in the row but , the reliable observance of the placement depth is decisive of optimum yields at the respective location.
+A 0 0|||M:ADV|||When|||REQUIRED|||-NONE-|||0
+A 3 3|||M:ADJ|||such|||REQUIRED|||-NONE-|||0
+A 21 22|||R:OTHER|||also|||REQUIRED|||-NONE-|||0
+A 31 32|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S There robust tine seeding drill has its strengths above all in mulch sowing.
+A 0 1|||R:OTHER|||The|||REQUIRED|||-NONE-|||0
+A 3 4|||R:MORPH|||seed|||REQUIRED|||-NONE-|||0
+
+S Express KR combines proven HORSCH seeding technology with PTO driven tillage time air Kredo power harrow.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 11 13|||R:OTHER|||with the|||REQUIRED|||-NONE-|||0
+
+S It enables intensive seedbed preparation under difficult conditions.
+A 5 5|||M:ADV|||even|||REQUIRED|||-NONE-|||0
+
+S The latter is are ensured of the one hand by the arrangement of the depth control wheels directly next the seed coulter and on the other hand stabilised by sufficient coulter pressure.
+A 2 3|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
+A 5 6|||R:PREP|||on|||REQUIRED|||-NONE-|||0
+A 19 19|||M:PREP|||to|||REQUIRED|||-NONE-|||0
+
+S The Kredo rotary harrow has 10 rotors m working width.
+A 7 7|||M:OTHER|||on 3|||REQUIRED|||-NONE-|||0
+
+S It is designed for maximum stability even in stony soils.
+
+S The sturdy frame constructions with light-weight seed it coulters and large-volume seed hoppers enables high acreage output that an optimum be cost-benefit ratio.
+A 3 4|||R:NOUN:NUM|||construction|||REQUIRED|||-NONE-|||0
+A 7 8|||U:PRON||||||REQUIRED|||-NONE-|||0
+A 17 18|||R:PREP|||with|||REQUIRED|||-NONE-|||0
+A 20 21|||U:VERB||||||REQUIRED|||-NONE-|||0
+
+S The HORSCH Maestro precision air seeder operates but a maximum coulter pressure 350 kgs per row.
+A 7 8|||R:OTHER|||with|||REQUIRED|||-NONE-|||0
+A 12 12|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOUN:INFL|||kg|||REQUIRED|||-NONE-|||0
+
+S With the Sprinter, you not only bundle time-consuming processes into a single operation.
+A 8 8|||M:NOUN|||work|||REQUIRED|||-NONE-|||0
+
+S It can be equipped to quick-change tines on tow or handle.
+A 4 5|||R:PREP|||with|||REQUIRED|||-NONE-|||0
+
+S Especially the case of heterogeneous soil types is and varying soil moisture, the quention the correct coulter pressure often arises in practice.
+A 1 1|||M:PREP|||in|||REQUIRED|||-NONE-|||0
+A 7 8|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 13 14|||R:SPELL|||question|||REQUIRED|||-NONE-|||0
+A 14 14|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S At the charged time you english increase the precision in seed placement and fertilisation.
+A 2 3|||R:ADJ|||same|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||also|||REQUIRED|||-NONE-|||0
+
+S little Tines with . hard metal coating are available maximum service life.
+A 0 1|||U:ADJ||||||REQUIRED|||-NONE-|||0
+A 3 4|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 9 9|||M:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S Carefully you working tyre packers ensure an optimum soil contact of the seed.
+A 1 2|||U:PRON||||||REQUIRED|||-NONE-|||0
+
+S Here, the proven coating technology the than cultivator tine sector is used.
+A 5 5|||M:PREP|||from|||REQUIRED|||-NONE-|||0
+A 6 7|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S The cultivator usually focuses on the most difficult soil type in in the field and adjusts the coulter pressure in order join precisely maintain the desired placement depth there and to ensure that the seed is pressing into the pre-consolidated horizon as optimally as possible.
+A 10 11|||U:PART||||||REQUIRED|||-NONE-|||0
+A 21 22|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
+A 36 37|||R:VERB:FORM|||pressed|||REQUIRED|||-NONE-|||0
+
+S The use of the Sprinter and leads not only to significant long savings but also to a more uniform fielded emergence and more resistant seedlings (HORSCH PPF system).
+A 5 6|||U:CONJ||||||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||time|||REQUIRED|||-NONE-|||0
+A 19 20|||R:MORPH|||field|||REQUIRED|||-NONE-|||0
+
+S and The fine adjustment of the working depth of the power harrow this is easily accessible and clearly visible , from the outside.
+A 0 1|||U:CONJ||||||REQUIRED|||-NONE-|||0
+A 12 13|||U:DET||||||REQUIRED|||-NONE-|||0
+A 19 20|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S As a result, however, the coulter pressure in the other soil zones of the field is sometimes much too high, resulting were in compaction or obstacles to the development or the crop when young.
+A 21 22|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 29 30|||R:OTHER|||of|||REQUIRED|||-NONE-|||0
+
+S The sensor technology required for HORSCH AutoForce is located the tandem connection of the depth guide wheels and measures the weight load on the depth guide rollers.
+A 9 9|||M:PREP|||on|||REQUIRED|||-NONE-|||0
+
+S levelling barred canned be adjusted just as easily.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 1 2|||R:MORPH|||bar|||REQUIRED|||-NONE-|||0
+A 2 3|||R:VERB:FORM|||can|||REQUIRED|||-NONE-|||0
+
+S The weight is recorded by means of strain gauges and is fully integrated into the hardware and software of the HORSCH Maestro.
+
+S In establishing way, you create the ideal conditions for fully exploiting then securing the expected earnings potential.
+A 1 2|||R:OTHER|||this|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+
+S be It Express KR has three are packer variants.
+A 0 2|||R:OTHER|||The|||REQUIRED|||-NONE-|||0
+A 6 7|||U:VERB||||||REQUIRED|||-NONE-|||0
+
+S The basic design of the Focus about MT is based on proven concept of the HORSCH Tiger MT.
+A 6 7|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 11 11|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S The control systme itself want permanently intervenes in the standard hydraulic coulter pressure system HORSCH Maestro.
+A 2 3|||R:SPELL|||system|||REQUIRED|||-NONE-|||0
+A 4 5|||R:OTHER|||then|||REQUIRED|||-NONE-|||0
+A 14 14|||M:OTHER|||of the|||REQUIRED|||-NONE-|||0
+
+S HORSCH AutoForce has been available as additional equipment since 2016 and is characterized by easy integration into the existing HORSCH Maestro single grain technology.
+A 14 14|||M:DET|||its|||REQUIRED|||-NONE-|||0
+
+S The tool sequence starts with a 2-row heavy disc harrow for maximum chopping of crop but residues intensive mixing, followed by two rows of tines for intensive loosening and precise fertiliser placement.
+A 15 16|||U:CONJ||||||REQUIRED|||-NONE-|||0
+A 17 17|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S ; The tooth packer roller a large 64 cm diameter is suitable for all conditions.
+A 0 1|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 5 5|||M:PREP|||with|||REQUIRED|||-NONE-|||0
+
+S It is the only system on the market that can guarantee the coulter pressure by hydraulic powering transmission from the centre of the machine (seed wagon) to the outer wings over the entire work width as standard.
+A 16 17|||R:MORPH|||power|||REQUIRED|||-NONE-|||0
+A 33 34|||R:VERB:FORM|||working|||REQUIRED|||-NONE-|||0
+
+S It a high load capacity even on front soils, which is a positive effect on tractive effort and diesel consumption.
+A 1 1|||M:VERB|||has|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOUN|||light|||REQUIRED|||-NONE-|||0
+A 10 11|||R:VERB|||has|||REQUIRED|||-NONE-|||0
+
+S 's makes automatics coulter pressure control so useful.
+A 0 0|||M:DET|||This|||REQUIRED|||-NONE-|||0
+A 0 1|||R:OTHER|||is what|||REQUIRED|||-NONE-|||0
+A 2 3|||R:MORPH|||automatic|||REQUIRED|||-NONE-|||0
+
+S ContourFarming this automatic adjustment of the metering frequency corner over the entire machine working width.
+A 1 1|||M:VERB|||is|||REQUIRED|||-NONE-|||0
+A 1 2|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PREP|||during|||REQUIRED|||-NONE-|||0
+A 8 9|||R:VERB:FORM|||cornering|||REQUIRED|||-NONE-|||0
+
+S Before the RingFlex in or tyre packer, the disc leveled good unit effectively levels this surface.
+A 3 4|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 9 11|||R:OTHER|||levelling|||REQUIRED|||-NONE-|||0
+A 14 15|||R:DET|||the|||REQUIRED|||-NONE-|||0
+
+S For crops such as maize, sunflowers or sugar beet, an optimum sowing rate target stand just density is specified by the breeder, depending on the variety location, and am usually based on trials.
+A 13 13|||M:CONJ|||or|||REQUIRED|||-NONE-|||0
+A 15 16|||U:ADV||||||REQUIRED|||-NONE-|||0
+A 26 26|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+A 28 29|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
+
+S The Focus MT can , use after all crops and crop residues.
+A 4 5|||R:OTHER|||be|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||used|||REQUIRED|||-NONE-|||0
+
+S The trapezoidal ring packer has any diameter for 50 cm for heavy soils in point reconsolidation performance or 60 cm for varying soils from light to heavy with high load capacity requirements.
+A 5 6|||R:DET|||a|||REQUIRED|||-NONE-|||0
+A 7 8|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 13 14|||R:OTHER|||with high|||REQUIRED|||-NONE-|||0
+
+S Each of variety a certain tolerance range, e.g. from 60 000 to 75 000 plants per hectare.
+A 1 2|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 3 3|||M:VERB|||has|||REQUIRED|||-NONE-|||0
+
+S It and forme perfect seed furrow even under heavy and cohesive conditions.
+A 1 2|||U:CONJ||||||REQUIRED|||-NONE-|||0
+A 2 3|||R:SPELL|||forms|||REQUIRED|||-NONE-|||0
+A 3 3|||M:DET|||a|||REQUIRED|||-NONE-|||0
+
+S The seed rate should also be within you this range more the headland or when cornering or turning.
+A 7 8|||U:PRON||||||REQUIRED|||-NONE-|||0
+A 10 11|||R:OTHER|||on|||REQUIRED|||-NONE-|||0
+
+S The frame height to 85 cm guarantees maximum passage , to blockage-free working.
+A 3 4|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 9 10|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 10 11|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S The FarmFlex packer is particularly suitable of for medium soils with lows cohesion.
+A 6 7|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 11 12|||R:MORPH|||low|||REQUIRED|||-NONE-|||0
+
+S Use without coulter cultivation for autumn tillage.
+
+S The HORSCH Maestro series with its individually electrically driven metering units offers the ideal the basis for integrating an automatic adjustment of the seed rate when cornering or curving.
+A 14 15|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S Perfect loosening , mixing for the following spring sowing.
+A 2 3|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+
+S The the robust rubber there roller a diameter of 54 cm produces a stripwise reconsolidation in groove form and reduces the crusting effect expecting the soil (only available for Express 3 KR).
+A 0 2|||U:DET|||The|||REQUIRED|||-NONE-|||0
+A 4 5|||U:ADV||||||REQUIRED|||-NONE-|||0
+A 6 6|||M:PREP|||with|||REQUIRED|||-NONE-|||0
+A 23 24|||R:OTHER|||of|||REQUIRED|||-NONE-|||0
+
+S addition, it is possible set up targeted fertilizer depots for corn, sunflowers and soybeans.
+A 0 0|||M:PREP|||In|||REQUIRED|||-NONE-|||0
+A 4 4|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
+
+S With a line spacing of 35 cm, all row systems 35 70 cm can be operated.
+A 10 10|||M:PREP|||with|||REQUIRED|||-NONE-|||0
+A 11 11|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S Placing fertiliser in the autumn has the great advantage that the sensitive soils do not have to been and worked deeply in the spring, but the effect of the targeted depot fertilisation can still be fully exploited.
+A 17 19|||R:OTHER|||be|||REQUIRED|||-NONE-|||0
+
+S With the ContourFarming equipment, the Maestro 16, 24 and 36 SW are was equipped with two additional radar sensors for speed detection, which for mounted on it opposite wing ends of the machine And record the speed there.
+A 12 13|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
+A 23 24|||R:OTHER|||are|||REQUIRED|||-NONE-|||0
+A 26 27|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 33 34|||R:ORTH|||and|||REQUIRED|||-NONE-|||0
+
+S and Focus TD represents the consistent further development of the "StripTill approach".
+A 0 1|||R:OTHER|||The|||REQUIRED|||-NONE-|||0
+
+S more flexibility, a Express KR is available with singled or him double tank.
+A 0 0|||M:PREP|||For|||REQUIRED|||-NONE-|||0
+A 2 3|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 8 9|||R:MORPH|||single|||REQUIRED|||-NONE-|||0
+A 10 11|||U:PRON||||||REQUIRED|||-NONE-|||0
+
+S Points such as targeted loosening in later row in combination with concentrated fertiliser placement were implemented with proven components and combined with the well-known Pronto sowing technique.
+A 5 6|||R:PREP|||under|||REQUIRED|||-NONE-|||0
+A 6 6|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S With double tank version, two components can metered into the same seed flow and placed together in the seed furrow.
+A 1 1|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 7 7|||M:VERB:TENSE|||be|||REQUIRED|||-NONE-|||0
+
+S of standard radar sensor is located in the which middle in of the machine.
+A 0 1|||R:OTHER|||The|||REQUIRED|||-NONE-|||0
+A 8 9|||U:DET||||||REQUIRED|||-NONE-|||0
+A 10 11|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S The adjustment of the sowing depth is done hydraulically and is staked with the well-known coloured aluminium clips.
+
+S When the machine makes a turn, the radar sensor on the inside of the turn registers a slower speed and the radar sensor onto the outside of the turn registers a higher speed.
+A 23 24|||R:PREP|||on|||REQUIRED|||-NONE-|||0
+
+S The new generation of AirVac a AirSpeed dosing . units are basically very similar in design and work according the same dosing principle.
+A 5 6|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 8 9|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 19 19|||M:PREP|||to|||REQUIRED|||-NONE-|||0
+
+S As soon likes this difference is greater than 0.6 km/h, each individual row motors of the metering units is automatically supplied with a other value corrects by the change in speed on the basis of a stored control curve.
+A 2 3|||R:OTHER|||as|||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOUN:NUM|||motor|||REQUIRED|||-NONE-|||0
+A 23 24|||U:ADJ||||||REQUIRED|||-NONE-|||0
+A 25 26|||R:VERB:FORM|||corrected|||REQUIRED|||-NONE-|||0
+
+S They are universally suitable for many crops for very precise grain separation.
+
+S Express KR has a frame wheres the setting doing rotary harrow does not affect the sowing depth.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 5 6|||R:MORPH|||where|||REQUIRED|||-NONE-|||0
+A 8 9|||R:OTHER|||of|||REQUIRED|||-NONE-|||0
+A 9 9|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S With different metering discs, corn, sunflowers, sugar beets, soybeans and other types of beans as well as rapeseed and sorghum can be reliably separated.
+
+S Measured terms of the time unit, the machine thus places less seed in the rows the the inside of the curve and more seed on the outside of the Probably curve, which means that the sowing rate per hectare remains constant.
+A 1 1|||M:PREP|||in|||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||on|||REQUIRED|||-NONE-|||0
+A 29 30|||U:ADV||||||REQUIRED|||-NONE-|||0
+
+S The TurboDisc coulters can be completely lifted hydraulically in order for be able on work solo with the powering harrow.
+A 10 11|||R:PART|||to|||REQUIRED|||-NONE-|||0
+A 13 14|||R:PART|||to|||REQUIRED|||-NONE-|||0
+A 18 19|||R:MORPH|||power|||REQUIRED|||-NONE-|||0
+
+S This process runs automatically and allows the yield potential of the respective plant to optimally exploited.
+A 14 14|||M:VERB:TENSE|||be|||REQUIRED|||-NONE-|||0
+
+S The AirVac system is based onto the principle of vacuum singulation, in I not which the seed is sucked onto a perforated disc.
+A 5 6|||R:PREP|||on|||REQUIRED|||-NONE-|||0
+A 12 14|||U:OTHER||||||REQUIRED|||-NONE-|||0
+
+S In addition, seeding unit can easily be detached from the power harrow via only 4 attachment points in orders to use the Kredo individually.
+A 2 2|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 18 19|||R:NOUN:NUM|||order|||REQUIRED|||-NONE-|||0
+
+S AutoSpeed is takes the convenient solution for achieving consistent deposit accuracy at optimum rights-of-way speed.
+A 2 3|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 13 14|||R:NOUN|||right-of-way|||REQUIRED|||-NONE-|||0
+
+S The AirSpeed system works according , to overpressure principle, in which grains are pressed against the perforated disc.
+A 5 6|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 7 7|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 11 11|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S The Express TD combines the advantages a manoeuvrable 3-point seed bar with the power of Pronto DC.
+A 6 6|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 15 15|||M:DET|||a|||REQUIRED|||-NONE-|||0
+
+S In both feeders, the grains pass through separator which ensures that double occupancy eliminated.
+A 7 7|||M:DET|||a|||REQUIRED|||-NONE-|||0
+A 13 13|||M:VERB|||is|||REQUIRED|||-NONE-|||0
+
+S Varying soil conditions normally lead to different results term from sowing quality (VC).
+A 8 8|||M:PREP|||in|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN:NUM|||terms|||REQUIRED|||-NONE-|||0
+A 9 10|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S The compact as smooth High-Speed Drill thus ensures a noticeable increase in productivity.
+A 2 3|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+
+S using the AutoSpeed function, the driver specifies desired deposit accuracy.
+A 0 0|||M:ADV|||When|||REQUIRED|||-NONE-|||0
+A 7 7|||M:DET|||a|||REQUIRED|||-NONE-|||0
+
+S The special feature of this particular component is that it does not have to replaced when changing the crop and that no adjustment work imagine to was be carried out on it by the driver.
+A 14 14|||M:VERB:TENSE|||be|||REQUIRED|||-NONE-|||0
+A 24 25|||R:VERB|||needs|||REQUIRED|||-NONE-|||0
+A 26 27|||U:VERB:TENSE||||||REQUIRED|||-NONE-|||0
+
+S The contour the separating stop has been optimised to ensure reliable separation all crops.
+A 2 2|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 12 12|||M:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S proven DiscSystem of the Express TD ensure perfect fine soil at production at speeds of 10 - 20 km/h.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 6 7|||R:VERB:SVA|||ensures|||REQUIRED|||-NONE-|||0
+A 10 11|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S The transfer of the seed from the metering unit into the soil is the fundamental differences in the two new generations of metering units: After singling, the seed in the AirVac system is fed the furrow bottom by means of a really downpipe and pressed on on the catcher roller as required.
+A 15 16|||R:NOUN:NUM|||difference|||REQUIRED|||-NONE-|||0
+A 34 34|||M:PREP|||into|||REQUIRED|||-NONE-|||0
+A 41 42|||U:ADV||||||REQUIRED|||-NONE-|||0
+A 46 47|||R:PREP|||by|||REQUIRED|||-NONE-|||0
+
+S Now that Maestro transmits a varying target speed the tractor, depending on whether the desired value is exceeded not.
+A 1 2|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PREP|||to|||REQUIRED|||-NONE-|||0
+A 18 18|||M:CONJ|||or|||REQUIRED|||-NONE-|||0
+
+S Due he the intensive make soil cultivation, a power take-off shaft can be dispensed with.
+A 1 2|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
+A 4 5|||U:NOUN||||||REQUIRED|||-NONE-|||0
+
+S In way, the UK are kept as constant as possible.
+A 1 1|||M:DET|||this|||REQUIRED|||-NONE-|||0
+A 4 5|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
+
+S Today, those who create tramlines generally drive lane-to-lane despite the steering system, even if, example, skipping work second lane would lead to an improved workflow.
+A 14 14|||M:PREP|||for|||REQUIRED|||-NONE-|||0
+A 16 17|||R:OTHER|||every|||REQUIRED|||-NONE-|||0
+
+S With the AirSpeed system, the separated grains are captured by the an air stream, accelerated and shot with the air stream through `` shot tube into the ground.
+A 10 11|||U:DET||||||REQUIRED|||-NONE-|||0
+A 22 23|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+
+S Thanks to the large passage, 460 mm discs are insensitive even to high levels of organic material.
+A 5 5|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S are intercepted and embedded by fixes catching roller.
+A 0 0|||M:PRON|||They|||REQUIRED|||-NONE-|||0
+A 5 5|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 5 6|||R:ADJ:FORM|||fixed|||REQUIRED|||-NONE-|||0
+
+S Tramline errors are also frequently caused unintentional counting of the when track numbers, e.g. at obstacles inside the loft.
+A 6 6|||M:PREP|||by|||REQUIRED|||-NONE-|||0
+A 10 11|||U:ADV||||||REQUIRED|||-NONE-|||0
+
+S With both metering units, the grains pass through grain sensor into the drop or shot tube for optimum monitoring of the sowing success.
+A 8 8|||M:DET|||a|||REQUIRED|||-NONE-|||0
+A 10 11|||R:PREP|||in|||REQUIRED|||-NONE-|||0
+
+S The working depth of the DiscSystem can optionally live adjusted hydraulically from the tractor.
+A 8 9|||R:VERB|||be|||REQUIRED|||-NONE-|||0
+
+S The sensor's measuring technology is capable of counting grains, determining distances between grain and thus also transmits imformation to the driver `` with regard to double and missing grains.
+A 12 13|||R:NOUN:NUM|||grains|||REQUIRED|||-NONE-|||0
+A 16 17|||R:VERB:FORM|||transmitting|||REQUIRED|||-NONE-|||0
+A 17 18|||R:SPELL|||information|||REQUIRED|||-NONE-|||0
+A 21 22|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S With HORSCH AutoLine, on the other hand, the positions of finished all other tramlines And automatically calculated on a satellite basis after the first tramline in has been created.
+A 10 11|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 14 15|||R:OTHER|||are|||REQUIRED|||-NONE-|||0
+A 25 26|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S Uniform field more emergence is now a prerequisite for an even crop.
+A 2 3|||U:ADJ||||||REQUIRED|||-NONE-|||0
+A 5 6|||U:ADV||||||REQUIRED|||-NONE-|||0
+
+S The transmitted values of the singling accuracy are clearly displayed on the terminal of the machine and additionally up the safety during sowing.
+A 18 19|||R:OTHER|||increase|||REQUIRED|||-NONE-|||0
+
+S To achieve this goal, optimal levelling and reconsolidation from the seedbed must be carried out.
+A 8 9|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S It is no more necessary to follow machine when sowing.
+A 2 2|||M:ADV|||now|||REQUIRED|||-NONE-|||0
+A 3 4|||R:ADV|||longer|||REQUIRED|||-NONE-|||0
+A 7 7|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S The generations AirVac and AirSpeed feeders are electrically driven as standard and can controlled individually to each row.
+A 1 1|||M:ADJ|||new|||REQUIRED|||-NONE-|||0
+A 2 2|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+A 13 13|||M:VERB:TENSE|||be|||REQUIRED|||-NONE-|||0
+A 15 16|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S The packer elements of the FarmFlex packer with 54 cm diameter be specially adapted to the seed coulters this purpose.
+A 11 12|||R:VERB:TENSE|||are|||REQUIRED|||-NONE-|||0
+A 18 18|||M:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S The technology allows the familiar functions single row shutdown, SectionControl, VariableRate and tramline control.
+A 0 1|||R:DET|||This|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S Whenever the machine enters a lane that is I contain a tramline, the tramline flaps to are automatically actuated.
+A 8 9|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
+A 15 16|||U:VERB:FORM||||||REQUIRED|||-NONE-|||0
+
+S For VariableRate, the metering systems are designed in such a way that the seed rate can be changed in relation to individuals rows.
+A 21 22|||R:MORPH|||individual|||REQUIRED|||-NONE-|||0
+
+S Seed placement and embedding be a crucial factor that in sowing.
+A 4 5|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
+A 6 6|||M:ADV|||very|||REQUIRED|||-NONE-|||0
+A 8 9|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S The prerequisite for using this function is the of a HORSCH Touch Terminal.
+A 8 8|||M:NOUN|||use|||REQUIRED|||-NONE-|||0
+
+S Equally essential to success, however, been adherence to the optimal windows for seeding.
+A 5 6|||R:VERB:FORM|||is|||REQUIRED|||-NONE-|||0
+A 10 10|||M:NOUN|||time|||REQUIRED|||-NONE-|||0
+
+S Starting in 2020, selected product families of HORSCH Universal Drilling Technology will be available with new RowControl distribution tower.
+A 15 15|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S In addition to high forward speeds of up to 20 km/h, the Pronto DC offers large seed hoppers for long ranges.
+
+S in the case have tramline control, it being possible to individually adjust the sowing rate in the rows to the left and right of the tramline.
+A 0 1|||R:ORTH|||In|||REQUIRED|||-NONE-|||0
+A 3 4|||R:OTHER|||of|||REQUIRED|||-NONE-|||0
+A 7 8|||R:VERB:FORM|||is|||REQUIRED|||-NONE-|||0
+
+S All bearing points on the working tooling of the Pronto DC designed without service points.
+A 6 7|||R:MORPH|||tools|||REQUIRED|||-NONE-|||0
+A 11 11|||M:VERB:TENSE|||are|||REQUIRED|||-NONE-|||0
+
+S With these advance features, full use can some of all the measures taken to increase precision during sowing.
+A 2 3|||R:MORPH|||advanced|||REQUIRED|||-NONE-|||0
+A 7 7|||M:VERB:TENSE|||be|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||made|||REQUIRED|||-NONE-|||0
+
+S HORSCH took this approaches years ago and, in addition to reduced effort for daily maintenance, it offers a high degree of operational reliabilities even under the most difficult conditions.
+A 3 4|||R:MORPH|||approach|||REQUIRED|||-NONE-|||0
+A 22 23|||R:NOUN:NUM|||reliability|||REQUIRED|||-NONE-|||0
+
+S The new double tank system MTS (Main Tank Supply) for the Maestro CV stores 3 000 litres of fertilisers and 800 litres of seed.
+A 18 19|||R:NOUN:NUM|||fertiliser|||REQUIRED|||-NONE-|||0
+
+S Due to use of not singling row cut-off, overlaps and faults are now a thing of up past.
+A 2 2|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 4 6|||R:OTHER|||single|||REQUIRED|||-NONE-|||0
+A 16 17|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+
+S Pronto SW concept promises maximum output for large farms after ploughing for mulch sowing.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 11 11|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S The combination of the large-volume HORSCH seed wagon (12 000 l for 8 and 9 SW, 17 000 l for 12 SW) with the Pronto sowing unit results in significant advantaging in terms of stability, accessibility and flexibility.
+A 30 31|||R:MORPH|||advantages|||REQUIRED|||-NONE-|||0
+
+S Seeds, fertilizer micro-granules saved.
+A 2 2|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+A 3 3|||M:VERB|||are|||REQUIRED|||-NONE-|||0
+
+S This facilitates the calibration process, the adjustment of the machine as well of all lows maintenance work.
+A 12 13|||R:PREP|||as|||REQUIRED|||-NONE-|||0
+A 14 14|||M:ADV|||already|||REQUIRED|||-NONE-|||0
+A 14 15|||R:MORPH|||low|||REQUIRED|||-NONE-|||0
+
+S Unseeded strips can precisely sown without having to accept overlaps or so highs a cropping density.
+A 3 3|||M:VERB:TENSE|||be|||REQUIRED|||-NONE-|||0
+A 11 12|||R:ADV|||too|||REQUIRED|||-NONE-|||0
+A 12 13|||R:MORPH|||high|||REQUIRED|||-NONE-|||0
+A 14 15|||R:MORPH|||crop|||REQUIRED|||-NONE-|||0
+
+S Tramlines nothing be switched on a single row bases in any gauge and track width.
+A 1 2|||R:OTHER|||can|||REQUIRED|||-NONE-|||0
+A 8 9|||R:NOUN:NUM|||basis|||REQUIRED|||-NONE-|||0
+
+S The seed is continuously transported to the individual row units with a aid like MTS technology, it is separated by the AirVac metering unit.
+A 11 12|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 13 14|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 16 16|||M:ADV|||where|||REQUIRED|||-NONE-|||0
+
+S Thanks given TurboDisc sowing coulter, speeds between 10 and 20 km/h are also possible here.
+A 1 1|||M:PREP|||to|||REQUIRED|||-NONE-|||0
+A 1 2|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S The great advantage of MTS is the simple filling of the central seed hopper with simultaneous separation of seed on the row by a short distance to the seeds furrow.
+A 18 18|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 22 23|||R:PREP|||with|||REQUIRED|||-NONE-|||0
+A 28 29|||R:NOUN:NUM|||seed|||REQUIRED|||-NONE-|||0
+
+S Insertion at the beginning of the field according the specific pattern is no longer necessary.
+A 8 8|||M:PREP|||to|||REQUIRED|||-NONE-|||0
+A 8 9|||R:DET|||a|||REQUIRED|||-NONE-|||0
+
+S In both versions the fertiliser hopper is equip with the proven HORSCH metering technology and reliably and precisely operate the Maestro's under-foot fertiliser system.
+A 7 8|||R:VERB:FORM|||equipped|||REQUIRED|||-NONE-|||0
+A 15 15|||M:VERB:TENSE|||can|||REQUIRED|||-NONE-|||0
+
+S Chassis and frame about sowing all unit form even a solid unit.
+A 3 4|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 4 4|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 5 6|||U:DET||||||REQUIRED|||-NONE-|||0
+A 8 9|||U:ADV||||||REQUIRED|||-NONE-|||0
+
+S The HORSCH RowControl distribution tower is able to shut off individual rows without affecting the lateral distribution teacher of the machine due to its sophisticated seed and air guidance.
+A 17 18|||U:NOUN||||||REQUIRED|||-NONE-|||0
+
+S In practice, however, depends on the application, too will make sense to combine individual rows into small sections.
+A 3 4|||R:VERB:FORM|||depending|||REQUIRED|||-NONE-|||0
+A 7 8|||R:OTHER|||it|||REQUIRED|||-NONE-|||0
+
+S The Maestro coulter last hitch can be fitted 8 rows and 9 rows with 70 optical 70 to / 80 cm and 30" row spacing.
+A 3 4|||U:ADJ||||||REQUIRED|||-NONE-|||0
+A 8 8|||M:PREP|||with|||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||/|||REQUIRED|||-NONE-|||0
+A 17 18|||U:PART||||||REQUIRED|||-NONE-|||0
+
+S of the is basically comparable to the Pronto 7 to 9 DC withour seed tank.
+A 0 1|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 1 2|||R:DET|||This|||REQUIRED|||-NONE-|||0
+A 12 13|||R:SPELL|||without|||REQUIRED|||-NONE-|||0
+
+S With the development of the RowControl distribution , tower, HORSCH continues consistently join the path of strengthen precision in seeding.
+A 7 8|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 11 11|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
+A 12 13|||R:VERB|||follow|||REQUIRED|||-NONE-|||0
+A 16 17|||R:VERB|||increasing|||REQUIRED|||-NONE-|||0
+
+S DiscSystem and the TurboDisc seeded bar are lifted hydraulic cylinders.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+A 4 5|||R:MORPH|||seed|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PREP|||by|||REQUIRED|||-NONE-|||0
+
+S The rigid drawbar of the seed unit is carry by the seed wagon and follows the seed ? wagon like a 1-axle trailer.
+A 8 9|||R:VERB:FORM|||carried|||REQUIRED|||-NONE-|||0
+A 17 18|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S , in and application with 12 rows, distances 45 and 50 cm are available.
+A 0 2|||U:PUNCT|||In|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 8 8|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S The newly developed clamping profile allow not conversion from 12 to 8 rows.
+A 5 6|||R:VERB:SVA|||allows|||REQUIRED|||-NONE-|||0
+A 6 7|||R:OTHER|||easy|||REQUIRED|||-NONE-|||0
+
+S Despite the large width of to 12 m, a transporting the width of 3 m is possible.
+A 3 3|||M:VERB|||working|||REQUIRED|||-NONE-|||0
+A 5 5|||M:PREP|||up|||REQUIRED|||-NONE-|||0
+A 9 10|||R:MORPH|||transport|||REQUIRED|||-NONE-|||0
+A 10 11|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S After the good experiences in the field of crop protection, the intuitive operating logic from the HORSCH Leeb LT has been optimized out expanded for go field of seeding technology.
+A 14 15|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 20 20|||M:ADV|||now|||REQUIRED|||-NONE-|||0
+A 22 23|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 25 26|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+
+S With the I-Manager, HORSCH is gradually introducing a new ISOBUS operating concept for touch terminals.
+
+S This self-developed system has many new and innovative functions that make it easier for the farmer to adjust, operate and monitor his technology.
+
+S The new row body had a wide, stable parallelogram and is equipped `` as already standard with a hydraulic cylinder for coulter pressure generation.
+A 4 5|||R:VERB:TENSE|||has|||REQUIRED|||-NONE-|||0
+A 12 13|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 14 15|||U:ADV||||||REQUIRED|||-NONE-|||0
+
+S for example, in the future he can configure the display of the terminal interface according to his wishes.
+A 0 1|||R:ORTH|||For|||REQUIRED|||-NONE-|||0
+
+S Due to the seed wagon concept, the filling leveling of the seed hopper has no influence onto the working depth about the way sowing unit.
+A 8 9|||R:SPELL|||level|||REQUIRED|||-NONE-|||0
+A 16 17|||R:PREP|||on|||REQUIRED|||-NONE-|||0
+A 20 21|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 22 23|||U:NOUN||||||REQUIRED|||-NONE-|||0
+
+S With I-Manager hardware and software, a platform has been specifically created that handle an almost unlimited number of sections and components in the dosing process.
+A 1 1|||M:OTHER|||the new|||REQUIRED|||-NONE-|||0
+A 12 12|||M:VERB:TENSE|||can|||REQUIRED|||-NONE-|||0
+
+S Coulter morning pressures of up to 350 kg per row can used manually the terminal or fully automatically with innovative AutoForce coulter pressure control system.
+A 1 2|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 11 11|||M:VERB:TENSE|||be|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PREP|||at|||REQUIRED|||-NONE-|||0
+A 19 19|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S The HORSCH seed wagons concept provides large tank volumes to worker widths from 8 m.
+A 3 4|||R:NOUN:NUM|||wagon|||REQUIRED|||-NONE-|||0
+A 9 10|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+A 10 11|||R:MORPH|||working|||REQUIRED|||-NONE-|||0
+
+S The aim of this development is to introduce a fully diagnosable system all areas to of seeding technology in future.
+A 12 12|||M:PREP|||into|||REQUIRED|||-NONE-|||0
+A 14 15|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 19 19|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S The weight of the seed wagon is used generate coulter pressure across the full width of the machine, relieving the load on working the seed just wagon wheels when sowing.
+A 8 8|||M:VERB:FORM|||to|||REQUIRED|||-NONE-|||0
+A 22 23|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 25 26|||U:ADV||||||REQUIRED|||-NONE-|||0
+
+S Even without the filling auger, the filling openings of the seed wagon are very easy to reach, as the wings of the Pronto sowing unit do interfere do the filling process.
+A 26 26|||M:ADV|||not|||REQUIRED|||-NONE-|||0
+A 27 28|||R:OTHER|||with|||REQUIRED|||-NONE-|||0
+
+S Thanks for the double tank system, fertiliser be transported at the same time and incorporated directly into the soil via the PPF system (NOT with Pronto 12 SW 3 m transport width).
+A 1 2|||R:PREP|||to|||REQUIRED|||-NONE-|||0
+A 7 7|||M:VERB:TENSE|||can|||REQUIRED|||-NONE-|||0
+
+S In future, HorschConnect will serve that network the customer, the machine and HORSCH.
+A 1 1|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
+
+S has AirVac dosing unit can be used universally for exact 's grain separation.
+A 0 1|||R:OTHER|||The|||REQUIRED|||-NONE-|||0
+A 10 11|||U:NOUN:POSS||||||REQUIRED|||-NONE-|||0
+
+S This connectivity is possibles by the SmartCan module, which will allow more and more HORSCH machines for be equipped with job computers in the future.
+A 3 3|||M:VERB|||made|||REQUIRED|||-NONE-|||0
+A 3 4|||R:MORPH|||possible|||REQUIRED|||-NONE-|||0
+A 16 17|||R:PART|||to|||REQUIRED|||-NONE-|||0
+
+S With different metering discs, corn, sunflowers, sugar beets, soybeans and rapeseed , can reliably separated.
+A 11 12|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 13 13|||M:VERB:TENSE|||be|||REQUIRED|||-NONE-|||0
+
+S The AirVac system is based on the principle of vacuum singulation, which the seed sucked onto a perforated disc.
+A 11 11|||M:PREP|||in|||REQUIRED|||-NONE-|||0
+A 14 14|||M:VERB:TENSE|||is|||REQUIRED|||-NONE-|||0
+
+S Data being available the cloud or usable via WLAN for mobile device (e.g. smartphone or tablet).
+A 1 2|||R:VERB|||becomes|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PREP|||for|||REQUIRED|||-NONE-|||0
+A 10 10|||M:DET|||a|||REQUIRED|||-NONE-|||0
+
+S A doubling drop gate below for dosing unit allows a mechanical or optionally electronic half-side switching.
+A 1 2|||R:ADJ:FORM|||double|||REQUIRED|||-NONE-|||0
+A 5 6|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 13 13|||M:DET|||an|||REQUIRED|||-NONE-|||0
+
+S The grains picked up pass a scraper in dosing process, which ensures double occupancies eliminated.
+A 5 5|||M:PREP|||through|||REQUIRED|||-NONE-|||0
+A 8 8|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 12 12|||M:PREP|||that|||REQUIRED|||-NONE-|||0
+A 14 14|||M:VERB|||are|||REQUIRED|||-NONE-|||0
+
+S avoids overlaps and saves seed fertiliser.
+A 0 0|||M:DET|||This|||REQUIRED|||-NONE-|||0
+A 5 5|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S for A GPS receiver completes the various to possibilities.
+A 0 1|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 7 8|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S The filling screw optionally available.
+A 0 1|||R:DET|||A|||REQUIRED|||-NONE-|||0
+A 3 3|||M:VERB|||is|||REQUIRED|||-NONE-|||0
+
+S This is where HORSCH MobileControl come into play.
+A 5 6|||R:VERB:SVA|||comes|||REQUIRED|||-NONE-|||0
+
+S The special feature of the AirVac scraper be that the user enough not have a make any adjustments.
+A 7 8|||R:VERB:SVA|||is|||REQUIRED|||-NONE-|||0
+A 11 12|||R:OTHER|||does|||REQUIRED|||-NONE-|||0
+A 14 15|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
+
+S With the help of this app, which is available for Android and iOS, the customer can access the recorded data directly with his smartphone.
+
+S The Pronto 6 AS allows the use about the seed wagon with pre-implements in combination TurboDisc tyre packer combination or the Maestro RV.
+A 7 8|||R:PREP|||of|||REQUIRED|||-NONE-|||0
+A 15 15|||M:OTHER|||with the|||REQUIRED|||-NONE-|||0
+
+S The contouring of the scraper has been optimised to the ensure reliable separation all crops.
+A 1 2|||R:MORPH|||contour|||REQUIRED|||-NONE-|||0
+A 9 10|||U:DET||||||REQUIRED|||-NONE-|||0
+A 13 13|||M:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S The seed is fed from the AirVac metering unit the furrow bottom means a downpipe.
+A 9 9|||M:PREP|||into|||REQUIRED|||-NONE-|||0
+A 12 12|||M:PREP|||by|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PREP|||of|||REQUIRED|||-NONE-|||0
+
+S MobileControl also enables the farmer to carry out machine functions such as ( calibration of HORSCH seed drills, nozzle tests on Leeb crop protection sprayer or a single row tests on Maestro precision air seeders very easily with his mobile phone.
+A 12 13|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+A 24 25|||R:NOUN:NUM|||sprayers|||REQUIRED|||-NONE-|||0
+A 26 27|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S If the TurboDisc coulter is used for drilling, highs working speeds of up for 20 km/h and been associated high acreage outputs are possible.
+A 8 9|||R:MORPH|||high|||REQUIRED|||-NONE-|||0
+A 13 14|||R:PART|||to|||REQUIRED|||-NONE-|||0
+A 17 18|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+
+S a grain sensor out is integrated in the downpipe for optimum monitoring from why the sowing success.
+A 0 1|||R:ORTH|||A|||REQUIRED|||-NONE-|||0
+A 3 4|||U:PART||||||REQUIRED|||-NONE-|||0
+A 12 14|||R:OTHER|||of|||REQUIRED|||-NONE-|||0
+
+S The proven Pronto principle of seedbed preparation, reconsolidation sowing ensures the highest precision seed placements and safe and high field emergence.
+A 8 8|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PREP|||in|||REQUIRED|||-NONE-|||0
+A 14 15|||R:NOUN:NUM|||placement|||REQUIRED|||-NONE-|||0
+
+S Wireless softwares updates or remote diagnostics case of error messages are also planned for future with HorschConnect.
+A 1 2|||R:MORPH|||software|||REQUIRED|||-NONE-|||0
+A 6 6|||M:PREP|||in|||REQUIRED|||-NONE-|||0
+A 14 14|||M:DET|||the|||REQUIRED|||-NONE-|||0
+
+S Furthermore, datums exchange various farm management systems will be possible.
+A 1 2|||R:SPELL|||data|||REQUIRED|||-NONE-|||0
+A 3 3|||M:PREP|||with|||REQUIRED|||-NONE-|||0
+
+S For sowing row crops (e.g. maize and in start beet) the Pronto 6 AS You be combined with a Maestro RV.
+A 7 9|||U:OTHER||||||REQUIRED|||-NONE-|||0
+A 14 15|||R:OTHER|||can|||REQUIRED|||-NONE-|||0
+
+S The sensor's measurement technology able to count grains, determine distances between grains and thus provided The driver with information regarding double missing grains.
+A 4 4|||M:VERB|||is|||REQUIRED|||-NONE-|||0
+A 14 15|||R:VERB:TENSE|||provide|||REQUIRED|||-NONE-|||0
+A 15 16|||R:ORTH|||the|||REQUIRED|||-NONE-|||0
+A 21 21|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S The system would already be connecting to the agrirouter for the Agritechnica 2019.
+A 2 3|||R:VERB:TENSE|||will|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||connected|||REQUIRED|||-NONE-|||0
+A 10 11|||U:DET||||||REQUIRED|||-NONE-|||0
+
+S The singling of the Maestro of ensures that the been crop is sown using the single grain method and the seed wagon of the in Pronto 6 AS to be used for fertiliser.
+A 5 6|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 9 10|||U:VERB||||||REQUIRED|||-NONE-|||0
+A 24 25|||U:PREP||||||REQUIRED|||-NONE-|||0
+A 28 29|||R:VERB:TENSE|||can|||REQUIRED|||-NONE-|||0
+
+S Additional benefits 's provided the front-mounted disc harrow for seedbed preparation and levelling of the tractor tracks.
+A 2 3|||R:NOUN:POSS|||are|||REQUIRED|||-NONE-|||0
+A 4 4|||M:PREP|||by|||REQUIRED|||-NONE-|||0
+
+S DKE GmbH is a consortium of at various companies in the agricultural industry, in which HORSCH also participates.
+A 6 7|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S The transmitted values of singling accuracy are clearly displayed in in terminal of a machine and additionally increase the safety during sowing.
+A 4 4|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 9 11|||R:PREP|||on|||REQUIRED|||-NONE-|||0
+A 11 11|||M:DET|||the|||REQUIRED|||-NONE-|||0
+A 13 14|||R:DET|||the|||REQUIRED|||-NONE-|||0
+
+S The aim of this alliance is to develop an interface for now data in order for transmit digital information wirelessly participating partners.
+A 11 12|||U:ADV||||||REQUIRED|||-NONE-|||0
+A 15 16|||R:PART|||to|||REQUIRED|||-NONE-|||0
+A 20 20|||M:OTHER|||to different|||REQUIRED|||-NONE-|||0
+
+S The AirVac separating stop is electrically driven as standard and can be controlled individually for each row.
+
+S This technology allows the familiars functions of single row shutdown, SectionControl, VariableRate tramline control.
+A 4 5|||R:MORPH|||familiar|||REQUIRED|||-NONE-|||0
+A 12 12|||M:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S The changed between TurboDisc coulter attachment and the Maestro RV can be made very easily and quickly via get integrated 3-point interface of to the Pronto 6 AS.
+A 1 2|||R:MORPH|||change|||REQUIRED|||-NONE-|||0
+A 18 19|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 23 24|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S For VariableRate, the watch AirVac sistem is designed so that the seed rate can be changed on a row-by-row had basis.
+A 3 4|||U:NOUN||||||REQUIRED|||-NONE-|||0
+A 5 6|||R:SPELL|||system|||REQUIRED|||-NONE-|||0
+A 19 20|||U:VERB||||||REQUIRED|||-NONE-|||0
+
+S The agrirouter functions persons as data hub and HORSCH working on a machine-side interface in this.
+A 3 4|||R:OTHER|||here|||REQUIRED|||-NONE-|||0
+A 5 5|||M:DET|||a|||REQUIRED|||-NONE-|||0
+A 9 10|||R:VERB:FORM|||works|||REQUIRED|||-NONE-|||0
+A 14 15|||R:PREP|||for|||REQUIRED|||-NONE-|||0
+
+S Pronto 6 AS can be equipped with a large single tank (3 500 l) for long ranges.
+A 0 0|||M:DET|||The|||REQUIRED|||-NONE-|||0
+
+S In the which of tramline control, it is possible to individually adjust the sowing rate in the rows to the left and right of the tramline.
+A 2 3|||R:OTHER|||case|||REQUIRED|||-NONE-|||0
+
+S A double tank (5 000 l) is available as an option for storing seed and fertiliser.
+
+S With these advanced functions, measures increases precision during sowing be fully exploited.
+A 4 4|||M:DET|||all|||REQUIRED|||-NONE-|||0
+A 5 6|||R:VERB:FORM|||to increase|||REQUIRED|||-NONE-|||0
+A 9 9|||M:VERB:TENSE|||can|||REQUIRED|||-NONE-|||0
+
+S The fertiliser can . be placed together with the seed (G & F) as a separate under-foot fertiliser (PPF) next to the row.
+A 3 4|||R:OTHER|||either|||REQUIRED|||-NONE-|||0
+A 13 13|||M:CONJ|||or|||REQUIRED|||-NONE-|||0
+
+S In a future, this willing make it possible, for example, to easily transfer application cards or orders from the PC in the office to the machine or back again.
+A 1 2|||R:DET|||the|||REQUIRED|||-NONE-|||0
+A 4 5|||R:MORPH|||will|||REQUIRED|||-NONE-|||0
+A 26 27|||R:CONJ|||and|||REQUIRED|||-NONE-|||0
+
+S The compact unit Maestro DV consisting of a large volume seed wagon, a seed bar with 6 m working width as a precision seed bar with 8 row offers high performance with comparatively very lows demands on the towing vehicle.
+A 1 1|||M:ADV|||very|||REQUIRED|||-NONE-|||0
+A 20 21|||R:OTHER|||and|||REQUIRED|||-NONE-|||0
+A 27 28|||R:NOUN:NUM|||rows|||REQUIRED|||-NONE-|||0
+A 34 35|||R:ADJ:FORM|||low|||REQUIRED|||-NONE-|||0
+
+S The agrirouter did not store any data, but merely forward it.
+A 2 3|||R:VERB:TENSE|||does|||REQUIRED|||-NONE-|||0
+A 9 10|||R:MORPH|||forwards|||REQUIRED|||-NONE-|||0
+
+S The chassis of the Pronto 6 AS is equipped in a separate axle.
+A 9 10|||R:PREP|||with|||REQUIRED|||-NONE-|||0
+
+S all turning operations and road transports are carried out on large-volume wheels (800 45 - 26.5).
+A 0 1|||R:ORTH|||All|||REQUIRED|||-NONE-|||0
+A 13 13|||M:PUNCT|||/|||REQUIRED|||-NONE-|||0
+
+S By mountings One seed bar via a 4-point linkage, it is possible to mount a Pronto NT seed bar with 4 or 5 m width for broad sowing methods.
+A 1 2|||R:MORPH|||mounting|||REQUIRED|||-NONE-|||0
+A 2 3|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 24 24|||M:VERB|||working|||REQUIRED|||-NONE-|||0
+
+S In the working position, the wheels are completely lifted out in conjunctions with the TurboDisc tyre packer combination so that the targeted reconsolidation with the tyre at packer can take place.
+A 11 12|||R:NOUN:NUM|||conjunction|||REQUIRED|||-NONE-|||0
+A 26 27|||U:PREP||||||REQUIRED|||-NONE-|||0
+
+S This allows the Maestro DV to be used even more universally and happy it all-rounder . among seed drills.
+A 12 13|||R:OTHER|||makes|||REQUIRED|||-NONE-|||0
+A 14 14|||M:DET|||an|||REQUIRED|||-NONE-|||0
+A 15 16|||U:PUNCT||||||REQUIRED|||-NONE-|||0
+
+S order to optimally see all customer requirements, the Maestro DV seed wagon can be supplied . two configurations.
+A 0 0|||M:PREP|||In|||REQUIRED|||-NONE-|||0
+A 3 4|||R:VERB|||meet|||REQUIRED|||-NONE-|||0
+A 15 16|||R:OTHER|||in|||REQUIRED|||-NONE-|||0
+
+S When working with president Maestro RV, the traffic wheels reliably carry the weight of the seed wagon.
+A 3 4|||R:OTHER|||the|||REQUIRED|||-NONE-|||0
+A 7 8|||R:NOUN|||transport|||REQUIRED|||-NONE-|||0
+
+S When working with the Maestro DV with a Pronto NT seed bar, seed and fertiliser can be applied simultaneously in the 3 500 litre double tank as a Grain & Fertiliser system into the seed slot.
+

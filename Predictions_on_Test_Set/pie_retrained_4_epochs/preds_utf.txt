@@ -1,0 +1,659 @@
+The user always retains absolute control over , data .
+Alternatively , two different fertiliser components can be applied with the double Hopper with the single grain sowing bar via the under-foot fertiliser application device .
+Just as with seeding technology and crop protection , a tillage solution from HORSCH will help you achieve your individual requirements and goals of arable farming in the best possible way .
+In addition , integration of a consultant or contractor into the data flow is possible , for example .
+The Pronto 6 AS shows its advantages to the full , especially on contract farms and farms with longstanding pass areas .
+We place the highest demand on our cultivators and disc harrows .
+In some versions the tank is equipped with the proven HORSCH metering technology and can reliably and precisely operate the Maestro 's under-foot fertiliser system , or seeding bar .
+This is a remarkable step towards standardizing the often company-specific developments in data exchange between machines and software products from different manufacturers .
+The Pronto 6/8/9 NT enables mulches and direct sowing with the proven TurboDisc in a compact design without seed wagons .
+This applies to research , design and development as well as to assembly , service and consulting .
+The in-line body of the Maestro DV has a wide , stable parallelogram and is equipped with springs for coulter pressure generation as standard .
+Thanks to working speeds of up to 20 km/h, a high area output can be achieved even with smaller working widths .
+HORSCH is part of the development towards a simple and safe digital next for agriculture .
+HORSCH seed drills are compatible with CLAAS Telematics.
+The corrugated ech/cutting discs cut organic material and the soil only in the seed rows .
+We take the time uses while extensive studies , go once again with the technology on our own farms uses with the 6,000 in the field-to experience for ourselves what we are developing and what we were talking about .
+Coulter pressures of up to 260 kg per row can thus be achieved mechanically .
+As soon as a HORSCH machine is connected the CLAAS tractor , data on application rates , areas for working and sowing quality is transmitted to the CLAAS Telematics module via the ISOBUS.
+This results from a very low tractive force requirement .
+Optionally , all machines can be equipped with hydraulic cylinders for coulter pressure generation .
+This information is transmitted to the server together with the tractor data and the position .
+Thus , with the innovative coulter pressure control system AutoForce, the coulter pressure settings are made up to a maximum of 350 kg per row .
+The generously dimensioned seed Hopper (4 000 l ) guarantees Short downtime and allows sufficient cutting disc pressure even without additional ballasting .
+We take responsibility in agriculture and share the feelings of our customers-this is what we are passionate about .
+In this way , the customer can be only monitor his tractor but also his HORSCH seed drill or HORSCH Maestro in the CLAAS Telematics portal .
+The weight of the seed wagon is used to generate coulter pressure across the full width of the machine , relieving the load from the seed wagon wheels when sowing .
+This is transmit via . sophisticated machine about hydraulics .
+The Maestro is universally suitable for a wide range of crops due to its precise grain separation .
+Seeding performance and process da are displayed and evaluated in tables or maps .
+The agricultural origin for HORSCH and its products is the best optimal solution for soil cultivation .
+This creates a manufacturer-independent documentation analysis option .
+If necessary , additional weights of about 400 kg can be mounted on the frame .
+AutoSelect HORSCH proprietary nozzle circuit .
+The proven seed wagon concept is still unique and unmatched in design .
+Due to flexible frame parts the seeding unit has an exact ground adaptation .
+All machines must be perfectly adapted to their requirements ( soils , climate , farm sizes . . . ) .
+Besides the nozzles and the pressure range , the farmer can also set the target area and distance .
+The two new HORSCH metering Systems offer the greatest possible individualization and optimal adaptation possibilities for farm-specific conditions .
+Multiple nozzle carriers and a 25 cm pitch on the nozzle bar offer a wide range of possibilities .
+The new generation of AirVac and AirSpeed dosing units are basically very similar in design and work according to the same dosing principle .
+The Joker is ideally suited for shallow stubble cultivation for germination stimulation of volunteer cereals , interruption of capillarity , mixing in of crop residues and for shallow seedbed preparation .
+With the double tank version (5 000 l ) , seed and fertiliser ( G to F ) are be applied simultaneously .
+It produces a high percentage of fine soil in the germination horizon and is not susceptible to disturbance even when exposed to high amounts of straw , organic fertilizers or catch crops .
+They are universally suitable for many crops for the precise grain separation .
+In addition , a micro-granulate device is available to apply to a further component .
+Individual or different nozzle positions can be combined in profiles .
+The short disc harrow is available as Joker CT 3-point linkage .
+With metering discs , corn , sunflowers , sugar beets , soybeans and other types of beans as well as rapeseed and sorghum can be reliably separated .
+The micro-granulate device can be combined about both the double and single tank versions .
+Up to 16 profiles can be controlled .
+High area outputs are possible above all due to work speeds of up to 20 km/h.
+The AirVac system is based on the principle of vacuum singultation , in which the seed is sucked onto a perforated disc .
+In this way , these three components ( seed , fertiliser , micro-granulate ) can be metered in one operation .
+This ensures that the optimum pressure range for the nozzle or nozzle combination used and its optimum target area distance are always guaranteed when the driving speed is changed .
+The Pronto NT is a compact universal seed drill with Pronto system ( cultivation , sowing and pressing ) for mulch and direct sowing .
+The airspeing system works according to the overpressure principle , in which the grains are pressed against the perforated disc .
+The machines of the future think for themselves and HORSCH Intelligence makes it possible .
+As an additional option to the Joker 3, 3.5 and 4 CT , rigid , there is the single-bar deep loosener Mono TG.
+Especially in foods conditions , the tool combination of the Wellsech cutting disc and the proven TurboDisc coulter has decisive advantages .
+Both feeders for the grains pass to a separator which ensures that double occupancy is eliminated .
+It is particularly suitable on heavy sites where the soil needs to be deeply loosened but you only want to mix in crop residues shallowly .
+Soil is only tilled where seed is subsequently placed .
+With intelligent solutions in software and electronics , HORSCH machines workplace even more efficiently and help you save money and nerves .
+The roller goes over the complete working width .
+HORSCH technology is always equipped with the ISOBUS standard .
+The special feature of this particular component is that it does not have to be replaced when changing the crop and that no adjustment work needs to be carried out on it by the driver .
+This is not only mean that every HORSCH machine can be controlled with a ISOBUS terminal .
+It has a diameter of 300 mm about 6 knives per roller for a very high speed , to additionally improve the shredding effect .
+HORSCH TurboDisc coulters effectively adapt to uneven ground , ensure high coulter pressure and precise seed placement .
+The blades are arranged at a slight angle for constant force distribution .
+The contour of the separate this has been optimised to ensure reliable separation situations crops .
+For maximum stability , the blades rest against the rotor .
+The transfer of the seed from the metering unit into the soil is the fundamental difference in the two new generations of metering units : After singling , the seed from the AirVac system is fed into the furrow bottom by means of a downpipe and pressed by the catcher roller as required .
+In addition , every HORSCH machine with a job computer is capable of executing functions such as SectionControl, with VariableRate or job processing with TaskController as soon as the necessary licenses have been activated .
+Two types of PPF systems are available for spreading the fertiliser .
+The whole system remains hydraulically preloaded with 100 bar and hydraulically protected against overload .
+The ISOBUS SectionControl function enables automatic section control .
+With the AirSpeed system , the separated grains are captured by an air stream , accelerated and shot with the air stream passing the shot tube into the ground .
+The new pre-implement is perfect , for example , for shredding catch crops in spring and autumn and for ultra-flat stubble for cultivation of rape , sunflowers or silage maize .
+They were intercepted who embedded by the fixed roller .
+The knife roller is also suitable for corn borer control in the silage maize stubble .
+On the one hand , the fertiliser can be applied together with the seed by the TurboDisc coulters or , as an equipment option , separately depth-adjustable fertiliser discs at the seed rows .
+The current position of the machine is determined via GPS.
+With the metering units , the grains pass through a grain sensor in the drop or shot tube for optimum monitoring of the sowing success .
+The sensor 's measuring technology is capable of counting grains , determining distances between grains and thus also transmitting information to the driver with regard to double and missing grains .
+The Terrano FX is a compact universal cultivator which , thanks to the use of different coulter systems , is suitable both for shallow , all-over stubble cultivation and for intensive loosening and mixing at working depths of 5 to 30 cm .
+At the edge of the field , at the headland or in case of obstacles , part-width sections ( single row shut-off only with Maestro ) or the entire working width are automatically shut off , thus avoiding overlaps .
+Due to its 3-bar, stable frame construction with high clearance , the Terrano FX homogeneously mixes with crop residues even under difficult conditions .
+Due to the direct connection between seed wagon and sowing unit you have high coulter pressure between record cutting discs and fertiliser coulters even without additional ballast .
+With the Serto SC, HORSCH offers a compact seeding technology of 10 and 12 m width without pre-moulds .
+As the ISOBUS TaskController, data can be transferred easily from the PC to the terminal .
+In the same way it is possible to transfer application rates , sowing area and other data recorded during sowing from the terminal to the PC and to document them .
+The transmitted values of the singling accuracy are clearly displayed on the terminals of the machine and additionally increase the safety during sowing .
+Longer soil retention was time in the Terrano FX compared to 2-bar models and the special shape of the coulters ensures an optimised mixing effect .
+Its central features are a sophisticated folding technique and continuous tyre packer in combination with a heavy double disc coulter .
+Facilitates the maintenance of the land planning index .
+Similar to the proven Pronto system , two sowing coulters with 16.6 cm row spacing are run behind each tyre .
+Uniform levelling and deep reconsolidation round off the working quality of Terrano and achieve an optimum seedbed beginning at every pass .
+Orders can be created and processed via integrated order management .
+The new generation of AirVac and AirSpeed feeders are electrically driven as standard and can be controlled individually for each row .
+This technology allows the familiar functions of single row shutdown , SectionControl, VariableRate and tramline control .
+To ensure uniform depth placement , the Serto places has a packer for levelling job reconsolidation .
+DLG Fokus Test already certified to Terrano , FX's absolute lightness 2003.
+For VariableRate the metering systems are designed in such a way that the seed rate must be changed in each individual row .
+The new HORSCH PowerDisc coulter is perfectly suited for difficult conditions and ensures reliable seed placement even in coarse seedbeds with coulter pressures of up to 150 kg per individual row .
+On VariableRate function enables site-specific application of seed or fertiliser .
+With the best work quality , the Terrano FX needs to 20% less diesel than the average consumption of all test candidates .
+It has a long-lasting stabilities due to very large dimensioned bearings and construction .
+Here , the experience gained from the Maestro single grains technology flowed into the design .
+In the case of tramline control , it is possible to individually adjust the sowing rate in the rows to the left and right of the tramline .
+With back advanced features , full use can be made of all the measures it taken to increase precision during sowing .
+The total tank volume of the Serto is 6 000 litres divided by 60 40.
+Different coulter systems , which have changed quickly and have been optimised for specific areas of application ( shallow , full-surface , deep , intensive mixing ) , give the Terrano FX a wide range of applications in terms of both working depth and working quality .
+In this way , the optimum amount of fertiliser and seed can be applied to each sub-area within a field using a suitable application map .
+Just as with soil cultivation and Horsch seeding technology , the crop protection solutions from HORSCH help you to achieve your individual requirements and goals in arable farming in the best possible way .
+When using a HORSCH Touch 800 ? 1200 terminal , the MultiControl function can also be used .
+We place the highest demand on our Leeb sprayers , as they are self-propelled crop protection sprayers or trail sprayers .
+This means that either 6 000 litres of seed can be spread or seed and fertiliser in combination with a tank layout of 3 600 litres at the front and 2 400 litres in the rear .
+This applies to research , design and development as well as to assembly , service and consulting .
+This Terrano FX is guided precisely in depth to the tractor hydraulics and the packer roller .
+For a third component there was an optional 300 litre tank for micro granules .
+If SectionControl is activated , MultiControl allows the independent switching on and off of seed and fertiliser .
+The depth is adjusted by means of the proven AluClips, which limits the lowering depth of the cultivator frame in relation to the packer .
+Track eradicator tines or corrugate disc track eradicators are available for effective loosening of the tracks of the tractor .
+If the sowing is carried out on site-specifically with VariableRate, MultiControl varies the amount of fertiliser and seed independently of each other .
+We take the time for extensive studies , go once again with the technology for our own farms my with 6,000 in the field-to experience for ourselves what we are developing and what we are talking about .
+The paired corrugated discs are ideal on heavy soils , as no coarse structures are broken from the seedbed and the tolerance for crop residue is particularly high .
+Robust TerraGrip tine ensures constant coulter guidance at the desired working depth .
+Without MultiControl, seed or fertiliser can be switched on and off at the right time with SectionControl or seed or fertiliser can be varied with VariableRate.
+We take responsibility in agriculture and say the feelings of our customers-this is what we are passionate about .
+The machine is folded to a transport width of 3 m at the push of a button .
+The machines of the future think for themselves and use HORSCH Intelligence the make life possible .
+The coulters ensure intensive and gentle mixing of the soil .
+The tractive power requirement is absolutely low even on light soils due to continuous packer-saves fuel .
+Due to the optimised arrangement of the disc levelling , " straw swaths " are avoided and the surface is evenly levelled .
+This agricultural origin HORSCH my its product in plant protection is your optimal solution .
+With intelligent solutions through freest and electronics , HORSCH machines work even more efficiently my save money and nerves .
+The Terrano 's beam design transfers the tines ' pull-in forces without loss to the packer , where they are used to deep strip reconsolidation .
+The narrow seed Hopper provides easy access to excited components and allows a perfect view of the machine and field .
+HORSCH of technology are always equipped with the ISOBUS standard .
+The Terrano FM is suitable from shallow stubble cultivation to medium deep soil cultivation , depending on the tractor power .
+All machines on I can be perfectly adapted to your requirements ( soils , climate , farm sizes , . . . . ) .
+This does not mean that every HORSCH machine can be controlled with any ISOBUS terminal .
+For walking power , Serto 12 SW is available with large volume seed wagons say (17 000 l ) .
+It achieved an intensive mixture due to the 4-bar structure and still remains lightly drawn about a line spacing of 27 cm .
+In addition , every HORSCH machine with a job computer is capable of executing functions such as SectionControl, VariableRate or job processing with the TaskController as soon as the necessary licenses have been activated .
+Achieving more in the shortest possible time with fewer machines-thanks to this strategy , today 's entrepreneurs are able to operate successfully and remain competitive .
+The Terrano FM were a large passage for blockage-free working with larger quantities of crop residues .
+As a manufacturer of crop protection technology , it is our goal to support farmers and entrepreneurs with efficient and precise technology .
+Our developers do their utmost to offer right solutions for the special requirements of application technology in the crop protection sector and to design a powerful and flexible machine for a wide range of applications .
+It is equipped in the third generation with TerraGrip tines-these stand for precise coulter guidance through high release forces .
+ISOBUS SectionControl function enables automatic section control .
+The result is a new generation Leeb PT that combines driving comfort , performance and maximum application efficiency .
+With the three-part tank there is a possibility of contact fertilisation or the application of mixtures .
+The Serto 12 SW also relies on the PowerDisc coulter for working without pre-tools at high coulter pressure up to 150 kg .
+Due to , large dimensioned pivot points are maintenance-free and very robust .
+The current position of the machine is determined via GPS.
+The new PT leaves nothing to be desired and offers more possibilities than ever before : more ground clearance , more driving comfort , more climbing ability , more choice in working width .
+The proven MulchMix coulter ensures an excellent mixing effect with low tractive power requirements .
+In the field , the Terrano FM turns on the packer , which ensures maximum soil protection at the headland .
+At the edge of the field , at the headland or in cases of obstacles , part-width sections or the entire width are automatically switched off , thus avoiding overlaps .
+In short , the PT offers universal limitless variability for the highest demands in terms of both technologies and driving experience .
+Due to the hydraulic weight transfer , the weight of the seed wagon is automatically transferred to the side wings and thus evenly to , seed coulters .
+With the ISOBUS TaskController, data can be transferred easily from the PC to the terminal .
+HORSCH Shuttle makes shine .
+The turret chassis swings HALLS down for road travel and swaps positions with the middle packer segment .
+In the same way it is possible to transfer application rates , sowing area and other data recorded during sowing from the terminal to the PC and to document them .
+In the one-shot process , exactly one filling is always transported to the point of application .
+The undercarriage is located centrally in the machine and ensures high stability and driving comfort during transport .
+Depending on the farm structure , the output of the crop protection sprayer increases significantly .
+Thus , despite the seed waggon , the same pressure must be applied to each individual seed coulter .
+The time have the road trip and the purging process is missing .
+This facilitates the maintenance of the land use planning index .
+The disc levelling system has a maintenance-free oil bath bearing was ensures uniform soil levelling even before the packer .
+The large-volume pump on the shuttle ensures the transfer process within a few minutes and subsequently provides the time required for the correct , error-free flushing of the various brewing components when preparing the next "shot".
+Orders can be created and processed via integrated order management .
+The rest is done on the Terrano FM by the very robust and sophisticated double RollPack packer .
+Due to the Serto concept with the continuous packer , the ease of pulling as with the Serto SC is also given here .
+The specially arranged baffles , the sway-free attachment to the truck and the perfect balance provided by the laterally separate fresh water tanks ensure smooth , safe driving even at top speed .
+Due to its stable design , it is suitable for almost all types of soil .
+The ISOBUS VariableRate function enables site-specific application of seeds and fertiliser .
+Track loosening discs out the tracks to the seed wagon and ensure equal conditioning for all PowerDisc coulters .
+With the attached high-pressure cleaner , dirty machines can be easily cleaned in the field .
+Interlock packer rings to ensure good self-cleaning .
+In this way , the optimum amount of fertiliser and seed can be applied to each sub-area within a field using a suitable application map .
+Work peaks in tight time frames require high impact in each individual area .
+When using a HORSCH Touch 800 1200 terminal , the MultiControl function can also be used .
+Depth control is comfortably carried hydraulically via the packer and the pendulum support wheels .
+Large field distances , high application rates and long induction again reduces the performance of the crop protection sprayer .
+If SectionControl is activated , MultiControl allows independent switching on and off of seeding and fertiliser .
+This enables uniform depth placement across the entire working width and , in combination with the hydraulic weight transfer , creates the prerequisite for homogeneous field emergence .
+The proven aluminium clips ( colour-coded ) are clamped to the cylinders for precise adjustment .
+Unavoidable downtime increases costs and at the same time reducing the time for optimal application .
+If the sowing is carried out at site-specifically with VariableRate, uses MultiControl countries vary the amount of fertiliser and seed independently of each other .
+The HORSCH operator never lost sight of the products that have made its reputation for 30 years : something the first seeding impactors have left a last impression .
+Despite its enormous working width , the Terrano FM has a transport width of metres with a frame height of 600 mm and 3.63 metres with a frame height of 750 mm .
+With Shuttle 8 000 L , everyone can concentrate on their core competence and the machines perform in the area of greatest strength .
+Going back to the early days of the company , Michael Horsch developed and built a machine that was suitable for direct seeding .
+The arguments at the time were : minimise soil encroachment , promote soil life and , in the context of falling prices for agricultural products , of course , cost savings .
+Without MultiControl, either seed or fertiliser can be switched on and off at the right time with SectionControl seed or fertiliser can be varied with VariableRate.
+As a 365 FarmNet customer , your use the HORSCH FillAssist function in your 365 App.
+With the opening of the Eastern markets the 1990s, there was suddenly a large market for technology .
+While the shuttle currently increases existing capacities in farms with highest workload peaks , in the future it will take on a leading role in crop protection .
+The difference lie the third generation TerraGrip tines .
+The introduction of autonomous crop protection sprayers in segregated areas away from public roads and busy infrastructure has significantly more hurdles to overcome than the necessary feed ring solution .
+The 3 m version has tines with a passage of 60 cm , languages the 3.63 m version has tines with a passage of 75 cm .
+However , for large areas in the east , the PTO-driven technology is not applicable .
+The shuttle is the first practical interface of the human-controlled to computer-controlled part of plant protection .
+As soon as a planned crop protection measure is called up in the app , the required agent quantities and the required number of tank fillings for the job are calculated depending on the tank size of your crop protection sprayer .
+The HORSCH Shuttle convinces with its compact design , high impact force during filling in the field and precise metering .
+As a result , the tines have different release forces-630 kg for the 3 m version with the 600 tine handle and 515 kg for the 3.63 m version with the 750 tine handle .
+With the experience gained from no-till , Michael Horsch developed tine-based no-till technology for the eastern markets , which was successfully sold there today .
+This means that you always have all the information you need for filling the syringe you have on your tablet .
+The divisible container helps the close transporting of two different goods and their separate emptying .
+You can select or deselect strokes from the planned measure and the calculations are automatically adjusted .
+In the recent past , first considerations arose to use direct seed drills with disc coulters .
+In request , the control of the dose gate is electric .
+Worked-off plots can be marked and partial plots can be entered .
+Terrano GX is a defined all-rounder which works perfectly for shallow as well as deep soil cultivation up to 25 cm .
+Firstly , for the Latin American markets , to minimise soil encroachment and protect against erosion .
+While augers place greater mechanical stress on the goods being transferred and often considerably reduced quality , the conveyor belt is gentle on seed and fertiliser and can have emptied completely due to the shaped flights .
+Terrano GX is available as a 3-and 4-bar universal cultivator and thus combines the requirements of every customer .
+But also in other regions single disc coulter technology is highly interesting-especially in Europe with increasing requirements in the area of intercrop seeding or seeding of main crops into intercrops in regions with the challenge of resistant weeds .
+My working width range from 4 to 6 metres .
+Whether fertilisers is to be delivered to the field for start-up , seed and fertiliser are to be transported to the seed drill or temporary grain is to be moved away quickly , flexible use is the key .
+Parts of England , Germany and France were in need of new seeding technologies with reduced ground movement-a very clear task for the Avatar.
+It is equipped with the third generation TerraGrip tine , which lies flat on the frame and has a release force of 550 kg .
+Due to the standardised coupling points on the truck , the shuttles can be exchanged at will and can be dismantled/assembled in a simple step using a forklift or telescopic loader .
+In this way , the remaining required quantity of spray liquid for the entire job and for the currently processed field must be updated and displayed .
+The large-dimensioned pivot points ensure a maintenance-free service life .
+Disc coulter technologic plays an important role in large parts of Russia , Kazakhstan and China.
+All functions of the basic machine remain unchanged .
+The cultivator is equipped with many coulter variants , so that it is ready for use at any time of year and can cope with the most varied soil conditions worldwide .
+For the next tank filling , whether full or partial , the average quantities are displayed so that the calculation does not have to be made in the head or by calculator .
+The tilting function and the funnel-shaped design ensure that the container can be emptied completely .
+The undercarriage of the Terrano GX are located behind the tine field and in front of the levelling tools .
+Insertable grid sieves ensure the quality of goods be transported .
+These are all , reasons for our HORSCH company to develop its own avatar family .
+The chassis with its large-dimensioned tyres is used both for road transport and for turning at the headland .
+The large dimensioned conveyor belt is characterized on the one hand by the fully variable adjustable overloading height , and on the other hand by overload capacity .
+The sophisticate kinematics of the undercarriage ensure both high ground clearance when raised and safe swinging of the tyres out of the area in the lowered position .
+The HORSCH company can never lost sight of the products that have made its reputation for 30 years : the first seeder-exactors left a lasting impression .
+Going back to the early days of the company , Michael Horsch got and built a machine that was suitable for direct seeding .
+The new HORSCH Titan 34 UW reloading wagon stands for harvest power in a new dimension .
+The position of the chassis is chosen to ensure good manoeuvrability in the field and a high level of driving comfort on the road .
+In order to make optimum use of the tractive power to bring the available power to the ground , the Terrano GX is equipped with a tractive power booster , which permanently presses 1 200 kg onto the rear axle of the tractor when working .
+It inherits the genes of the first HORSCH reloading wagons and raises them to a completely new technical level .
+The arguments at the time were : minimise soil encroachment , promote soil life and , in the context of falling prices for agricultural products , of course , cost savings .
+If the traction booster is required , because flatter is being carried out , it can be switched off at any time by means of a shut-off valve .
+Thanks to the large tank volume of 34 mÂ³ , long waiting times at the edge of the field and awkward manoeuvring will be a thing of the past in future .
+This is activated simply by depressurizing the control unit for lifting and lowering , without additional control unit or cylinders .
+With the opening of the Eastern markets in 1990s, there was patients a large market for no-till technology .
+The tank volume of the UW corresponds to the truck load .
+However , I large areas in the east , the PTO-driven technology is not applicable .
+For levelling , there is a choice between the oil-bath mounted discs , which aggressively spread the material in front of the packer , or the levellers , which spread the material to ensure perfect levelling .
+These are thus filled in fell swoop .
+With the experience of gained no-till , Michael Horsch developed tine-based no-till technology for the eastern markets , which is still successfully sold there today .
+The newly designed hydraulically folding screw conveyor ( Ã¸ 600 mm ) has a capacity of 18 tons per minute , which corresponds to a gigantic . 000 tons per hour !
+The Terrano GX is designed best to be equipped with a single or double packer .
+In the recent past , first considerations arose to develop direct seed drills and disc coulters .
+Thus , the 34 mÂ³ was reloaded in only 90 seconds .
+For this purpose , new packer variants have been developed to cover every spectrum of use .
+Firstly , for the Latin American markets , to minimise soil encroachment and protect against erosion .
+During field travel , the auger is folded down and stored securely in a support .
+But also in other regions the singling disc coulter technology is highly interesting-especially in Europe with increasing requirements in the area of intercrop seeding or seeding of main crops into intercrops or in regions with the challenge of resistant weeds .
+For work in wet conditions or to order a winter furrow , there is the option to remove the second ring on the RingFlex packer .
+In this position , the bent worm does not protrude to either side .
+The tiny contact area prevents reconsolidation and clogging of the Packers and guides the machine in depth .
+The width of , road is less than three metres .
+Parts of England , Germany and France are in need of new seeding technologies with reduced soil movement effects-a very clear area of responsibility for the Avatar ,
+Disc coulter technology also plays an important role in large parts of Russia , Kazakhstan and China.
+These are all the reasons for the HORSCH company to develop its own avatar family .
+The Titan 34 UW ( in the wheel version ) comes with telescopic axles as standard .
+The packer program for the Terrano GX has been further expanded .
+Farm specializations , farm expansions , farm communities : the structural change in agriculture is progressing rapidly and is also presenting agricultural engineering with completely new tasks .
+This moves each tyre outwards by 30 cm .
+On ringflex Packer my the SteelDisc Packer are available as single Packers .
+Optimisation of soil cultivation , sowing and harvesting techniques as well as cost reduction are requirements-with the same time increasing yields and improving the quality of the harvested crop .
+The vehicle width thus increases from 3 m from 3.56 the m.
+The newly advanced SteelFlex Packer , Double RingFlex Packer and Double RollPack Packer are available as double packer variants .
+This increases stability and reduces ground pressure , as the tyres of the trans-shipment trailer do not run into the tractor track .
+The Terrano MT is designed especially for the " mix on the top , loosen on the bottom " application .
+The cultivator has a central chassis and a 4-bar superstructure (2 rows of discs + 2 rows of tines ) .
+Another means of protecting the ground are the large-dimension tyres (900/60 . R 32).
+As a developer and pioneer , HORSCH has become one of the leading manufacturers of tillage and seeding technology .
+It is particularly suitable for working heavy soils that need to be deeply loosened , but on which crop residues can only be mixed in shallowly to prevent some coarse soil from transporting the surface .
+Optional track undercarriage is available at the maximum footprint .
+In addition , the 2-row DiscSystem enables shallow and intensively mixed soil cultivation and blockage-free working with difficult residues and high straw quantities .
+Innovative ideas used from practice to practice are how technology systems and high-grade machines are created which correspond to the latest findings in terms of quality , robustness and durability .
+Other features include an integrated weighing device , a pneumatic braking system and a clearly visible indicator for opening status of the screw conveyor slide .
+The DiscSystem produces a lot of fine soil and the working depth can be infinitely adjusted hydraulically .
+From the platform on the drawbar you can climb up or into the wagon via the ladder .
+It is followed by a 2-bar zinc system .
+In addition , HORSCH advises companies in the development of individual management concepts and process chains-and , together with its sales and service partners , ensures seamless support , the fastest possible repairs and an immediate supply of spare parts .
+This is relatively easy to pull due to the large line spacing of 40 cm and 40 mm narrow LD ( low disturbance ) coulters .
+The trolley has steps at the auger so that it can be climbed into for cleaning or maintenance .
+A generation with seedbed preparation , sowing and fertilised can be managed in one operation .
+The HORSCH seed wagon family is characterized by its easy calibration , fast and safe filling due to large filling openings and comfortable walkways .
+In the first two rows of the Terrano MT there is a disc harrow followed by two rows of TerraGrip tines with narrow LD ( low disturbance ) shares .
+Short set-up times and capacity of 12,000 to 21,000 litres result in maximum impact on power for large-scale operations of all kinds .
+The robust tine seed drill has its strength above expected at mulch sowing .
+The choice of the double or triple tank and the liquid fertiliser option allow the farmer to choose the perfect fertiliser and seed combination for sowing .
+The sturdy frame construction with light-weight seed coulters and large-volume seed hoppers enables high acreage output with an optimum cost-benefit ratio .
+Various pneumatic systems allow the coupling of a wide range of HORSCH seed drills and soil tillage implements .
+The HORSCH SteelDisc packer is used am the maximum reconsolidation .
+Especially in HORSCH seeding technology the Tripletank seed wagons stand out due to their high variability of tank use .
+With a sprinter , you can only bundle then time-consuming work processes into a single operation .
+It enables intensive loosening up to a depth of 30 cm with a low mixes effect .
+They allow precise placement of fertilizer (PPF system ) under the seed rows as well as the possibility to make a fertilizer starter with the seed ( G & F).
+At the same time you must also increase the precision in seed placement and fertilisation .
+Carefully worked tyre Packers ensure optimum soil contact with the seed .
+The SW 12000 is a flexible solution for carrying and spreading large quantities of fertiliser and seed .
+Coarse soil is thus hardly transported to the surface and the disc harrow horizon is undercut .
+The Ultra LD coulters further enhance the effect .
+The use of the sprinter leads not only to significant time savings but also to a more uniform field emergence , more resistant seedlings (HORSCH PPF system ) .
+They break up the soil and then convey clods to the top .
+In this way , you create the ideal conditions to fully exploit and secure the expected earnings potential .
+The centring chassis ensures the Terrano MT superior manoeuvrability at the headland and good handling characteristics on the road .
+The multi-beam frame of the sprinter is supported by the lead support wheels/front Packers and tandem packer .
+Depending on the desired components and their number , HORSCH offers a tripletank solution . SW 12003.
+In wet conditions , for example , undercarriage can also be used use depth control-so less weight is transferred to the packer .
+Both seed wagons are optionally available as liquid fertiliser versions .
+The frames of some segments are guided separately in depth .
+The large-dimensioned tyres ensure maximum protection for the ground when driving over it .
+This allows them to adapt exactly to the soil surface and place the seed precisely .
+With six possible hydraulic control units , ISOBUS line , electronic and pneumatic lines routed through the seed wagon , the seed wagon can be used with any implement .
+This is the maximum reconsolidation for the HORSCH SteelDisc Packer with 58 cm diameter and a weight with 175 kg/m working width .
+When lifting or lowering , the entire frame is moved accordingly to achieve fast turning times and to set the machine in and out evenly .
+For seed wagons SW 12000, SW 12003 as well as SW 17003 HORSCH offers an optional liquid fertiliser version .
+All sprinter ST are equipped with large volume seed hoppers of up to 5 000 litres .
+There is suitable even on the heaviest soils and its packer elements leaves a good soil structure .
+The seed wagon 12000 has 6 000 litre tank my the seed wagons 12003 and 17003 have 4 000 litre tank made of corrosion resistant plastic .
+The seed wagon of the sprinter SW holds 8,000 litres of seed fertiliser for maximum impact .
+In addition , the Terrano MT has two effective double rollers .
+A clear control element and a clearly visible fill level indicator on the side of the seed wagon , as known as a spacious tool box , offer great clarity and ensure the HORSCH user-friendliness that is so highly valued by customers .
+This can be used ' a double RollFlex or a RollPack packer .
+The sowing coulters are mounted on sturdy tines with overload protection .
+This simply designed , well thought-out liquid fertiliser system with its convenient accessibility and self-explanatory operability inspires farmers all over the world .
+The release pressure is more than 200 kg .
+A new feature of the Tiger is now the possibility to equipage cultivators with a fully-fledged double packer .
+This ensures a constant coulter guidance to the desired sowing depth with more problematic soil types and conditions .
+The HORSCH seed wagon 21000 is characterized by its tripletank system which allows optimal distribution of seed and fertilizer components to achieve the highest performance .
+The easily accessible , spacious platform as well as the large filling openings of the individual tanks reduce the set-up times and thus additionally increase the productivity of the entire combination .
+It is particularly suitable for heavy soils and requires a special crushing of the clods .
+When sowing coulters deposit without seed bands .
+A harrow ( except sprinter 8 ST 12 SW) ensures uniform coverage .
+Turning is done gently I the packer , the undercarriage is used for transport and is swivelled with this purpose .
+This cruiser mixes and distributes excellently with its 6 bars .
+Finally , each seed band is pressed on the tyre packer with AS profile .
+Proven HORSCH components , corrosion-resistant plastic tanks , the very precise calibration of the metering rotors and the large tank capacity round off are simple if be clear above that very powerful SW 21000 concept .
+The sprinter is a robust , compact and versatile tine seeder with up to 12 metre working widths .
+The passage on the tine handle of 700 mm also allows high quantities of harvest residues .
+The optional caterpillar track system with 4.2 mÂ² contact area reduces ground pressure and enables longer sowing in wet conditions .
+The Duett coulter makes it possible to sow fertilise and at the same time effectively work the soil and produce fine soil in the seed placement area than in one operation .
+The working depth is easily controlled by the front support wheels and the packer .
+The tines of the sprinter effectively remove crop residues from the seed horizon .
+The drawbar with tidy wardrobe allows maximum manoeuvrability despite the size of the team .
+The cruiser XL was a 6-bar specialist for shallow and medium deep tillage .
+With its large-volume seed Hopper , the sprinter achieves high output .
+Working widths from 5 to 7.5 metres are available .
+The Partner at HT rear tank is designed as a double tank .
+The total volume of 2 800 litres is divided in a ratio of 40 : 60.
+It isquips with the HORSCH spring tine , which lies inconspicuously in the frame and has a release force of 150 kg .
+The seed coulters of the sprinter are arranged with 3 bars ( sprinter 12 SW with 2 bars ) with a distance progress lines of 25 cm to 32 cm .
+Design the dosing of two different components or one component of , tank in order to use the total volume .
+The cultivator can be equipped with all four different coulter variants and is therefore ready for used in any season .
+Optimally prepare the seedbed . The soil is loosened , levelled , mixed and crushed as with the cultivator coulter .
+The HORSCH MultiGrip tine has a tuned spring characteristic with 285 kg coulter pressure .
+In addition , placing fertilization increases efficiencies and saves costs versus conventional fertilization .
+The undercarriage in the cruiser 5 and 6 XL is located behind the tine field my in front of the levelling tools .
+The optimised spring package enables precise coulter guidance at the desired sowing depth even navi soils .
+Especially with phosphate , this system helps to improve fertiliser efficiency .
+High-quality materials and large-dimension pivot points eliminate the need for any lubrication points .
+The chassis with its large-dimension tyres is used both for road transport and for turning on the headland .
+The seed coulters of the sprinter are arranged in 2 or 3 bars with a distance between the coulters of 25 cm to 32 cm ( depending on working width ) .
+Next placed fertilizer is immediately and permanently available to the plants .
+There are several sowing coulters should be chosen from , and can be changed without any problems .
+The HORSCH Partner should HT carry on the 3-point of the tractor .
+With the 7 XL, turn on the packer is gentle on the ground , so the load of the machine on the headland is distributed over the entire width of the machine .
+The seed coulters beat the seedbed optimally .
+The sophisticated kinematics of the undercarriage ensure both high ground clearance when raised and safe when swinging the tyres of the working area in the lowered position .
+The combination with HORSCH soil tillage implements ( such as Joker RT, Terrano FM/MT/GX) can be carried out via the lower link attachment for the Partner HT, K 80 ball head coupling or towing hitch .
+The soil is loosened at this level , mixed and crushed like a cultivator .
+The design of the rear tank allows an optimum view of the implements .
+The position of the chassis is chosen to ensure manoeuvrability in the field and a high level of driving comfort on the road .
+The MiniDrill was developed to turn a soil tillage implement into a precise seed drill with little effort .
+In the seeding area , remove stones , coarse soil chunks and crop residues from the seeding horizon .
+In order to be able to use the tractive power optimally and bring it to the ground , the cruiser XL is equipped with a fully integrated tractive power booster , which presses permanently with 1 200 kg on the rear axle of the tractor when working .
+It has a 400 litre pressure tank for . uniformly high application rate of 160 kg/ha.
+The seeds are placed precisely in this area that the plant can develop its roots unhindered .
+This is activated simply by depressurizing the control unit for lifting and lowering-without additional control units or cylinders .
+The pressure tank significantly reduces segregation of seed mixtures , which are becoming more and more popular .
+For an optimum coverage of the seed after the seed coulters and an even distribution of the loose soil and crop residues over the seed bands , a 2-row harrow is used on the sprinter ( on the sprinter 8 ST and 12 SW this is done via disc levelling ) .
+The cruiser SL is the new specialist for shallow tillage in 3-point in working widths of 4, 5 and 6 metres .
+The metering unit of the Pronto uses the appropriate metering shaft to feed the seed directly into the distribution system , where it is evenly distributed via baffle plates in front of the packer .
+Our Packers ensure an optimal seedbed through their method of operation , so that nothing stands in the way of a problem-free emergence .
+With a maximum working depth of 15 cm , it is equally suitable for perfect stubble cultivation with optimum straw distribution after combining threshing , seedbed preparation , as a fine cultivator for mechanical weed control for loosening and aerating the soil in spring .
+The harrow countries be adjusted have height and aggressiveness .
+For optimum lateral distribution , there are six evenly distributing outlets in front of or behind the packer up to 3 m work width and 12 outlets from 4 m working width .
+This cruiser levels excellently due to its 4-beam design .
+Due to the special design of the tine above the frame , it achieves a passage of 70 cm , which considerably increases the passage in the fine cultivator area .
+Finally , the tandem packer presses the seed band .
+For special solutions , the MiniDrill Solo is available with a central downpipe , allowing the MiniDrill to be coupled directly to the distribution tower .
+The packer is arranged so much that the tyre runs exactly behind the sowing coulter .
+In this way , the seeds of each individual seed band are pressed together and receive an optimum soil seal .
+The narrow line spacing of 16 cm ensures an optimum mixing ratio and perfect crumbling on the surface .
+Another upgrade for our cruiser SL is our new RingFlex Packer , with its wide rings of 7 cm it has a high contact area .
+The outlet is supplied about a very quiet hydraulic blower , which gets 20 to 25 l/min and can therefore be operated with any tractor .
+The tires have AS treads and are filled with air .
+The control is simply carried out via the familiar operating screen of the HORSCH seeding technology .
+This means that accurate depth control in lighter conditions is no problem .
+The farm tyre tread and the rolling effect keep the tyre continuously clean even under wet conditions .
+Furthermore , it produces a high amount of fine soil , which is optimal for the emergence for the crop .
+Any ISOBUS-capable terminal can be used for this purpose .
+For road transport , the packer of the middle segment serves as , chassis .
+HORSCH solutions in hybrid farming help you-just as in tillage , seeding technologies or crop protection-to achieve your individual requirements and goals in arable farming in the best possible way .
+An additional front Packers Also on the sprinter improves soil cultivation and levelling and supports precise seed placement .
+We place the highest demand on our harrows , hoes and cultivators .
+The sprinter NT 11 24 m working width stands at the maximum impact power .
+Spreading is automatically controlled by the speed and the linkage controlling the tractor .
+This applies to research , design and development as well as to assembly , Service and consulting .
+We take the time for extensive studies , my once again with the technology on our own farms uses with the 6,000 in the field-to experience for ourselves what we are developing and what we are talking about .
+A signal can be taken either via the 7-pin socket or optionally via a radar sensor .
+We take responsibility in agriculture and share the feelings of our customers-this is what we are passionate about .
+The HORSCH NT chisel coulter seeding technique allows a high proportion of fine soil in the seed row and the placement of the seed in a so-called " open furrow " .
+The agricultural origin makes HORSCH and products optimal solutions in hybrid agriculture .
+Electronics enable new functions in and around the machine year after year .
+The seed coulter forms a furrow and clearing clods of organic material from the seed horizon .
+All machines must be perfectly adapted to requirements ( soils , climate , farm sizes . . . ) in the field of hybrid agriculture .
+The seed was placed in a furrow and fixed in moist soil by the pressure roller .
+This means that field emergence is achieved even under extreme climatic conditions .
+The ISOBUS SectionControl function enables automatic individual segment lifting .
+In our industry , we are at the very beginning of the intelligent networking of functions , machines and services .
+It can sow in both cultivated and uncultivated soil and is ideal for direct sowing .
+The sprinter 24 NT achieved maximum performance thanks to its width and the matching 17 000 litre SW 17000 SD seed Hopper .
+The current position is determined via GPS.
+The 11 15 meter wide version has some special features .
+HORSCH intends to make even more consistent use of the resulting opportunities for optimizing work processes and information flows for customers in the future .
+That is even though we are working on the automation and connectivity of our machines with an enlarged development team in the field of systems engineering .
+This means that at field boundaries , headlands , overlaps or other defined areas , parallelograms are automatically lifted individually .
+Here the seed wagon and seeding unit are called a compact unit .
+Just as in tillage and crop protection , the seeding solutions HORSCH help you to make your individual requirements and goals in arable farming in the best possible way .
+The sprinter 11/15 NT also has a slightly smaller seed wagon with a capacity of 12 000 litres .
+We attach great importance to , reliability of components and functions .
+Farm specializations , farm expansions , farm communities : The structural change in agriculture is progressing rapidly and also presenting agricultural engineering with completely fresh tasks .
+We place the highest demands on our sowing machines-3-point machines , universal furrow/disc sowing technology , tine sowing technology and precision seed drills .
+Our goal is to continuously improve the ease of operation and productivity of HORSCH machines see electronics , software and telemetric data connections , while at the same time continually reducing electronics-related failures .
+Optimisation of soil cultivation , sowing and harvesting techniques as well as cost reduction are requirements-while at the same time increasing yields improving the quality of the harvested crop .
+This applies to research , design and development as well as to assembly , service and consulting .
+To ensure the smooth electronic coupling of our machine tractors and farm management software , we are together with many other agricultural machinery manufacturers in the AEF on the practical standardization of ISOBUS and data interfaces .
+We take the time for extensive studies , go once again with technology used on our own farms my with 6,000 in the field-to experience for ourselves what we are developing and what we are talking about .
+In the following we present some current and future functions and products from our electronics development areas of sowing technology , crop protection technology and telemetry .
+As a developer and pioneer , HORSCH has become one of the leading manufacturers of tillage in seed technology .
+We responsibility in agriculture and share the feelings of our customers-this is what we are passionate about .
+Innovative ideas an all from practice to practice-this is how technology systems and high-grade machines are created which correspond to the latest findings in terms of quality , robustness and durability .
+The agricultural origin is HORSCH its products in seeding technologies the optimal solution .
+The coulter pressure control HORSCH AutoForce allows the user a permanent , automatic adjustment of the coulter pressure according to pre-selected parameters .
+In addition , HORSCH advises companies on the development of individual management concepts and process chains-and , together with its sales and service partners , ensures seamless support , the fastest possible repairs and an immediate supply of spare parts .
+This continuously compensates for soil difference or varying soil conditions .
+All the machines on this can be perfectly adapted to hard requirements ( soils , climate , farm sizes . . . ) .
+Generation with seedbed preparation , sowing and fertilising be managed in one operation .
+When sowing row crops such as maize , sunflowers , soybeans or sugar beet , not only the distribution of the grains in the row but also the reliable observance of the placement depth is decisive for optimum yields in the respective location .
+This robust tine seeding drill has its strength above all in mulch sowing .
+Express KR combines proven HORSCH seeding technology with PTO driven tillage air Kredo power harrow .
+It enables intensive seedbed preparation under difficult conditions .
+The latter is ensured on the one hand by the arrangement of the depth control wheels directly next to the seed coulter and on the other hand stabilised by sufficient coulter pressure .
+The Kredo rotary harrow has 10 rotors m working width .
+It is designed for maximum stability even in stony soils .
+The sturdy frame construction with light-weight seed coulters and large-volume seed hoppers enables high acreage output with an optimum cost-benefit ratio .
+The HORSCH Maestro precision air seeder operates with a maximum coulter pressure of 350 ags per row .
+With the sprinter , you can only bundle many time-consuming processes into a single operation .
+It can be equipped with quick-change tines on tow or handle .
+Especially in the case of heterogeneous soil types and varying soil moisture , the question of the correct coulter pressure often arises in practice .
+At the same time you can increase the precision in seed placement and fertilisation .
+Tines with hard metal coating are available for maximum service life .
+Carefully working tyre Packers ensure an optimum soil contact with the seed .
+Here , the proven coating technology of the cultivator tine sector is used .
+The cultivator usually focuses on the most difficult soil type in the field and adjusts the coulter pressure in order to precisely maintain the desired placement depth and to ensure that the seed is pressed into the pre-consolidated horizon as optimally as possible .
+The use of the sprinter leads not only to significant cost savings but also to a more uniform field emergence and more resistant seedlings (HORSCH PPF system ) .
+The fine adjustment of the working depth of the power harrow is easily accessible and clearly visible from the outside .
+As a result , however , the coulter pressure in the other soil zones of the field is sometimes much too high , resulting in compaction or obstacles to the development of the crop when young .
+The sensor technology required for HORSCH AutoForce is located in the tandem connection of the depth guide wheels and measures the weight load on the depth guide rollers .
+The level barred can be adjusted just as easily .
+The weight is recorded by means of strain gauges and is fully integrated into the hardware and software of the HORSCH Maestro.
+In establishing this way , you create the ideal conditions for fully exploiting and securing the expected earnings potential .
+The Express KR has three packer variants .
+The basic design of the Focus of MT is based on the proven concept of the HORSCH Tiger MT.
+The control system itself permanently intervenes in the standard hydraulic coulter pressure system HORSCH Maestro.
+HORSCH AutoForce has been available as additional equipment since 2016 and is characterized by easy integration into the existing HORSCH Maestro single grain technology .
+The tool sequence starts with a 2-row heavy disc harrow for maximum chopping of crop residues and intensive mixing , followed by two rows of tines for intensive loosening and precise fertiliser placement .
+The tooth packer roller with a large 64 cm diameter is suitable for all conditions .
+It is the only system on the market that can guarantee the coulter pressure by hydraulic power transmission from the centre of the machine ( seed wagon ) to the outer wings over the entire work width as standard .
+It has a high load capacity even on front soils , which has a positive effect on tractive effort and diesel consumption .
+This makes automatic coulter pressure control very useful .
+ContourFarming have the automatic adjustment of the metering frequency corner over the entire machine working width .
+Before RingFlex the tyre packer , the disc leveled good unit effectively levels the surface .
+For crops such as maize , sunflowers or sugar beet , an optimum sowing rate or target stand density is specified by the breeder , depending on the variety of location , and is usually based on trials .
+The Focus MT can be used at all crops and crop residues .
+The trapezoidal ring packer has diameter for 50 cm for heavy soils with reconsolidation performance or 60 cm for varying soils from light to heavy with high load capacity requirements .
+Each variety has a certain tolerance range , e.g. from 60 000 to 75 000 plants per hectare .
+Can form a perfect seed furrow even under heavy and cohesive conditions .
+The seed rate should also be within this range at the headland or when cornering or turning .
+The frame height of 85 cm guarantees maximum passage for blockage-free working .
+The FarmFlex packer is particularly suitable for medium soils with low cohesion .
+Use without coulter cultivation for autumn tillage .
+The HORSCH Maestro series with its individually electrically driven metering units offers the ideal basis for integrating an automatic adjustment of the seed rate when cornering or curving .
+Perfect loosening and mixing for the following spring sowing .
+The robust rubber roller with a diameter of 54 cm produces a stripwise reconsolidation in groove form and reduces the crusting effect on the soil ( only available for Express 3 KR).
+In addition , it is possible to set up targeted fertilizer depots for corn , sunflowers and soybeans .
+With a line spacing of 35 cm , all row systems of 35 to 70 cm can be operated .
+Placing fertiliser in the autumn has the great advantage that the sensitive soils do not have to be worked deeply in the spring , but the effect of the targeted depot fertilisation can still be fully exploited .
+With the ContourFarming equipment , the Maestro 16, 24 and 36 SW are equipped with two additional radar sensors for speed detection , which are mounted on the opposite wing ends of the machine and record the speed there .
+The Focus TD represents a consistent further development of the "StripTill approach " .
+For more flexibility , the Express KR is available with single or double tank .
+Points such as targeted loosening in later row in combination with concentrated fertiliser placement were implemented with proven components and combined with the well-known Pronto sowing technique .
+With the double tank version , two components can be metered in the same seed flow and placed together in the seed furrow .
+A standard radar sensor is located in the middle of the machine .
+The adjustment of the sowing depth is done hydraulically and is staked with the well-known coloured aluminium clips .
+When the machine makes a turn , the radar sensor on the inside of the turn registers a slower speed and the radar sensor on the outside of the turn registers a higher speed .
+The new generation of AirVac AirSpeed dosing units are basically very similar in design and work according to the same dosing principle .
+As soon as this difference is greater than 0.6 km/h, each individual row motors of the metering units is automatically supplied with a other value corrected by the change in speed on the basis of a stored control curve .
+They are universally suitable for many crops for very precise grain separation .
+Express KR has a frame where the setting rotary harrow does not affect the sowing depth .
+With different metering discs , corn , sunflowers , sugar beets , soybeans and other types of beans as well as rapeseed and sorghum can be reliably separated .
+Measured in terms of the time unit , the machine thus places less seed in the rows on the inside of the curve and more seed on the outside of the curve , which means that the sowing rate per hectare remains constant .
+The TurboDisc coulters can be completely lifted hydraulically in order to be able to work solo with the power harrow .
+This process runs automatically and allows the yield potential of the respective plant to be optimally exploited .
+The AirVac system is based on the principle of vacuum singultation , in which the seed is sucked onto a perforated disc .
+In addition , the seeding unit can easily be detached from the power harrow via only 4 attachment points in order to use the Kredo individually .
+AutoSpeed is the only convenient solution for achieving consistent deposit accuracy at optimum rights-of-way speed .
+The AirSpeed system works according to the overpressure principle , in which grains are pressed against the perforated disc .
+The Express TD combines the advantages of the manoeuvrable 3-point seed bar with the power of the Pronto DC.
+In both feeders , the grains pass through the separator which ensures that double occupancy is eliminated .
+Varying soil conditions normally lead to different results I terms of sowing quality my (VC).
+The compact and smooth High-Speed drill thus ensures a noticeable increase in productivity .
+Using the AutoSpeed function , the driver specifies the desired deposit accuracy .
+The special feature of this particular component is that it does not have to be replaced when changing the crop and that no adjustment work needs to be carried out on it by the driver .
+The contour of the separate stop has been optimised to ensure reliable separation of all crops .
+The proven DiscSystem of the Express TD ensure perfect fine soil for production at speeds of 10-20 km/h.
+The transfer of the seed from the metering unit into the soil is the fundamental difference in the two new generations of metering units : After singling , the seed did the AirVac system is fed into the furrow bottom by means of a downpipe and pressed on the catcher roller as required .
+Now the Maestro transmits a varying target speed to the tractor , depending on whether the desired value is exceeded or not .
+Due to the intensive soil cultivation , a power take-off shaft can be dispensed with .
+In a way , the UK is kept as constant as possible .
+Today , those who create tramlines generally drive lane-to-lane despite the steering system , even if , for example , skipping the second lane would lead to an improved workflow .
+With the AirSpeed system , the separated grains are captured by the air stream , accelerated and shot with the air stream through a shot tube into the ground .
+Thanks to the large passage , 460 mm discs are insensitive even to high levels of organic material .
+Are intercepted and embedded by thee named catch roller .
+Tramline errors are also frequently caused by unintentional counting of the track numbers and e.g. at obstacles inside the loft .
+With both metering units , the grains pass through the grain sensor into the drop or shot tube for optimum monitoring of the sowing success .
+The working depth of the DiscSystem can optionally be adjusted hydraulically from the tractor .
+The sensor 's measuring technology is capable of counting grains , determining distances between grains and thus also transmits information to the driver with regard to old and missing grains .
+With HORSCH AutoLine, on the other hand , the positions of all other tramlines are automatically calculated on a satellite basis after the first tramline has been created .
+Uniform field emergence is now a prerequisite for an even crop .
+The transmitted values of the singling accuracy are clearly displayed on the terminal of the machine and additionally to the safety during sowing .
+To achieve this goal , optimal levelling and reconsolidation of the seedbed must be carried out .
+It is no longer necessary to follow the machine when sowing .
+The generation AirVac and AirSpeed feeders are electrically driven as standard and can be controlled individually on each row .
+The packer elements of the FarmFlex packer with 54 cm diameter are specially adapted to the seed coulters for this purpose .
+The technology allows the familiar functions of single row shutdown , SectionControl, VariableRate and tramline control .
+Whenever the machine enters a lane that should not contain a tramline , the tramline flaps are automatically actuated .
+For VariableRate, the metering systems are designed in such a way that the seed rate can be changed in relation to individual rows .
+Seed placement and embedding are a crucial factor in sowing .
+The prerequisite for using this function is the of a HORSCH Touch Terminal.
+Equally essential to success , however , is adherence to the optimal window for seeding .
+Starting in 2020, selected product families of HORSCH Universal drilling Technology will be available with the new RowControl distribution tower .
+In addition to high forward speeds of up to 20 km/h, the Pronto DC offers large seed hoppers for long ranges .
+In the case of tramline control , it is possible to individually adjust the sowing rate in the rows to the left and right of the tramline .
+All bearing points on the working tooling of the Pronto DC are designed without service points .
+With these advanced features , We full use of some of all the measures taken to increase precision during sowing .
+HORSCH took this approach years ago and , in addition to reduced effort for daily maintenance , it offers a high degree of operationalliabilities even under the most difficult conditions .
+The new double tank system MTS ( Main Tank Supply ) for the Maestro CV stores 3 000 litres of fertilisers and 800 litres of seed .
+Due to , use of singling row cut-off , overlaps and faults are now a thing of the past .
+Pronto SW concept promises maximum output for large farms after ploughing for mulch sowing .
+The combination of the large-volume HORSCH seed wagon (12 000 l for 8 and 9 SW, 17 000 l for 12 SW) with the Pronto sowing unit results in significant advantaging in terms of stability , accessibility and flexibility .
+Seeds , fertilizer and micro-granules an saved .
+This facilitates the calibration process , the adjustment of the machine as well as all low maintenance work .
+Unseeded strips can be precisely sown without having to accept overlaps or so high a cropping density .
+Tramlines can be switched on a single row of bases have any gauge and track width .
+The seed is continuously transported to the individual row units with the aid of MTS technology , it is separated by the AirVac metering unit .
+Thanks to the TurboDisc sowing coulter , speeds between 10 and 20 km/h are also possible here .
+The great advantage of MTS is the simple filling of the central seed Hopper with simultaneous separation of seed on the row by a short distance to the seed furrow .
+Insertion at the beginning of the field according to the specific pattern is no longer necessary .
+In both versions the fertiliser Hopper issue with the proven HORSCH metering technology and reliably and precisely operates the Maestro 's under-foot fertiliser system .
+Chassis and frame who sowing all units form a solid unit .
+The HORSCH RowControl distribution tower is able to shut off individual rows without affecting the lateral distribution of the machine due to its sophisticated seed and air guidance .
+In practice , however , depending on the application , it will make sense to combine individual rows into small sections .
+The Maestro coulter hitch can be fitted about 8 rows and 9 rows with 70 optical 70/80 cm and 30" row spacing .
+This is basically comparable to the Pronto 7 to 9 DC without seed tank .
+With the development of the RowControl distribution , the tower HORSCH continues to consistently join the path of strengthen precision in seeding .
+The discsystem and the TurboDisc seed bar are lifted by hydraulic cylinders .
+The rigid drawbar of the seed unit is carried by the seed wagon and follows the seed wagon like a 1-axle trailer .
+In application with 12 rows , distances 45 and 50 cm are available .
+The newly developed clamping profile allows the conversion from 12 to 8 rows .
+Despite the large width of 12 m , a transport width of 3 m is possible .
+After then good experiences in the field of crop protection , the intuitive operating logic of the HORSCH Leeb LT has been optimized and expanded for the field of seeding technology .
+With the I-Manager, HORSCH is gradually introducing a new ISOBUS operating concept for touch terminals .
+This self-developed system has many new and innovative functions that make it easier for the farmer to adjust , operate and monitor his technology .
+The new row body has a wide , stable parallelogram and is equipped as already standard with a hydraulic cylinder for coulter pressure generation .
+For example , in the future he can configure the display of the terminal interface according to his wishes .
+Due to the seed wagon concept , the filling leveling of the seed Hopper has no influence on the working depth of the sowing unit .
+With I-Manager hardware and software , a platform has been specifically created that can handle an almost unlimited number of sections and components in the dosing process .
+Coulter pressures of up to 350 kg per row can be used manually in the terminal or fully automatically with the innovative AutoForce coulter pressure control system .
+The HORSCH seed wagon concept provides large tank volumes with worker width of 8 m.
+The aim of this development is to introduce a fully diagnosable system to all areas of seeding technology in the future .
+The weight of the seed wagon is used to generate coulter pressure across the full width of the machine , relieving the load on the seed wagon wheels when sowing .
+Even without the filling auger , the filling openings of the seed wagon are very easy to reach , as the wings of the Pronto sowing unit do not interfere with the filling process .
+Thanks to the double tank system , fertiliser can be transported at the same time and incorporated directly into the soil via the PPF system (NOT with Pronto 12 SW 3 m transport width ) .
+In the future , HorschConnect will serve ' the network between the customer , the machine and the HORSCH.
+The AirVac dosing unit can be used universally for exact grain separation .
+This connectivity is possible about the SmartCan module , which will allow more and more HORSCH machines to be equipped with job computers in the future .
+With different metering discs , corn , sunflowers , sugar beets , soybeans and rapeseed can be reliably separated .
+The AirVac system is based on the principle of vacuum singultation , in which the seed is sucked onto a perforated disc .
+Data is available in the cloud or usable via WLAN for So mobile device (e.g. smartphone or tablet ) .
+A double drop gate below the dosing unit allows for mechanical or optionally electronic half-side switching .
+The grains are picked up by a scraper in the dosing process , which ensures double occupancies is eliminated .
+Avoid overlaps and save seed have fertiliser .
+A GPS receiver completes the various possibilities .
+The filling screw is optionally available .
+This is where HORSCH MobileControl come into play .
+The special feature of the AirVac scraper is that the user does not have to make any adjustments .
+With the help of this app , which is available for Android and iOS, the customer can access the recorded data directly with his smartphone .
+The Pronto 6 AS allows the use of the seed wagon with pre-implements in combination TurboDisc tyre packer combination or with the Maestro RV.
+The contouring of the scraper has been optimised to ensure reliable separation of all crops .
+The seed is fed from the AirVac metering unit through the furrow my , bottom my through the downpipe .
+MobileControl also enables the farmer to carry out machine functions such as calibration of HORSCH seed drills , nozzle tests on Leeb crop protection sprayer or single row tests on Maestro precision air seeders very easily with his mobile phone .
+If the TurboDisc coulter is used for drilling , high working speeds of up to 20 km/h and associated high acreage outputs are possible .
+A grain sensor is integrated what the downpipe for optimum monitoring of the sowing success .
+The proven Pronto principle of seedbed preparation , reconsolidation sowing ensures the highest precision seed placement and safe and high field emergence .
+Wireless software updates or remote diagnostics in case of error messages are also planned for the future with HorschConnect.
+Furthermore , datums exchange of various farm management systems will be possible .
+For sowing row crops (e.g. maize and start beeting ) a Pronto 6 AS can be combined with a Maestro RV.
+The sensor 's measurement technology was able to count grains , determine distances between , grains and thus provided the driver with information regarding the missing grains .
+The system will already be connected to the agrirouter for the Agritechnica 2019.
+The singling of the Maestro ensures that the crop is sown using the single grain method and the seed wagon of the Pronto 6 AS can be used for fertiliser .
+Additional benefits are provided by the front-mounted disc harrow for seedbed preparation and levelling of the tractor tracks .
+DKE GmbH is a consortium of various companies in the agricultural industry , in which HORSCH also participates .
+The transmitted values of singling accuracy are clearly displayed in the terminal of the machine and additionally increase the safety during sowing .
+The aim of this alliance is to develop an interface for data in order to transmit digital information wirelessly to participating partners .
+The AirVac separate stop is electrically driven as standard and can be controlled individually for each row .
+This technology allows the familiar functions of single row shutdown , SectionControl, and VariableRate and tramline control .
+The changes between the TurboDisc coulter attachment and the Maestro RV can be made very easily and quickly via the integrated 3-point interface of the Pronto 6 AS.
+For VariableRate, the AirVac system is designed so that the seed rate can be changed on a row-by-row basis .
+The agrirouter functions as a data hub and , HORSCH works on a machine-side interface in this .
+The pronto 6 AS can be equipped with a large single tank (3 500 l ) for long ranges .
+In the which of tramline control , it is possible to individually adjust the sowing rate in the rows to the left and right of the tramline .
+A double tank (5 000 l ) is available as an option for storing seed and fertiliser .
+With these advanced functions , measures for increased precision during sowing can be fully exploited .
+The fertiliser can be placed together with the seed ( G & F ) as a separate under-foot fertiliser (PPF) next to the row .
+In the future , this will make it possible , for example , to easily transfer application cards or orders from the PC in the office to the machine or back again .
+The compact unit Maestro DV consisting of a large volume seed wagon , a seed bar with 6 m working width and a precision seed bar with 8 row offers high performance with comparatively very low demands on the towing vehicle .
+The agrirouter did not store any data , but merely forward it .
+The chassis of the Pronto 6 AS is equipped with a separate axle .
+All turning operations and road transport are carried out on large-volume wheels about (800 45-26.5).
+By mounting a seed bar via a 4-point linkage , it is possible to mount a Pronto NT seed bar with 4 or 5 m width for broad sowing methods .
+In the working position , the wheels are completely lifted out in conjunction with the TurboDisc tyre packer combination so that the targeted reconsolidation with the tyre packer can take place .
+This allows the Maestro DV to be used even more universally and makes me an all-rounder among seed drills .
+In order to optimally meet all customer requirements , the Maestro DV seed wagon can be supplied in two configurations .
+When working with president Maestro RV, the traffic wheels reliably carry the weight of the seed wagon .
+When working with the Maestro DV with a Pronto NT seed bar , seed and fertiliser can be applied simultaneously in the 3 500 litre double tank as a grain & Fertiliser system in the seed slot .
